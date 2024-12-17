@@ -1,0 +1,1327 @@
+_id,co_mun,no_mun,ano,variavel,mei_categoria,mei_subcategoria,valor
+1,2700102,Água Branca,2010,MEI,Total,Total,1
+2,2700102,Água Branca,2011,MEI,Total,Total,14
+3,2700102,Água Branca,2012,MEI,Total,Total,35
+4,2700102,Água Branca,2013,MEI,Total,Total,76
+5,2700102,Água Branca,2014,MEI,Total,Total,98
+6,2700102,Água Branca,2015,MEI,Total,Total,106
+7,2700102,Água Branca,2016,MEI,Total,Total,128
+8,2700102,Água Branca,2017,MEI,Total,Total,145
+9,2700102,Água Branca,2018,MEI,Total,Total,140
+10,2700102,Água Branca,2019,MEI,Total,Total,165
+11,2700102,Água Branca,2020,MEI,Total,Total,185
+12,2700102,Água Branca,2021,MEI,Total,Total,214
+13,2700102,Água Branca,2022,MEI,Total,Total,239
+14,2700201,Anadia,2010,MEI,Total,Total,49
+15,2700201,Anadia,2011,MEI,Total,Total,73
+16,2700201,Anadia,2012,MEI,Total,Total,105
+17,2700201,Anadia,2013,MEI,Total,Total,130
+18,2700201,Anadia,2014,MEI,Total,Total,135
+19,2700201,Anadia,2015,MEI,Total,Total,158
+20,2700201,Anadia,2016,MEI,Total,Total,179
+21,2700201,Anadia,2017,MEI,Total,Total,196
+22,2700201,Anadia,2018,MEI,Total,Total,193
+23,2700201,Anadia,2019,MEI,Total,Total,206
+24,2700201,Anadia,2020,MEI,Total,Total,216
+25,2700201,Anadia,2021,MEI,Total,Total,242
+26,2700201,Anadia,2022,MEI,Total,Total,270
+27,2700300,Arapiraca,2010,MEI,Total,Total,698
+28,2700300,Arapiraca,2011,MEI,Total,Total,1659
+29,2700300,Arapiraca,2012,MEI,Total,Total,2897
+30,2700300,Arapiraca,2013,MEI,Total,Total,3772
+31,2700300,Arapiraca,2014,MEI,Total,Total,4328
+32,2700300,Arapiraca,2015,MEI,Total,Total,5129
+33,2700300,Arapiraca,2016,MEI,Total,Total,5851
+34,2700300,Arapiraca,2017,MEI,Total,Total,6492
+35,2700300,Arapiraca,2018,MEI,Total,Total,6240
+36,2700300,Arapiraca,2019,MEI,Total,Total,7491
+37,2700300,Arapiraca,2020,MEI,Total,Total,8948
+38,2700300,Arapiraca,2021,MEI,Total,Total,10818
+39,2700300,Arapiraca,2022,MEI,Total,Total,12105
+40,2700409,Atalaia,2010,MEI,Total,Total,82
+41,2700409,Atalaia,2011,MEI,Total,Total,159
+42,2700409,Atalaia,2012,MEI,Total,Total,254
+43,2700409,Atalaia,2013,MEI,Total,Total,367
+44,2700409,Atalaia,2014,MEI,Total,Total,488
+45,2700409,Atalaia,2015,MEI,Total,Total,599
+46,2700409,Atalaia,2016,MEI,Total,Total,660
+47,2700409,Atalaia,2017,MEI,Total,Total,733
+48,2700409,Atalaia,2018,MEI,Total,Total,679
+49,2700409,Atalaia,2019,MEI,Total,Total,749
+50,2700409,Atalaia,2020,MEI,Total,Total,876
+51,2700409,Atalaia,2021,MEI,Total,Total,1114
+52,2700409,Atalaia,2022,MEI,Total,Total,1258
+53,2700508,Barra de Santo Antônio,2010,MEI,Total,Total,38
+54,2700508,Barra de Santo Antônio,2011,MEI,Total,Total,77
+55,2700508,Barra de Santo Antônio,2012,MEI,Total,Total,123
+56,2700508,Barra de Santo Antônio,2013,MEI,Total,Total,199
+57,2700508,Barra de Santo Antônio,2014,MEI,Total,Total,230
+58,2700508,Barra de Santo Antônio,2015,MEI,Total,Total,262
+59,2700508,Barra de Santo Antônio,2016,MEI,Total,Total,301
+60,2700508,Barra de Santo Antônio,2017,MEI,Total,Total,353
+61,2700508,Barra de Santo Antônio,2018,MEI,Total,Total,346
+62,2700508,Barra de Santo Antônio,2019,MEI,Total,Total,399
+63,2700508,Barra de Santo Antônio,2020,MEI,Total,Total,436
+64,2700508,Barra de Santo Antônio,2021,MEI,Total,Total,521
+65,2700508,Barra de Santo Antônio,2022,MEI,Total,Total,603
+66,2700607,Barra de São Miguel,2010,MEI,Total,Total,19
+67,2700607,Barra de São Miguel,2011,MEI,Total,Total,46
+68,2700607,Barra de São Miguel,2012,MEI,Total,Total,67
+69,2700607,Barra de São Miguel,2013,MEI,Total,Total,97
+70,2700607,Barra de São Miguel,2014,MEI,Total,Total,143
+71,2700607,Barra de São Miguel,2015,MEI,Total,Total,169
+72,2700607,Barra de São Miguel,2016,MEI,Total,Total,187
+73,2700607,Barra de São Miguel,2017,MEI,Total,Total,233
+74,2700607,Barra de São Miguel,2018,MEI,Total,Total,218
+75,2700607,Barra de São Miguel,2019,MEI,Total,Total,284
+76,2700607,Barra de São Miguel,2020,MEI,Total,Total,369
+77,2700607,Barra de São Miguel,2021,MEI,Total,Total,461
+78,2700607,Barra de São Miguel,2022,MEI,Total,Total,511
+79,2700706,Batalha,2010,MEI,Total,Total,29
+80,2700706,Batalha,2011,MEI,Total,Total,62
+81,2700706,Batalha,2012,MEI,Total,Total,103
+82,2700706,Batalha,2013,MEI,Total,Total,144
+83,2700706,Batalha,2014,MEI,Total,Total,168
+84,2700706,Batalha,2015,MEI,Total,Total,195
+85,2700706,Batalha,2016,MEI,Total,Total,206
+86,2700706,Batalha,2017,MEI,Total,Total,237
+87,2700706,Batalha,2018,MEI,Total,Total,238
+88,2700706,Batalha,2019,MEI,Total,Total,264
+89,2700706,Batalha,2020,MEI,Total,Total,309
+90,2700706,Batalha,2021,MEI,Total,Total,349
+91,2700706,Batalha,2022,MEI,Total,Total,369
+92,2700805,Belém,2010,MEI,Total,Total,4
+93,2700805,Belém,2011,MEI,Total,Total,7
+94,2700805,Belém,2012,MEI,Total,Total,17
+95,2700805,Belém,2013,MEI,Total,Total,17
+96,2700805,Belém,2014,MEI,Total,Total,20
+97,2700805,Belém,2015,MEI,Total,Total,32
+98,2700805,Belém,2016,MEI,Total,Total,38
+99,2700805,Belém,2017,MEI,Total,Total,49
+100,2700805,Belém,2018,MEI,Total,Total,53
+101,2700805,Belém,2019,MEI,Total,Total,59
+102,2700805,Belém,2020,MEI,Total,Total,74
+103,2700805,Belém,2021,MEI,Total,Total,89
+104,2700805,Belém,2022,MEI,Total,Total,105
+105,2700904,Belo Monte,2010,MEI,Total,Total,2
+106,2700904,Belo Monte,2011,MEI,Total,Total,62
+107,2700904,Belo Monte,2012,MEI,Total,Total,64
+108,2700904,Belo Monte,2013,MEI,Total,Total,65
+109,2700904,Belo Monte,2014,MEI,Total,Total,45
+110,2700904,Belo Monte,2015,MEI,Total,Total,52
+111,2700904,Belo Monte,2016,MEI,Total,Total,55
+112,2700904,Belo Monte,2017,MEI,Total,Total,61
+113,2700904,Belo Monte,2018,MEI,Total,Total,49
+114,2700904,Belo Monte,2019,MEI,Total,Total,49
+115,2700904,Belo Monte,2020,MEI,Total,Total,56
+116,2700904,Belo Monte,2021,MEI,Total,Total,65
+117,2700904,Belo Monte,2022,MEI,Total,Total,81
+118,2701001,Boca da Mata,2010,MEI,Total,Total,44
+119,2701001,Boca da Mata,2011,MEI,Total,Total,166
+120,2701001,Boca da Mata,2012,MEI,Total,Total,256
+121,2701001,Boca da Mata,2013,MEI,Total,Total,313
+122,2701001,Boca da Mata,2014,MEI,Total,Total,360
+123,2701001,Boca da Mata,2015,MEI,Total,Total,429
+124,2701001,Boca da Mata,2016,MEI,Total,Total,436
+125,2701001,Boca da Mata,2017,MEI,Total,Total,483
+126,2701001,Boca da Mata,2018,MEI,Total,Total,472
+127,2701001,Boca da Mata,2019,MEI,Total,Total,572
+128,2701001,Boca da Mata,2020,MEI,Total,Total,649
+129,2701001,Boca da Mata,2021,MEI,Total,Total,742
+130,2701001,Boca da Mata,2022,MEI,Total,Total,802
+131,2701100,Branquinha,2010,MEI,Total,Total,96
+132,2701100,Branquinha,2011,MEI,Total,Total,113
+133,2701100,Branquinha,2012,MEI,Total,Total,129
+134,2701100,Branquinha,2013,MEI,Total,Total,147
+135,2701100,Branquinha,2014,MEI,Total,Total,169
+136,2701100,Branquinha,2015,MEI,Total,Total,176
+137,2701100,Branquinha,2016,MEI,Total,Total,173
+138,2701100,Branquinha,2017,MEI,Total,Total,183
+139,2701100,Branquinha,2018,MEI,Total,Total,152
+140,2701100,Branquinha,2019,MEI,Total,Total,173
+141,2701100,Branquinha,2020,MEI,Total,Total,193
+142,2701100,Branquinha,2021,MEI,Total,Total,214
+143,2701100,Branquinha,2022,MEI,Total,Total,225
+144,2701209,Cacimbinhas,2010,MEI,Total,Total,1
+145,2701209,Cacimbinhas,2011,MEI,Total,Total,10
+146,2701209,Cacimbinhas,2012,MEI,Total,Total,25
+147,2701209,Cacimbinhas,2013,MEI,Total,Total,49
+148,2701209,Cacimbinhas,2014,MEI,Total,Total,59
+149,2701209,Cacimbinhas,2015,MEI,Total,Total,76
+150,2701209,Cacimbinhas,2016,MEI,Total,Total,83
+151,2701209,Cacimbinhas,2017,MEI,Total,Total,100
+152,2701209,Cacimbinhas,2018,MEI,Total,Total,123
+153,2701209,Cacimbinhas,2019,MEI,Total,Total,149
+154,2701209,Cacimbinhas,2020,MEI,Total,Total,180
+155,2701209,Cacimbinhas,2021,MEI,Total,Total,209
+156,2701209,Cacimbinhas,2022,MEI,Total,Total,238
+157,2701308,Cajueiro,2010,MEI,Total,Total,119
+158,2701308,Cajueiro,2011,MEI,Total,Total,162
+159,2701308,Cajueiro,2012,MEI,Total,Total,231
+160,2701308,Cajueiro,2013,MEI,Total,Total,286
+161,2701308,Cajueiro,2014,MEI,Total,Total,380
+162,2701308,Cajueiro,2015,MEI,Total,Total,425
+163,2701308,Cajueiro,2016,MEI,Total,Total,456
+164,2701308,Cajueiro,2017,MEI,Total,Total,481
+165,2701308,Cajueiro,2018,MEI,Total,Total,408
+166,2701308,Cajueiro,2019,MEI,Total,Total,458
+167,2701308,Cajueiro,2020,MEI,Total,Total,504
+168,2701308,Cajueiro,2021,MEI,Total,Total,567
+169,2701308,Cajueiro,2022,MEI,Total,Total,596
+170,2701357,Campestre,2010,MEI,Total,Total,20
+171,2701357,Campestre,2011,MEI,Total,Total,37
+172,2701357,Campestre,2012,MEI,Total,Total,61
+173,2701357,Campestre,2013,MEI,Total,Total,74
+174,2701357,Campestre,2014,MEI,Total,Total,79
+175,2701357,Campestre,2015,MEI,Total,Total,84
+176,2701357,Campestre,2016,MEI,Total,Total,92
+177,2701357,Campestre,2017,MEI,Total,Total,96
+178,2701357,Campestre,2018,MEI,Total,Total,79
+179,2701357,Campestre,2019,MEI,Total,Total,90
+180,2701357,Campestre,2020,MEI,Total,Total,107
+181,2701357,Campestre,2021,MEI,Total,Total,126
+182,2701357,Campestre,2022,MEI,Total,Total,134
+183,2701407,Campo Alegre,2010,MEI,Total,Total,45
+184,2701407,Campo Alegre,2011,MEI,Total,Total,92
+185,2701407,Campo Alegre,2012,MEI,Total,Total,162
+186,2701407,Campo Alegre,2013,MEI,Total,Total,251
+187,2701407,Campo Alegre,2014,MEI,Total,Total,465
+188,2701407,Campo Alegre,2015,MEI,Total,Total,578
+189,2701407,Campo Alegre,2016,MEI,Total,Total,625
+190,2701407,Campo Alegre,2017,MEI,Total,Total,686
+191,2701407,Campo Alegre,2018,MEI,Total,Total,693
+192,2701407,Campo Alegre,2019,MEI,Total,Total,932
+193,2701407,Campo Alegre,2020,MEI,Total,Total,1194
+194,2701407,Campo Alegre,2021,MEI,Total,Total,1382
+195,2701407,Campo Alegre,2022,MEI,Total,Total,1527
+196,2701506,Campo Grande,2010,MEI,Total,Total,3
+197,2701506,Campo Grande,2011,MEI,Total,Total,10
+198,2701506,Campo Grande,2012,MEI,Total,Total,18
+199,2701506,Campo Grande,2013,MEI,Total,Total,23
+200,2701506,Campo Grande,2014,MEI,Total,Total,35
+201,2701506,Campo Grande,2015,MEI,Total,Total,41
+202,2701506,Campo Grande,2016,MEI,Total,Total,52
+203,2701506,Campo Grande,2017,MEI,Total,Total,54
+204,2701506,Campo Grande,2018,MEI,Total,Total,54
+205,2701506,Campo Grande,2019,MEI,Total,Total,65
+206,2701506,Campo Grande,2020,MEI,Total,Total,75
+207,2701506,Campo Grande,2021,MEI,Total,Total,92
+208,2701506,Campo Grande,2022,MEI,Total,Total,101
+209,2701605,Canapi,2010,MEI,Total,Total,1
+210,2701605,Canapi,2011,MEI,Total,Total,11
+211,2701605,Canapi,2012,MEI,Total,Total,24
+212,2701605,Canapi,2013,MEI,Total,Total,33
+213,2701605,Canapi,2014,MEI,Total,Total,38
+214,2701605,Canapi,2015,MEI,Total,Total,45
+215,2701605,Canapi,2016,MEI,Total,Total,67
+216,2701605,Canapi,2017,MEI,Total,Total,77
+217,2701605,Canapi,2018,MEI,Total,Total,90
+218,2701605,Canapi,2019,MEI,Total,Total,115
+219,2701605,Canapi,2020,MEI,Total,Total,133
+220,2701605,Canapi,2021,MEI,Total,Total,141
+221,2701605,Canapi,2022,MEI,Total,Total,150
+222,2701704,Capela,2010,MEI,Total,Total,69
+223,2701704,Capela,2011,MEI,Total,Total,97
+224,2701704,Capela,2012,MEI,Total,Total,136
+225,2701704,Capela,2013,MEI,Total,Total,214
+226,2701704,Capela,2014,MEI,Total,Total,292
+227,2701704,Capela,2015,MEI,Total,Total,333
+228,2701704,Capela,2016,MEI,Total,Total,377
+229,2701704,Capela,2017,MEI,Total,Total,418
+230,2701704,Capela,2018,MEI,Total,Total,333
+231,2701704,Capela,2019,MEI,Total,Total,363
+232,2701704,Capela,2020,MEI,Total,Total,442
+233,2701704,Capela,2021,MEI,Total,Total,526
+234,2701704,Capela,2022,MEI,Total,Total,561
+235,2701803,Carneiros,2010,MEI,Total,Total,1
+236,2701803,Carneiros,2011,MEI,Total,Total,3
+237,2701803,Carneiros,2012,MEI,Total,Total,12
+238,2701803,Carneiros,2013,MEI,Total,Total,36
+239,2701803,Carneiros,2014,MEI,Total,Total,39
+240,2701803,Carneiros,2015,MEI,Total,Total,45
+241,2701803,Carneiros,2016,MEI,Total,Total,66
+242,2701803,Carneiros,2017,MEI,Total,Total,82
+243,2701803,Carneiros,2018,MEI,Total,Total,81
+244,2701803,Carneiros,2019,MEI,Total,Total,106
+245,2701803,Carneiros,2020,MEI,Total,Total,113
+246,2701803,Carneiros,2021,MEI,Total,Total,128
+247,2701803,Carneiros,2022,MEI,Total,Total,140
+248,2701902,Chã Preta,2010,MEI,Total,Total,9
+249,2701902,Chã Preta,2011,MEI,Total,Total,18
+250,2701902,Chã Preta,2012,MEI,Total,Total,28
+251,2701902,Chã Preta,2013,MEI,Total,Total,35
+252,2701902,Chã Preta,2014,MEI,Total,Total,40
+253,2701902,Chã Preta,2015,MEI,Total,Total,50
+254,2701902,Chã Preta,2016,MEI,Total,Total,56
+255,2701902,Chã Preta,2017,MEI,Total,Total,59
+256,2701902,Chã Preta,2018,MEI,Total,Total,59
+257,2701902,Chã Preta,2019,MEI,Total,Total,63
+258,2701902,Chã Preta,2020,MEI,Total,Total,75
+259,2701902,Chã Preta,2021,MEI,Total,Total,117
+260,2701902,Chã Preta,2022,MEI,Total,Total,125
+261,2702009,Coité do Nóia,2010,MEI,Total,Total,4
+262,2702009,Coité do Nóia,2011,MEI,Total,Total,10
+263,2702009,Coité do Nóia,2012,MEI,Total,Total,31
+264,2702009,Coité do Nóia,2013,MEI,Total,Total,48
+265,2702009,Coité do Nóia,2014,MEI,Total,Total,51
+266,2702009,Coité do Nóia,2015,MEI,Total,Total,53
+267,2702009,Coité do Nóia,2016,MEI,Total,Total,64
+268,2702009,Coité do Nóia,2017,MEI,Total,Total,64
+269,2702009,Coité do Nóia,2018,MEI,Total,Total,56
+270,2702009,Coité do Nóia,2019,MEI,Total,Total,67
+271,2702009,Coité do Nóia,2020,MEI,Total,Total,87
+272,2702009,Coité do Nóia,2021,MEI,Total,Total,119
+273,2702009,Coité do Nóia,2022,MEI,Total,Total,126
+274,2702108,Colônia Leopoldina,2010,MEI,Total,Total,32
+275,2702108,Colônia Leopoldina,2011,MEI,Total,Total,59
+276,2702108,Colônia Leopoldina,2012,MEI,Total,Total,104
+277,2702108,Colônia Leopoldina,2013,MEI,Total,Total,149
+278,2702108,Colônia Leopoldina,2014,MEI,Total,Total,185
+279,2702108,Colônia Leopoldina,2015,MEI,Total,Total,235
+280,2702108,Colônia Leopoldina,2016,MEI,Total,Total,268
+281,2702108,Colônia Leopoldina,2017,MEI,Total,Total,291
+282,2702108,Colônia Leopoldina,2018,MEI,Total,Total,276
+283,2702108,Colônia Leopoldina,2019,MEI,Total,Total,303
+284,2702108,Colônia Leopoldina,2020,MEI,Total,Total,356
+285,2702108,Colônia Leopoldina,2021,MEI,Total,Total,409
+286,2702108,Colônia Leopoldina,2022,MEI,Total,Total,445
+287,2702207,Coqueiro Seco,2010,MEI,Total,Total,7
+288,2702207,Coqueiro Seco,2011,MEI,Total,Total,18
+289,2702207,Coqueiro Seco,2012,MEI,Total,Total,33
+290,2702207,Coqueiro Seco,2013,MEI,Total,Total,42
+291,2702207,Coqueiro Seco,2014,MEI,Total,Total,63
+292,2702207,Coqueiro Seco,2015,MEI,Total,Total,103
+293,2702207,Coqueiro Seco,2016,MEI,Total,Total,113
+294,2702207,Coqueiro Seco,2017,MEI,Total,Total,123
+295,2702207,Coqueiro Seco,2018,MEI,Total,Total,147
+296,2702207,Coqueiro Seco,2019,MEI,Total,Total,176
+297,2702207,Coqueiro Seco,2020,MEI,Total,Total,203
+298,2702207,Coqueiro Seco,2021,MEI,Total,Total,225
+299,2702207,Coqueiro Seco,2022,MEI,Total,Total,241
+300,2702306,Coruripe,2010,MEI,Total,Total,120
+301,2702306,Coruripe,2011,MEI,Total,Total,346
+302,2702306,Coruripe,2012,MEI,Total,Total,539
+303,2702306,Coruripe,2013,MEI,Total,Total,728
+304,2702306,Coruripe,2014,MEI,Total,Total,925
+305,2702306,Coruripe,2015,MEI,Total,Total,1042
+306,2702306,Coruripe,2016,MEI,Total,Total,1147
+307,2702306,Coruripe,2017,MEI,Total,Total,1274
+308,2702306,Coruripe,2018,MEI,Total,Total,1277
+309,2702306,Coruripe,2019,MEI,Total,Total,1487
+310,2702306,Coruripe,2020,MEI,Total,Total,1678
+311,2702306,Coruripe,2021,MEI,Total,Total,2174
+312,2702306,Coruripe,2022,MEI,Total,Total,2377
+313,2702355,Craíbas,2010,MEI,Total,Total,11
+314,2702355,Craíbas,2011,MEI,Total,Total,43
+315,2702355,Craíbas,2012,MEI,Total,Total,68
+316,2702355,Craíbas,2013,MEI,Total,Total,103
+317,2702355,Craíbas,2014,MEI,Total,Total,112
+318,2702355,Craíbas,2015,MEI,Total,Total,144
+319,2702355,Craíbas,2016,MEI,Total,Total,184
+320,2702355,Craíbas,2017,MEI,Total,Total,188
+321,2702355,Craíbas,2018,MEI,Total,Total,189
+322,2702355,Craíbas,2019,MEI,Total,Total,250
+323,2702355,Craíbas,2020,MEI,Total,Total,294
+324,2702355,Craíbas,2021,MEI,Total,Total,375
+325,2702355,Craíbas,2022,MEI,Total,Total,421
+326,2702405,Delmiro Gouveia,2010,MEI,Total,Total,89
+327,2702405,Delmiro Gouveia,2011,MEI,Total,Total,188
+328,2702405,Delmiro Gouveia,2012,MEI,Total,Total,454
+329,2702405,Delmiro Gouveia,2013,MEI,Total,Total,657
+330,2702405,Delmiro Gouveia,2014,MEI,Total,Total,889
+331,2702405,Delmiro Gouveia,2015,MEI,Total,Total,1047
+332,2702405,Delmiro Gouveia,2016,MEI,Total,Total,1158
+333,2702405,Delmiro Gouveia,2017,MEI,Total,Total,1266
+334,2702405,Delmiro Gouveia,2018,MEI,Total,Total,1238
+335,2702405,Delmiro Gouveia,2019,MEI,Total,Total,1425
+336,2702405,Delmiro Gouveia,2020,MEI,Total,Total,1600
+337,2702405,Delmiro Gouveia,2021,MEI,Total,Total,1798
+338,2702405,Delmiro Gouveia,2022,MEI,Total,Total,1978
+339,2702504,Dois Riachos,2010,MEI,Total,Total,1
+340,2702504,Dois Riachos,2011,MEI,Total,Total,10
+341,2702504,Dois Riachos,2012,MEI,Total,Total,30
+342,2702504,Dois Riachos,2013,MEI,Total,Total,52
+343,2702504,Dois Riachos,2014,MEI,Total,Total,80
+344,2702504,Dois Riachos,2015,MEI,Total,Total,103
+345,2702504,Dois Riachos,2016,MEI,Total,Total,111
+346,2702504,Dois Riachos,2017,MEI,Total,Total,117
+347,2702504,Dois Riachos,2018,MEI,Total,Total,112
+348,2702504,Dois Riachos,2019,MEI,Total,Total,126
+349,2702504,Dois Riachos,2020,MEI,Total,Total,147
+350,2702504,Dois Riachos,2021,MEI,Total,Total,183
+351,2702504,Dois Riachos,2022,MEI,Total,Total,196
+352,2702553,Estrela de Alagoas,2010,MEI,Total,Total,1
+353,2702553,Estrela de Alagoas,2011,MEI,Total,Total,8
+354,2702553,Estrela de Alagoas,2012,MEI,Total,Total,18
+355,2702553,Estrela de Alagoas,2013,MEI,Total,Total,30
+356,2702553,Estrela de Alagoas,2014,MEI,Total,Total,39
+357,2702553,Estrela de Alagoas,2015,MEI,Total,Total,71
+358,2702553,Estrela de Alagoas,2016,MEI,Total,Total,98
+359,2702553,Estrela de Alagoas,2017,MEI,Total,Total,115
+360,2702553,Estrela de Alagoas,2018,MEI,Total,Total,114
+361,2702553,Estrela de Alagoas,2019,MEI,Total,Total,133
+362,2702553,Estrela de Alagoas,2020,MEI,Total,Total,149
+363,2702553,Estrela de Alagoas,2021,MEI,Total,Total,168
+364,2702553,Estrela de Alagoas,2022,MEI,Total,Total,198
+365,2702603,Feira Grande,2010,MEI,Total,Total,15
+366,2702603,Feira Grande,2011,MEI,Total,Total,27
+367,2702603,Feira Grande,2012,MEI,Total,Total,45
+368,2702603,Feira Grande,2013,MEI,Total,Total,71
+369,2702603,Feira Grande,2014,MEI,Total,Total,81
+370,2702603,Feira Grande,2015,MEI,Total,Total,120
+371,2702603,Feira Grande,2016,MEI,Total,Total,119
+372,2702603,Feira Grande,2017,MEI,Total,Total,130
+373,2702603,Feira Grande,2018,MEI,Total,Total,125
+374,2702603,Feira Grande,2019,MEI,Total,Total,158
+375,2702603,Feira Grande,2020,MEI,Total,Total,195
+376,2702603,Feira Grande,2021,MEI,Total,Total,244
+377,2702603,Feira Grande,2022,MEI,Total,Total,276
+378,2702702,Feliz Deserto,2010,MEI,Total,Total,9
+379,2702702,Feliz Deserto,2011,MEI,Total,Total,26
+380,2702702,Feliz Deserto,2012,MEI,Total,Total,41
+381,2702702,Feliz Deserto,2013,MEI,Total,Total,68
+382,2702702,Feliz Deserto,2014,MEI,Total,Total,78
+383,2702702,Feliz Deserto,2015,MEI,Total,Total,94
+384,2702702,Feliz Deserto,2016,MEI,Total,Total,99
+385,2702702,Feliz Deserto,2017,MEI,Total,Total,117
+386,2702702,Feliz Deserto,2018,MEI,Total,Total,109
+387,2702702,Feliz Deserto,2019,MEI,Total,Total,122
+388,2702702,Feliz Deserto,2020,MEI,Total,Total,143
+389,2702702,Feliz Deserto,2021,MEI,Total,Total,150
+390,2702702,Feliz Deserto,2022,MEI,Total,Total,157
+391,2702801,Flexeiras,2010,MEI,Total,Total,10
+392,2702801,Flexeiras,2011,MEI,Total,Total,26
+393,2702801,Flexeiras,2012,MEI,Total,Total,49
+394,2702801,Flexeiras,2013,MEI,Total,Total,56
+395,2702801,Flexeiras,2014,MEI,Total,Total,74
+396,2702801,Flexeiras,2015,MEI,Total,Total,98
+397,2702801,Flexeiras,2016,MEI,Total,Total,111
+398,2702801,Flexeiras,2017,MEI,Total,Total,125
+399,2702801,Flexeiras,2018,MEI,Total,Total,133
+400,2702801,Flexeiras,2019,MEI,Total,Total,157
+401,2702801,Flexeiras,2020,MEI,Total,Total,185
+402,2702801,Flexeiras,2021,MEI,Total,Total,217
+403,2702801,Flexeiras,2022,MEI,Total,Total,249
+404,2702900,Girau do Ponciano,2010,MEI,Total,Total,44
+405,2702900,Girau do Ponciano,2011,MEI,Total,Total,80
+406,2702900,Girau do Ponciano,2012,MEI,Total,Total,124
+407,2702900,Girau do Ponciano,2013,MEI,Total,Total,159
+408,2702900,Girau do Ponciano,2014,MEI,Total,Total,198
+409,2702900,Girau do Ponciano,2015,MEI,Total,Total,243
+410,2702900,Girau do Ponciano,2016,MEI,Total,Total,274
+411,2702900,Girau do Ponciano,2017,MEI,Total,Total,308
+412,2702900,Girau do Ponciano,2018,MEI,Total,Total,278
+413,2702900,Girau do Ponciano,2019,MEI,Total,Total,327
+414,2702900,Girau do Ponciano,2020,MEI,Total,Total,391
+415,2702900,Girau do Ponciano,2021,MEI,Total,Total,568
+416,2702900,Girau do Ponciano,2022,MEI,Total,Total,591
+417,2703007,Ibateguara,2010,MEI,Total,Total,41
+418,2703007,Ibateguara,2011,MEI,Total,Total,70
+419,2703007,Ibateguara,2012,MEI,Total,Total,102
+420,2703007,Ibateguara,2013,MEI,Total,Total,144
+421,2703007,Ibateguara,2014,MEI,Total,Total,166
+422,2703007,Ibateguara,2015,MEI,Total,Total,191
+423,2703007,Ibateguara,2016,MEI,Total,Total,217
+424,2703007,Ibateguara,2017,MEI,Total,Total,226
+425,2703007,Ibateguara,2018,MEI,Total,Total,225
+426,2703007,Ibateguara,2019,MEI,Total,Total,252
+427,2703007,Ibateguara,2020,MEI,Total,Total,305
+428,2703007,Ibateguara,2021,MEI,Total,Total,337
+429,2703007,Ibateguara,2022,MEI,Total,Total,341
+430,2703106,Igaci,2010,MEI,Total,Total,15
+431,2703106,Igaci,2011,MEI,Total,Total,34
+432,2703106,Igaci,2012,MEI,Total,Total,56
+433,2703106,Igaci,2013,MEI,Total,Total,92
+434,2703106,Igaci,2014,MEI,Total,Total,123
+435,2703106,Igaci,2015,MEI,Total,Total,147
+436,2703106,Igaci,2016,MEI,Total,Total,176
+437,2703106,Igaci,2017,MEI,Total,Total,209
+438,2703106,Igaci,2018,MEI,Total,Total,215
+439,2703106,Igaci,2019,MEI,Total,Total,258
+440,2703106,Igaci,2020,MEI,Total,Total,296
+441,2703106,Igaci,2021,MEI,Total,Total,328
+442,2703106,Igaci,2022,MEI,Total,Total,350
+443,2703205,Igreja Nova,2010,MEI,Total,Total,11
+444,2703205,Igreja Nova,2011,MEI,Total,Total,40
+445,2703205,Igreja Nova,2012,MEI,Total,Total,72
+446,2703205,Igreja Nova,2013,MEI,Total,Total,134
+447,2703205,Igreja Nova,2014,MEI,Total,Total,171
+448,2703205,Igreja Nova,2015,MEI,Total,Total,188
+449,2703205,Igreja Nova,2016,MEI,Total,Total,184
+450,2703205,Igreja Nova,2017,MEI,Total,Total,215
+451,2703205,Igreja Nova,2018,MEI,Total,Total,194
+452,2703205,Igreja Nova,2019,MEI,Total,Total,231
+453,2703205,Igreja Nova,2020,MEI,Total,Total,254
+454,2703205,Igreja Nova,2021,MEI,Total,Total,284
+455,2703205,Igreja Nova,2022,MEI,Total,Total,294
+456,2703304,Inhapi,2010,MEI,Total,Total,10
+457,2703304,Inhapi,2011,MEI,Total,Total,27
+458,2703304,Inhapi,2012,MEI,Total,Total,46
+459,2703304,Inhapi,2013,MEI,Total,Total,66
+460,2703304,Inhapi,2014,MEI,Total,Total,72
+461,2703304,Inhapi,2015,MEI,Total,Total,86
+462,2703304,Inhapi,2016,MEI,Total,Total,136
+463,2703304,Inhapi,2017,MEI,Total,Total,143
+464,2703304,Inhapi,2018,MEI,Total,Total,134
+465,2703304,Inhapi,2019,MEI,Total,Total,150
+466,2703304,Inhapi,2020,MEI,Total,Total,177
+467,2703304,Inhapi,2021,MEI,Total,Total,205
+468,2703304,Inhapi,2022,MEI,Total,Total,232
+469,2703403,Jacaré dos Homens,2010,MEI,Total,Total,5
+470,2703403,Jacaré dos Homens,2011,MEI,Total,Total,13
+471,2703403,Jacaré dos Homens,2012,MEI,Total,Total,23
+472,2703403,Jacaré dos Homens,2013,MEI,Total,Total,35
+473,2703403,Jacaré dos Homens,2014,MEI,Total,Total,43
+474,2703403,Jacaré dos Homens,2015,MEI,Total,Total,49
+475,2703403,Jacaré dos Homens,2016,MEI,Total,Total,50
+476,2703403,Jacaré dos Homens,2017,MEI,Total,Total,52
+477,2703403,Jacaré dos Homens,2018,MEI,Total,Total,38
+478,2703403,Jacaré dos Homens,2019,MEI,Total,Total,46
+479,2703403,Jacaré dos Homens,2020,MEI,Total,Total,64
+480,2703403,Jacaré dos Homens,2021,MEI,Total,Total,77
+481,2703403,Jacaré dos Homens,2022,MEI,Total,Total,83
+482,2703502,Jacuípe,2010,MEI,Total,Total,15
+483,2703502,Jacuípe,2011,MEI,Total,Total,41
+484,2703502,Jacuípe,2012,MEI,Total,Total,50
+485,2703502,Jacuípe,2013,MEI,Total,Total,54
+486,2703502,Jacuípe,2014,MEI,Total,Total,55
+487,2703502,Jacuípe,2015,MEI,Total,Total,58
+488,2703502,Jacuípe,2016,MEI,Total,Total,62
+489,2703502,Jacuípe,2017,MEI,Total,Total,68
+490,2703502,Jacuípe,2018,MEI,Total,Total,42
+491,2703502,Jacuípe,2019,MEI,Total,Total,55
+492,2703502,Jacuípe,2020,MEI,Total,Total,59
+493,2703502,Jacuípe,2021,MEI,Total,Total,65
+494,2703502,Jacuípe,2022,MEI,Total,Total,78
+495,2703601,Japaratinga,2010,MEI,Total,Total,10
+496,2703601,Japaratinga,2011,MEI,Total,Total,29
+497,2703601,Japaratinga,2012,MEI,Total,Total,45
+498,2703601,Japaratinga,2013,MEI,Total,Total,89
+499,2703601,Japaratinga,2014,MEI,Total,Total,104
+500,2703601,Japaratinga,2015,MEI,Total,Total,123
+501,2703601,Japaratinga,2016,MEI,Total,Total,138
+502,2703601,Japaratinga,2017,MEI,Total,Total,170
+503,2703601,Japaratinga,2018,MEI,Total,Total,157
+504,2703601,Japaratinga,2019,MEI,Total,Total,208
+505,2703601,Japaratinga,2020,MEI,Total,Total,242
+506,2703601,Japaratinga,2021,MEI,Total,Total,276
+507,2703601,Japaratinga,2022,MEI,Total,Total,317
+508,2703700,Jaramataia,2010,MEI,Total,Total,1
+509,2703700,Jaramataia,2011,MEI,Total,Total,7
+510,2703700,Jaramataia,2012,MEI,Total,Total,12
+511,2703700,Jaramataia,2013,MEI,Total,Total,14
+512,2703700,Jaramataia,2014,MEI,Total,Total,21
+513,2703700,Jaramataia,2015,MEI,Total,Total,26
+514,2703700,Jaramataia,2016,MEI,Total,Total,30
+515,2703700,Jaramataia,2017,MEI,Total,Total,36
+516,2703700,Jaramataia,2018,MEI,Total,Total,38
+517,2703700,Jaramataia,2019,MEI,Total,Total,45
+518,2703700,Jaramataia,2020,MEI,Total,Total,72
+519,2703700,Jaramataia,2021,MEI,Total,Total,74
+520,2703700,Jaramataia,2022,MEI,Total,Total,76
+521,2703759,Jequiá da Praia,2010,MEI,Total,Total,12
+522,2703759,Jequiá da Praia,2011,MEI,Total,Total,58
+523,2703759,Jequiá da Praia,2012,MEI,Total,Total,89
+524,2703759,Jequiá da Praia,2013,MEI,Total,Total,133
+525,2703759,Jequiá da Praia,2014,MEI,Total,Total,170
+526,2703759,Jequiá da Praia,2015,MEI,Total,Total,211
+527,2703759,Jequiá da Praia,2016,MEI,Total,Total,230
+528,2703759,Jequiá da Praia,2017,MEI,Total,Total,260
+529,2703759,Jequiá da Praia,2018,MEI,Total,Total,274
+530,2703759,Jequiá da Praia,2019,MEI,Total,Total,329
+531,2703759,Jequiá da Praia,2020,MEI,Total,Total,369
+532,2703759,Jequiá da Praia,2021,MEI,Total,Total,476
+533,2703759,Jequiá da Praia,2022,MEI,Total,Total,512
+534,2703809,Joaquim Gomes,2010,MEI,Total,Total,23
+535,2703809,Joaquim Gomes,2011,MEI,Total,Total,46
+536,2703809,Joaquim Gomes,2012,MEI,Total,Total,67
+537,2703809,Joaquim Gomes,2013,MEI,Total,Total,98
+538,2703809,Joaquim Gomes,2014,MEI,Total,Total,131
+539,2703809,Joaquim Gomes,2015,MEI,Total,Total,154
+540,2703809,Joaquim Gomes,2016,MEI,Total,Total,175
+541,2703809,Joaquim Gomes,2017,MEI,Total,Total,186
+542,2703809,Joaquim Gomes,2018,MEI,Total,Total,182
+543,2703809,Joaquim Gomes,2019,MEI,Total,Total,250
+544,2703809,Joaquim Gomes,2020,MEI,Total,Total,282
+545,2703809,Joaquim Gomes,2021,MEI,Total,Total,383
+546,2703809,Joaquim Gomes,2022,MEI,Total,Total,420
+547,2703908,Jundiá,2010,MEI,Total,Total,54
+548,2703908,Jundiá,2011,MEI,Total,Total,60
+549,2703908,Jundiá,2012,MEI,Total,Total,67
+550,2703908,Jundiá,2013,MEI,Total,Total,73
+551,2703908,Jundiá,2014,MEI,Total,Total,82
+552,2703908,Jundiá,2015,MEI,Total,Total,84
+553,2703908,Jundiá,2016,MEI,Total,Total,93
+554,2703908,Jundiá,2017,MEI,Total,Total,92
+555,2703908,Jundiá,2018,MEI,Total,Total,76
+556,2703908,Jundiá,2019,MEI,Total,Total,81
+557,2703908,Jundiá,2020,MEI,Total,Total,97
+558,2703908,Jundiá,2021,MEI,Total,Total,101
+559,2703908,Jundiá,2022,MEI,Total,Total,106
+560,2704005,Junqueiro,2010,MEI,Total,Total,24
+561,2704005,Junqueiro,2011,MEI,Total,Total,84
+562,2704005,Junqueiro,2012,MEI,Total,Total,143
+563,2704005,Junqueiro,2013,MEI,Total,Total,183
+564,2704005,Junqueiro,2014,MEI,Total,Total,234
+565,2704005,Junqueiro,2015,MEI,Total,Total,283
+566,2704005,Junqueiro,2016,MEI,Total,Total,316
+567,2704005,Junqueiro,2017,MEI,Total,Total,477
+568,2704005,Junqueiro,2018,MEI,Total,Total,406
+569,2704005,Junqueiro,2019,MEI,Total,Total,445
+570,2704005,Junqueiro,2020,MEI,Total,Total,491
+571,2704005,Junqueiro,2021,MEI,Total,Total,592
+572,2704005,Junqueiro,2022,MEI,Total,Total,711
+573,2704104,Lagoa da Canoa,2010,MEI,Total,Total,5
+574,2704104,Lagoa da Canoa,2011,MEI,Total,Total,20
+575,2704104,Lagoa da Canoa,2012,MEI,Total,Total,48
+576,2704104,Lagoa da Canoa,2013,MEI,Total,Total,91
+577,2704104,Lagoa da Canoa,2014,MEI,Total,Total,112
+578,2704104,Lagoa da Canoa,2015,MEI,Total,Total,130
+579,2704104,Lagoa da Canoa,2016,MEI,Total,Total,148
+580,2704104,Lagoa da Canoa,2017,MEI,Total,Total,181
+581,2704104,Lagoa da Canoa,2018,MEI,Total,Total,263
+582,2704104,Lagoa da Canoa,2019,MEI,Total,Total,447
+583,2704104,Lagoa da Canoa,2020,MEI,Total,Total,490
+584,2704104,Lagoa da Canoa,2021,MEI,Total,Total,400
+585,2704104,Lagoa da Canoa,2022,MEI,Total,Total,366
+586,2704203,Limoeiro de Anadia,2010,MEI,Total,Total,8
+587,2704203,Limoeiro de Anadia,2011,MEI,Total,Total,29
+588,2704203,Limoeiro de Anadia,2012,MEI,Total,Total,56
+589,2704203,Limoeiro de Anadia,2013,MEI,Total,Total,86
+590,2704203,Limoeiro de Anadia,2014,MEI,Total,Total,105
+591,2704203,Limoeiro de Anadia,2015,MEI,Total,Total,124
+592,2704203,Limoeiro de Anadia,2016,MEI,Total,Total,145
+593,2704203,Limoeiro de Anadia,2017,MEI,Total,Total,165
+594,2704203,Limoeiro de Anadia,2018,MEI,Total,Total,174
+595,2704203,Limoeiro de Anadia,2019,MEI,Total,Total,209
+596,2704203,Limoeiro de Anadia,2020,MEI,Total,Total,263
+597,2704203,Limoeiro de Anadia,2021,MEI,Total,Total,337
+598,2704203,Limoeiro de Anadia,2022,MEI,Total,Total,407
+599,2704302,Maceió,2010,MEI,Total,Total,5627
+600,2704302,Maceió,2011,MEI,Total,Total,11922
+601,2704302,Maceió,2012,MEI,Total,Total,18378
+602,2704302,Maceió,2013,MEI,Total,Total,22885
+603,2704302,Maceió,2014,MEI,Total,Total,26908
+604,2704302,Maceió,2015,MEI,Total,Total,31223
+605,2704302,Maceió,2016,MEI,Total,Total,34686
+606,2704302,Maceió,2017,MEI,Total,Total,38456
+607,2704302,Maceió,2018,MEI,Total,Total,36093
+608,2704302,Maceió,2019,MEI,Total,Total,43072
+609,2704302,Maceió,2020,MEI,Total,Total,52131
+610,2704302,Maceió,2021,MEI,Total,Total,62913
+611,2704302,Maceió,2022,MEI,Total,Total,70319
+612,2704401,Major Isidoro,2010,MEI,Total,Total,30
+613,2704401,Major Isidoro,2011,MEI,Total,Total,61
+614,2704401,Major Isidoro,2012,MEI,Total,Total,110
+615,2704401,Major Isidoro,2013,MEI,Total,Total,140
+616,2704401,Major Isidoro,2014,MEI,Total,Total,162
+617,2704401,Major Isidoro,2015,MEI,Total,Total,201
+618,2704401,Major Isidoro,2016,MEI,Total,Total,215
+619,2704401,Major Isidoro,2017,MEI,Total,Total,244
+620,2704401,Major Isidoro,2018,MEI,Total,Total,219
+621,2704401,Major Isidoro,2019,MEI,Total,Total,246
+622,2704401,Major Isidoro,2020,MEI,Total,Total,295
+623,2704401,Major Isidoro,2021,MEI,Total,Total,335
+624,2704401,Major Isidoro,2022,MEI,Total,Total,328
+625,2704500,Maragogi,2010,MEI,Total,Total,42
+626,2704500,Maragogi,2011,MEI,Total,Total,114
+627,2704500,Maragogi,2012,MEI,Total,Total,249
+628,2704500,Maragogi,2013,MEI,Total,Total,366
+629,2704500,Maragogi,2014,MEI,Total,Total,447
+630,2704500,Maragogi,2015,MEI,Total,Total,557
+631,2704500,Maragogi,2016,MEI,Total,Total,669
+632,2704500,Maragogi,2017,MEI,Total,Total,764
+633,2704500,Maragogi,2018,MEI,Total,Total,794
+634,2704500,Maragogi,2019,MEI,Total,Total,990
+635,2704500,Maragogi,2020,MEI,Total,Total,1154
+636,2704500,Maragogi,2021,MEI,Total,Total,1386
+637,2704500,Maragogi,2022,MEI,Total,Total,1608
+638,2704609,Maravilha,2010,MEI,Total,Total,15
+639,2704609,Maravilha,2011,MEI,Total,Total,27
+640,2704609,Maravilha,2012,MEI,Total,Total,52
+641,2704609,Maravilha,2013,MEI,Total,Total,66
+642,2704609,Maravilha,2014,MEI,Total,Total,78
+643,2704609,Maravilha,2015,MEI,Total,Total,96
+644,2704609,Maravilha,2016,MEI,Total,Total,109
+645,2704609,Maravilha,2017,MEI,Total,Total,116
+646,2704609,Maravilha,2018,MEI,Total,Total,117
+647,2704609,Maravilha,2019,MEI,Total,Total,129
+648,2704609,Maravilha,2020,MEI,Total,Total,148
+649,2704609,Maravilha,2021,MEI,Total,Total,157
+650,2704609,Maravilha,2022,MEI,Total,Total,170
+651,2704708,Marechal Deodoro,2010,MEI,Total,Total,111
+652,2704708,Marechal Deodoro,2011,MEI,Total,Total,278
+653,2704708,Marechal Deodoro,2012,MEI,Total,Total,602
+654,2704708,Marechal Deodoro,2013,MEI,Total,Total,799
+655,2704708,Marechal Deodoro,2014,MEI,Total,Total,987
+656,2704708,Marechal Deodoro,2015,MEI,Total,Total,1240
+657,2704708,Marechal Deodoro,2016,MEI,Total,Total,1446
+658,2704708,Marechal Deodoro,2017,MEI,Total,Total,1655
+659,2704708,Marechal Deodoro,2018,MEI,Total,Total,1677
+660,2704708,Marechal Deodoro,2019,MEI,Total,Total,2001
+661,2704708,Marechal Deodoro,2020,MEI,Total,Total,2414
+662,2704708,Marechal Deodoro,2021,MEI,Total,Total,2971
+663,2704708,Marechal Deodoro,2022,MEI,Total,Total,3320
+664,2704807,Maribondo,2010,MEI,Total,Total,33
+665,2704807,Maribondo,2011,MEI,Total,Total,99
+666,2704807,Maribondo,2012,MEI,Total,Total,143
+667,2704807,Maribondo,2013,MEI,Total,Total,192
+668,2704807,Maribondo,2014,MEI,Total,Total,249
+669,2704807,Maribondo,2015,MEI,Total,Total,317
+670,2704807,Maribondo,2016,MEI,Total,Total,332
+671,2704807,Maribondo,2017,MEI,Total,Total,359
+672,2704807,Maribondo,2018,MEI,Total,Total,341
+673,2704807,Maribondo,2019,MEI,Total,Total,368
+674,2704807,Maribondo,2020,MEI,Total,Total,405
+675,2704807,Maribondo,2021,MEI,Total,Total,464
+676,2704807,Maribondo,2022,MEI,Total,Total,497
+677,2704906,Mar Vermelho,2010,MEI,Total,Total,3
+678,2704906,Mar Vermelho,2011,MEI,Total,Total,12
+679,2704906,Mar Vermelho,2012,MEI,Total,Total,15
+680,2704906,Mar Vermelho,2013,MEI,Total,Total,41
+681,2704906,Mar Vermelho,2014,MEI,Total,Total,45
+682,2704906,Mar Vermelho,2015,MEI,Total,Total,59
+683,2704906,Mar Vermelho,2016,MEI,Total,Total,63
+684,2704906,Mar Vermelho,2017,MEI,Total,Total,70
+685,2704906,Mar Vermelho,2018,MEI,Total,Total,66
+686,2704906,Mar Vermelho,2019,MEI,Total,Total,66
+687,2704906,Mar Vermelho,2020,MEI,Total,Total,78
+688,2704906,Mar Vermelho,2021,MEI,Total,Total,84
+689,2704906,Mar Vermelho,2022,MEI,Total,Total,92
+690,2705002,Mata Grande,2010,MEI,Total,Total,2
+691,2705002,Mata Grande,2011,MEI,Total,Total,20
+692,2705002,Mata Grande,2012,MEI,Total,Total,40
+693,2705002,Mata Grande,2013,MEI,Total,Total,67
+694,2705002,Mata Grande,2014,MEI,Total,Total,106
+695,2705002,Mata Grande,2015,MEI,Total,Total,128
+696,2705002,Mata Grande,2016,MEI,Total,Total,172
+697,2705002,Mata Grande,2017,MEI,Total,Total,194
+698,2705002,Mata Grande,2018,MEI,Total,Total,178
+699,2705002,Mata Grande,2019,MEI,Total,Total,208
+700,2705002,Mata Grande,2020,MEI,Total,Total,217
+701,2705002,Mata Grande,2021,MEI,Total,Total,234
+702,2705002,Mata Grande,2022,MEI,Total,Total,271
+703,2705101,Matriz de Camaragibe,2010,MEI,Total,Total,70
+704,2705101,Matriz de Camaragibe,2011,MEI,Total,Total,137
+705,2705101,Matriz de Camaragibe,2012,MEI,Total,Total,196
+706,2705101,Matriz de Camaragibe,2013,MEI,Total,Total,246
+707,2705101,Matriz de Camaragibe,2014,MEI,Total,Total,299
+708,2705101,Matriz de Camaragibe,2015,MEI,Total,Total,347
+709,2705101,Matriz de Camaragibe,2016,MEI,Total,Total,397
+710,2705101,Matriz de Camaragibe,2017,MEI,Total,Total,412
+711,2705101,Matriz de Camaragibe,2018,MEI,Total,Total,387
+712,2705101,Matriz de Camaragibe,2019,MEI,Total,Total,461
+713,2705101,Matriz de Camaragibe,2020,MEI,Total,Total,548
+714,2705101,Matriz de Camaragibe,2021,MEI,Total,Total,626
+715,2705101,Matriz de Camaragibe,2022,MEI,Total,Total,689
+716,2705200,Messias,2010,MEI,Total,Total,21
+717,2705200,Messias,2011,MEI,Total,Total,91
+718,2705200,Messias,2012,MEI,Total,Total,151
+719,2705200,Messias,2013,MEI,Total,Total,198
+720,2705200,Messias,2014,MEI,Total,Total,238
+721,2705200,Messias,2015,MEI,Total,Total,280
+722,2705200,Messias,2016,MEI,Total,Total,322
+723,2705200,Messias,2017,MEI,Total,Total,337
+724,2705200,Messias,2018,MEI,Total,Total,325
+725,2705200,Messias,2019,MEI,Total,Total,360
+726,2705200,Messias,2020,MEI,Total,Total,392
+727,2705200,Messias,2021,MEI,Total,Total,468
+728,2705200,Messias,2022,MEI,Total,Total,507
+729,2705309,Minador do Negrão,2010,MEI,Total,Total,1
+730,2705309,Minador do Negrão,2011,MEI,Total,Total,7
+731,2705309,Minador do Negrão,2012,MEI,Total,Total,11
+732,2705309,Minador do Negrão,2013,MEI,Total,Total,14
+733,2705309,Minador do Negrão,2014,MEI,Total,Total,18
+734,2705309,Minador do Negrão,2015,MEI,Total,Total,25
+735,2705309,Minador do Negrão,2016,MEI,Total,Total,35
+736,2705309,Minador do Negrão,2017,MEI,Total,Total,35
+737,2705309,Minador do Negrão,2018,MEI,Total,Total,38
+738,2705309,Minador do Negrão,2019,MEI,Total,Total,47
+739,2705309,Minador do Negrão,2020,MEI,Total,Total,53
+740,2705309,Minador do Negrão,2021,MEI,Total,Total,78
+741,2705309,Minador do Negrão,2022,MEI,Total,Total,89
+742,2705408,Monteirópolis,2010,MEI,Total,Total,16
+743,2705408,Monteirópolis,2011,MEI,Total,Total,27
+744,2705408,Monteirópolis,2012,MEI,Total,Total,45
+745,2705408,Monteirópolis,2013,MEI,Total,Total,48
+746,2705408,Monteirópolis,2014,MEI,Total,Total,59
+747,2705408,Monteirópolis,2015,MEI,Total,Total,68
+748,2705408,Monteirópolis,2016,MEI,Total,Total,75
+749,2705408,Monteirópolis,2017,MEI,Total,Total,80
+750,2705408,Monteirópolis,2018,MEI,Total,Total,78
+751,2705408,Monteirópolis,2019,MEI,Total,Total,96
+752,2705408,Monteirópolis,2020,MEI,Total,Total,109
+753,2705408,Monteirópolis,2021,MEI,Total,Total,120
+754,2705408,Monteirópolis,2022,MEI,Total,Total,135
+755,2705507,Murici,2010,MEI,Total,Total,110
+756,2705507,Murici,2011,MEI,Total,Total,264
+757,2705507,Murici,2012,MEI,Total,Total,400
+758,2705507,Murici,2013,MEI,Total,Total,446
+759,2705507,Murici,2014,MEI,Total,Total,513
+760,2705507,Murici,2015,MEI,Total,Total,551
+761,2705507,Murici,2016,MEI,Total,Total,592
+762,2705507,Murici,2017,MEI,Total,Total,613
+763,2705507,Murici,2018,MEI,Total,Total,497
+764,2705507,Murici,2019,MEI,Total,Total,564
+765,2705507,Murici,2020,MEI,Total,Total,651
+766,2705507,Murici,2021,MEI,Total,Total,735
+767,2705507,Murici,2022,MEI,Total,Total,791
+768,2705606,Novo Lino,2010,MEI,Total,Total,6
+769,2705606,Novo Lino,2011,MEI,Total,Total,31
+770,2705606,Novo Lino,2012,MEI,Total,Total,66
+771,2705606,Novo Lino,2013,MEI,Total,Total,89
+772,2705606,Novo Lino,2014,MEI,Total,Total,96
+773,2705606,Novo Lino,2015,MEI,Total,Total,116
+774,2705606,Novo Lino,2016,MEI,Total,Total,132
+775,2705606,Novo Lino,2017,MEI,Total,Total,130
+776,2705606,Novo Lino,2018,MEI,Total,Total,114
+777,2705606,Novo Lino,2019,MEI,Total,Total,127
+778,2705606,Novo Lino,2020,MEI,Total,Total,138
+779,2705606,Novo Lino,2021,MEI,Total,Total,166
+780,2705606,Novo Lino,2022,MEI,Total,Total,186
+781,2705705,Olho d'Água das Flores,2010,MEI,Total,Total,74
+782,2705705,Olho d'Água das Flores,2011,MEI,Total,Total,141
+783,2705705,Olho d'Água das Flores,2012,MEI,Total,Total,249
+784,2705705,Olho d'Água das Flores,2013,MEI,Total,Total,311
+785,2705705,Olho d'Água das Flores,2014,MEI,Total,Total,373
+786,2705705,Olho d'Água das Flores,2015,MEI,Total,Total,434
+787,2705705,Olho d'Água das Flores,2016,MEI,Total,Total,467
+788,2705705,Olho d'Água das Flores,2017,MEI,Total,Total,532
+789,2705705,Olho d'Água das Flores,2018,MEI,Total,Total,483
+790,2705705,Olho d'Água das Flores,2019,MEI,Total,Total,600
+791,2705705,Olho d'Água das Flores,2020,MEI,Total,Total,692
+792,2705705,Olho d'Água das Flores,2021,MEI,Total,Total,814
+793,2705705,Olho d'Água das Flores,2022,MEI,Total,Total,883
+794,2705804,Olho d'Água do Casado,2010,MEI,Total,Total,1
+795,2705804,Olho d'Água do Casado,2011,MEI,Total,Total,21
+796,2705804,Olho d'Água do Casado,2012,MEI,Total,Total,46
+797,2705804,Olho d'Água do Casado,2013,MEI,Total,Total,59
+798,2705804,Olho d'Água do Casado,2014,MEI,Total,Total,87
+799,2705804,Olho d'Água do Casado,2015,MEI,Total,Total,93
+800,2705804,Olho d'Água do Casado,2016,MEI,Total,Total,101
+801,2705804,Olho d'Água do Casado,2017,MEI,Total,Total,117
+802,2705804,Olho d'Água do Casado,2018,MEI,Total,Total,83
+803,2705804,Olho d'Água do Casado,2019,MEI,Total,Total,103
+804,2705804,Olho d'Água do Casado,2020,MEI,Total,Total,123
+805,2705804,Olho d'Água do Casado,2021,MEI,Total,Total,137
+806,2705804,Olho d'Água do Casado,2022,MEI,Total,Total,151
+807,2705903,Olho d'Água Grande,2010,MEI,Total,Total,1
+808,2705903,Olho d'Água Grande,2011,MEI,Total,Total,4
+809,2705903,Olho d'Água Grande,2012,MEI,Total,Total,5
+810,2705903,Olho d'Água Grande,2013,MEI,Total,Total,6
+811,2705903,Olho d'Água Grande,2014,MEI,Total,Total,14
+812,2705903,Olho d'Água Grande,2015,MEI,Total,Total,17
+813,2705903,Olho d'Água Grande,2016,MEI,Total,Total,15
+814,2705903,Olho d'Água Grande,2017,MEI,Total,Total,15
+815,2705903,Olho d'Água Grande,2018,MEI,Total,Total,15
+816,2705903,Olho d'Água Grande,2019,MEI,Total,Total,22
+817,2705903,Olho d'Água Grande,2020,MEI,Total,Total,28
+818,2705903,Olho d'Água Grande,2021,MEI,Total,Total,32
+819,2705903,Olho d'Água Grande,2022,MEI,Total,Total,34
+820,2706000,Olivença,2010,MEI,Total,Total,8
+821,2706000,Olivença,2011,MEI,Total,Total,21
+822,2706000,Olivença,2012,MEI,Total,Total,41
+823,2706000,Olivença,2013,MEI,Total,Total,56
+824,2706000,Olivença,2014,MEI,Total,Total,61
+825,2706000,Olivença,2015,MEI,Total,Total,72
+826,2706000,Olivença,2016,MEI,Total,Total,82
+827,2706000,Olivença,2017,MEI,Total,Total,87
+828,2706000,Olivença,2018,MEI,Total,Total,75
+829,2706000,Olivença,2019,MEI,Total,Total,89
+830,2706000,Olivença,2020,MEI,Total,Total,108
+831,2706000,Olivença,2021,MEI,Total,Total,129
+832,2706000,Olivença,2022,MEI,Total,Total,136
+833,2706109,Ouro Branco,2010,MEI,Total,Total,17
+834,2706109,Ouro Branco,2011,MEI,Total,Total,39
+835,2706109,Ouro Branco,2012,MEI,Total,Total,76
+836,2706109,Ouro Branco,2013,MEI,Total,Total,98
+837,2706109,Ouro Branco,2014,MEI,Total,Total,111
+838,2706109,Ouro Branco,2015,MEI,Total,Total,144
+839,2706109,Ouro Branco,2016,MEI,Total,Total,169
+840,2706109,Ouro Branco,2017,MEI,Total,Total,188
+841,2706109,Ouro Branco,2018,MEI,Total,Total,175
+842,2706109,Ouro Branco,2019,MEI,Total,Total,202
+843,2706109,Ouro Branco,2020,MEI,Total,Total,207
+844,2706109,Ouro Branco,2021,MEI,Total,Total,271
+845,2706109,Ouro Branco,2022,MEI,Total,Total,291
+846,2706208,Palestina,2010,MEI,Total,Total,1
+847,2706208,Palestina,2011,MEI,Total,Total,2
+848,2706208,Palestina,2012,MEI,Total,Total,6
+849,2706208,Palestina,2013,MEI,Total,Total,15
+850,2706208,Palestina,2014,MEI,Total,Total,37
+851,2706208,Palestina,2015,MEI,Total,Total,53
+852,2706208,Palestina,2016,MEI,Total,Total,55
+853,2706208,Palestina,2017,MEI,Total,Total,57
+854,2706208,Palestina,2018,MEI,Total,Total,55
+855,2706208,Palestina,2019,MEI,Total,Total,68
+856,2706208,Palestina,2020,MEI,Total,Total,74
+857,2706208,Palestina,2021,MEI,Total,Total,81
+858,2706208,Palestina,2022,MEI,Total,Total,89
+859,2706307,Palmeira dos Índios,2010,MEI,Total,Total,88
+860,2706307,Palmeira dos Índios,2011,MEI,Total,Total,252
+861,2706307,Palmeira dos Índios,2012,MEI,Total,Total,496
+862,2706307,Palmeira dos Índios,2013,MEI,Total,Total,760
+863,2706307,Palmeira dos Índios,2014,MEI,Total,Total,975
+864,2706307,Palmeira dos Índios,2015,MEI,Total,Total,1186
+865,2706307,Palmeira dos Índios,2016,MEI,Total,Total,1444
+866,2706307,Palmeira dos Índios,2017,MEI,Total,Total,1705
+867,2706307,Palmeira dos Índios,2018,MEI,Total,Total,1678
+868,2706307,Palmeira dos Índios,2019,MEI,Total,Total,1873
+869,2706307,Palmeira dos Índios,2020,MEI,Total,Total,2108
+870,2706307,Palmeira dos Índios,2021,MEI,Total,Total,2463
+871,2706307,Palmeira dos Índios,2022,MEI,Total,Total,2646
+872,2706406,Pão de Açúcar,2010,MEI,Total,Total,22
+873,2706406,Pão de Açúcar,2011,MEI,Total,Total,54
+874,2706406,Pão de Açúcar,2012,MEI,Total,Total,105
+875,2706406,Pão de Açúcar,2013,MEI,Total,Total,164
+876,2706406,Pão de Açúcar,2014,MEI,Total,Total,229
+877,2706406,Pão de Açúcar,2015,MEI,Total,Total,277
+878,2706406,Pão de Açúcar,2016,MEI,Total,Total,307
+879,2706406,Pão de Açúcar,2017,MEI,Total,Total,327
+880,2706406,Pão de Açúcar,2018,MEI,Total,Total,316
+881,2706406,Pão de Açúcar,2019,MEI,Total,Total,364
+882,2706406,Pão de Açúcar,2020,MEI,Total,Total,420
+883,2706406,Pão de Açúcar,2021,MEI,Total,Total,556
+884,2706406,Pão de Açúcar,2022,MEI,Total,Total,589
+885,2706422,Pariconha,2010,MEI,Total,Total,1
+886,2706422,Pariconha,2011,MEI,Total,Total,7
+887,2706422,Pariconha,2012,MEI,Total,Total,30
+888,2706422,Pariconha,2013,MEI,Total,Total,43
+889,2706422,Pariconha,2014,MEI,Total,Total,60
+890,2706422,Pariconha,2015,MEI,Total,Total,74
+891,2706422,Pariconha,2016,MEI,Total,Total,79
+892,2706422,Pariconha,2017,MEI,Total,Total,83
+893,2706422,Pariconha,2018,MEI,Total,Total,84
+894,2706422,Pariconha,2019,MEI,Total,Total,113
+895,2706422,Pariconha,2020,MEI,Total,Total,139
+896,2706422,Pariconha,2021,MEI,Total,Total,163
+897,2706422,Pariconha,2022,MEI,Total,Total,170
+898,2706448,Paripueira,2010,MEI,Total,Total,22
+899,2706448,Paripueira,2011,MEI,Total,Total,71
+900,2706448,Paripueira,2012,MEI,Total,Total,140
+901,2706448,Paripueira,2013,MEI,Total,Total,190
+902,2706448,Paripueira,2014,MEI,Total,Total,247
+903,2706448,Paripueira,2015,MEI,Total,Total,267
+904,2706448,Paripueira,2016,MEI,Total,Total,297
+905,2706448,Paripueira,2017,MEI,Total,Total,333
+906,2706448,Paripueira,2018,MEI,Total,Total,316
+907,2706448,Paripueira,2019,MEI,Total,Total,363
+908,2706448,Paripueira,2020,MEI,Total,Total,444
+909,2706448,Paripueira,2021,MEI,Total,Total,549
+910,2706448,Paripueira,2022,MEI,Total,Total,624
+911,2706505,Passo de Camaragibe,2010,MEI,Total,Total,33
+912,2706505,Passo de Camaragibe,2011,MEI,Total,Total,90
+913,2706505,Passo de Camaragibe,2012,MEI,Total,Total,149
+914,2706505,Passo de Camaragibe,2013,MEI,Total,Total,178
+915,2706505,Passo de Camaragibe,2014,MEI,Total,Total,224
+916,2706505,Passo de Camaragibe,2015,MEI,Total,Total,268
+917,2706505,Passo de Camaragibe,2016,MEI,Total,Total,304
+918,2706505,Passo de Camaragibe,2017,MEI,Total,Total,322
+919,2706505,Passo de Camaragibe,2018,MEI,Total,Total,278
+920,2706505,Passo de Camaragibe,2019,MEI,Total,Total,326
+921,2706505,Passo de Camaragibe,2020,MEI,Total,Total,363
+922,2706505,Passo de Camaragibe,2021,MEI,Total,Total,418
+923,2706505,Passo de Camaragibe,2022,MEI,Total,Total,466
+924,2706604,Paulo Jacinto,2010,MEI,Total,Total,43
+925,2706604,Paulo Jacinto,2011,MEI,Total,Total,56
+926,2706604,Paulo Jacinto,2012,MEI,Total,Total,72
+927,2706604,Paulo Jacinto,2013,MEI,Total,Total,80
+928,2706604,Paulo Jacinto,2014,MEI,Total,Total,87
+929,2706604,Paulo Jacinto,2015,MEI,Total,Total,97
+930,2706604,Paulo Jacinto,2016,MEI,Total,Total,97
+931,2706604,Paulo Jacinto,2017,MEI,Total,Total,114
+932,2706604,Paulo Jacinto,2018,MEI,Total,Total,114
+933,2706604,Paulo Jacinto,2019,MEI,Total,Total,134
+934,2706604,Paulo Jacinto,2020,MEI,Total,Total,155
+935,2706604,Paulo Jacinto,2021,MEI,Total,Total,185
+936,2706604,Paulo Jacinto,2022,MEI,Total,Total,208
+937,2706703,Penedo,2010,MEI,Total,Total,340
+938,2706703,Penedo,2011,MEI,Total,Total,643
+939,2706703,Penedo,2012,MEI,Total,Total,966
+940,2706703,Penedo,2013,MEI,Total,Total,1383
+941,2706703,Penedo,2014,MEI,Total,Total,1619
+942,2706703,Penedo,2015,MEI,Total,Total,1766
+943,2706703,Penedo,2016,MEI,Total,Total,1889
+944,2706703,Penedo,2017,MEI,Total,Total,2385
+945,2706703,Penedo,2018,MEI,Total,Total,2233
+946,2706703,Penedo,2019,MEI,Total,Total,2561
+947,2706703,Penedo,2020,MEI,Total,Total,3326
+948,2706703,Penedo,2021,MEI,Total,Total,3735
+949,2706703,Penedo,2022,MEI,Total,Total,4079
+950,2706802,Piaçabuçu,2010,MEI,Total,Total,8
+951,2706802,Piaçabuçu,2011,MEI,Total,Total,31
+952,2706802,Piaçabuçu,2012,MEI,Total,Total,66
+953,2706802,Piaçabuçu,2013,MEI,Total,Total,106
+954,2706802,Piaçabuçu,2014,MEI,Total,Total,142
+955,2706802,Piaçabuçu,2015,MEI,Total,Total,177
+956,2706802,Piaçabuçu,2016,MEI,Total,Total,202
+957,2706802,Piaçabuçu,2017,MEI,Total,Total,228
+958,2706802,Piaçabuçu,2018,MEI,Total,Total,218
+959,2706802,Piaçabuçu,2019,MEI,Total,Total,258
+960,2706802,Piaçabuçu,2020,MEI,Total,Total,305
+961,2706802,Piaçabuçu,2021,MEI,Total,Total,348
+962,2706802,Piaçabuçu,2022,MEI,Total,Total,382
+963,2706901,Pilar,2010,MEI,Total,Total,42
+964,2706901,Pilar,2011,MEI,Total,Total,142
+965,2706901,Pilar,2012,MEI,Total,Total,331
+966,2706901,Pilar,2013,MEI,Total,Total,410
+967,2706901,Pilar,2014,MEI,Total,Total,500
+968,2706901,Pilar,2015,MEI,Total,Total,619
+969,2706901,Pilar,2016,MEI,Total,Total,687
+970,2706901,Pilar,2017,MEI,Total,Total,787
+971,2706901,Pilar,2018,MEI,Total,Total,969
+972,2706901,Pilar,2019,MEI,Total,Total,1203
+973,2706901,Pilar,2020,MEI,Total,Total,1391
+974,2706901,Pilar,2021,MEI,Total,Total,1690
+975,2706901,Pilar,2022,MEI,Total,Total,1817
+976,2707008,Pindoba,2010,MEI,Total,Total,4
+977,2707008,Pindoba,2011,MEI,Total,Total,9
+978,2707008,Pindoba,2012,MEI,Total,Total,10
+979,2707008,Pindoba,2013,MEI,Total,Total,13
+980,2707008,Pindoba,2014,MEI,Total,Total,15
+981,2707008,Pindoba,2015,MEI,Total,Total,14
+982,2707008,Pindoba,2016,MEI,Total,Total,16
+983,2707008,Pindoba,2017,MEI,Total,Total,18
+984,2707008,Pindoba,2018,MEI,Total,Total,26
+985,2707008,Pindoba,2019,MEI,Total,Total,31
+986,2707008,Pindoba,2020,MEI,Total,Total,35
+987,2707008,Pindoba,2021,MEI,Total,Total,45
+988,2707008,Pindoba,2022,MEI,Total,Total,42
+989,2707107,Piranhas,2010,MEI,Total,Total,16
+990,2707107,Piranhas,2011,MEI,Total,Total,197
+991,2707107,Piranhas,2012,MEI,Total,Total,285
+992,2707107,Piranhas,2013,MEI,Total,Total,342
+993,2707107,Piranhas,2014,MEI,Total,Total,384
+994,2707107,Piranhas,2015,MEI,Total,Total,442
+995,2707107,Piranhas,2016,MEI,Total,Total,467
+996,2707107,Piranhas,2017,MEI,Total,Total,504
+997,2707107,Piranhas,2018,MEI,Total,Total,455
+998,2707107,Piranhas,2019,MEI,Total,Total,495
+999,2707107,Piranhas,2020,MEI,Total,Total,562
+1000,2707107,Piranhas,2021,MEI,Total,Total,643
+1001,2707107,Piranhas,2022,MEI,Total,Total,705
+1002,2707206,Poço das Trincheiras,2010,MEI,Total,Total,5
+1003,2707206,Poço das Trincheiras,2011,MEI,Total,Total,14
+1004,2707206,Poço das Trincheiras,2012,MEI,Total,Total,31
+1005,2707206,Poço das Trincheiras,2013,MEI,Total,Total,42
+1006,2707206,Poço das Trincheiras,2014,MEI,Total,Total,53
+1007,2707206,Poço das Trincheiras,2015,MEI,Total,Total,71
+1008,2707206,Poço das Trincheiras,2016,MEI,Total,Total,75
+1009,2707206,Poço das Trincheiras,2017,MEI,Total,Total,85
+1010,2707206,Poço das Trincheiras,2018,MEI,Total,Total,81
+1011,2707206,Poço das Trincheiras,2019,MEI,Total,Total,84
+1012,2707206,Poço das Trincheiras,2020,MEI,Total,Total,100
+1013,2707206,Poço das Trincheiras,2021,MEI,Total,Total,110
+1014,2707206,Poço das Trincheiras,2022,MEI,Total,Total,126
+1015,2707305,Porto Calvo,2010,MEI,Total,Total,36
+1016,2707305,Porto Calvo,2011,MEI,Total,Total,83
+1017,2707305,Porto Calvo,2012,MEI,Total,Total,160
+1018,2707305,Porto Calvo,2013,MEI,Total,Total,264
+1019,2707305,Porto Calvo,2014,MEI,Total,Total,357
+1020,2707305,Porto Calvo,2015,MEI,Total,Total,419
+1021,2707305,Porto Calvo,2016,MEI,Total,Total,468
+1022,2707305,Porto Calvo,2017,MEI,Total,Total,480
+1023,2707305,Porto Calvo,2018,MEI,Total,Total,444
+1024,2707305,Porto Calvo,2019,MEI,Total,Total,506
+1025,2707305,Porto Calvo,2020,MEI,Total,Total,609
+1026,2707305,Porto Calvo,2021,MEI,Total,Total,711
+1027,2707305,Porto Calvo,2022,MEI,Total,Total,790
+1028,2707404,Porto de Pedras,2010,MEI,Total,Total,3
+1029,2707404,Porto de Pedras,2011,MEI,Total,Total,13
+1030,2707404,Porto de Pedras,2012,MEI,Total,Total,24
+1031,2707404,Porto de Pedras,2013,MEI,Total,Total,64
+1032,2707404,Porto de Pedras,2014,MEI,Total,Total,94
+1033,2707404,Porto de Pedras,2015,MEI,Total,Total,132
+1034,2707404,Porto de Pedras,2016,MEI,Total,Total,156
+1035,2707404,Porto de Pedras,2017,MEI,Total,Total,187
+1036,2707404,Porto de Pedras,2018,MEI,Total,Total,198
+1037,2707404,Porto de Pedras,2019,MEI,Total,Total,229
+1038,2707404,Porto de Pedras,2020,MEI,Total,Total,261
+1039,2707404,Porto de Pedras,2021,MEI,Total,Total,334
+1040,2707404,Porto de Pedras,2022,MEI,Total,Total,363
+1041,2707503,Porto Real do Colégio,2010,MEI,Total,Total,10
+1042,2707503,Porto Real do Colégio,2011,MEI,Total,Total,33
+1043,2707503,Porto Real do Colégio,2012,MEI,Total,Total,50
+1044,2707503,Porto Real do Colégio,2013,MEI,Total,Total,79
+1045,2707503,Porto Real do Colégio,2014,MEI,Total,Total,123
+1046,2707503,Porto Real do Colégio,2015,MEI,Total,Total,152
+1047,2707503,Porto Real do Colégio,2016,MEI,Total,Total,170
+1048,2707503,Porto Real do Colégio,2017,MEI,Total,Total,191
+1049,2707503,Porto Real do Colégio,2018,MEI,Total,Total,156
+1050,2707503,Porto Real do Colégio,2019,MEI,Total,Total,187
+1051,2707503,Porto Real do Colégio,2020,MEI,Total,Total,224
+1052,2707503,Porto Real do Colégio,2021,MEI,Total,Total,258
+1053,2707503,Porto Real do Colégio,2022,MEI,Total,Total,275
+1054,2707602,Quebrangulo,2010,MEI,Total,Total,107
+1055,2707602,Quebrangulo,2011,MEI,Total,Total,122
+1056,2707602,Quebrangulo,2012,MEI,Total,Total,161
+1057,2707602,Quebrangulo,2013,MEI,Total,Total,178
+1058,2707602,Quebrangulo,2014,MEI,Total,Total,184
+1059,2707602,Quebrangulo,2015,MEI,Total,Total,198
+1060,2707602,Quebrangulo,2016,MEI,Total,Total,217
+1061,2707602,Quebrangulo,2017,MEI,Total,Total,261
+1062,2707602,Quebrangulo,2018,MEI,Total,Total,214
+1063,2707602,Quebrangulo,2019,MEI,Total,Total,261
+1064,2707602,Quebrangulo,2020,MEI,Total,Total,290
+1065,2707602,Quebrangulo,2021,MEI,Total,Total,326
+1066,2707602,Quebrangulo,2022,MEI,Total,Total,341
+1067,2707701,Rio Largo,2010,MEI,Total,Total,338
+1068,2707701,Rio Largo,2011,MEI,Total,Total,671
+1069,2707701,Rio Largo,2012,MEI,Total,Total,1100
+1070,2707701,Rio Largo,2013,MEI,Total,Total,1418
+1071,2707701,Rio Largo,2014,MEI,Total,Total,1784
+1072,2707701,Rio Largo,2015,MEI,Total,Total,2105
+1073,2707701,Rio Largo,2016,MEI,Total,Total,2365
+1074,2707701,Rio Largo,2017,MEI,Total,Total,2631
+1075,2707701,Rio Largo,2018,MEI,Total,Total,2483
+1076,2707701,Rio Largo,2019,MEI,Total,Total,2915
+1077,2707701,Rio Largo,2020,MEI,Total,Total,3486
+1078,2707701,Rio Largo,2021,MEI,Total,Total,4195
+1079,2707701,Rio Largo,2022,MEI,Total,Total,4718
+1080,2707800,Roteiro,2010,MEI,Total,Total,1
+1081,2707800,Roteiro,2011,MEI,Total,Total,39
+1082,2707800,Roteiro,2012,MEI,Total,Total,64
+1083,2707800,Roteiro,2013,MEI,Total,Total,78
+1084,2707800,Roteiro,2014,MEI,Total,Total,93
+1085,2707800,Roteiro,2015,MEI,Total,Total,100
+1086,2707800,Roteiro,2016,MEI,Total,Total,115
+1087,2707800,Roteiro,2017,MEI,Total,Total,134
+1088,2707800,Roteiro,2018,MEI,Total,Total,110
+1089,2707800,Roteiro,2019,MEI,Total,Total,133
+1090,2707800,Roteiro,2020,MEI,Total,Total,157
+1091,2707800,Roteiro,2021,MEI,Total,Total,195
+1092,2707800,Roteiro,2022,MEI,Total,Total,212
+1093,2707909,Santa Luzia do Norte,2010,MEI,Total,Total,5
+1094,2707909,Santa Luzia do Norte,2011,MEI,Total,Total,23
+1095,2707909,Santa Luzia do Norte,2012,MEI,Total,Total,60
+1096,2707909,Santa Luzia do Norte,2013,MEI,Total,Total,76
+1097,2707909,Santa Luzia do Norte,2014,MEI,Total,Total,84
+1098,2707909,Santa Luzia do Norte,2015,MEI,Total,Total,111
+1099,2707909,Santa Luzia do Norte,2016,MEI,Total,Total,145
+1100,2707909,Santa Luzia do Norte,2017,MEI,Total,Total,156
+1101,2707909,Santa Luzia do Norte,2018,MEI,Total,Total,156
+1102,2707909,Santa Luzia do Norte,2019,MEI,Total,Total,170
+1103,2707909,Santa Luzia do Norte,2020,MEI,Total,Total,211
+1104,2707909,Santa Luzia do Norte,2021,MEI,Total,Total,243
+1105,2707909,Santa Luzia do Norte,2022,MEI,Total,Total,281
+1106,2708006,Santana do Ipanema,2010,MEI,Total,Total,64
+1107,2708006,Santana do Ipanema,2011,MEI,Total,Total,207
+1108,2708006,Santana do Ipanema,2012,MEI,Total,Total,394
+1109,2708006,Santana do Ipanema,2013,MEI,Total,Total,515
+1110,2708006,Santana do Ipanema,2014,MEI,Total,Total,598
+1111,2708006,Santana do Ipanema,2015,MEI,Total,Total,723
+1112,2708006,Santana do Ipanema,2016,MEI,Total,Total,827
+1113,2708006,Santana do Ipanema,2017,MEI,Total,Total,901
+1114,2708006,Santana do Ipanema,2018,MEI,Total,Total,870
+1115,2708006,Santana do Ipanema,2019,MEI,Total,Total,984
+1116,2708006,Santana do Ipanema,2020,MEI,Total,Total,1110
+1117,2708006,Santana do Ipanema,2021,MEI,Total,Total,1254
+1118,2708006,Santana do Ipanema,2022,MEI,Total,Total,1392
+1119,2708105,Santana do Mundaú,2010,MEI,Total,Total,43
+1120,2708105,Santana do Mundaú,2011,MEI,Total,Total,59
+1121,2708105,Santana do Mundaú,2012,MEI,Total,Total,88
+1122,2708105,Santana do Mundaú,2013,MEI,Total,Total,101
+1123,2708105,Santana do Mundaú,2014,MEI,Total,Total,191
+1124,2708105,Santana do Mundaú,2015,MEI,Total,Total,224
+1125,2708105,Santana do Mundaú,2016,MEI,Total,Total,235
+1126,2708105,Santana do Mundaú,2017,MEI,Total,Total,242
+1127,2708105,Santana do Mundaú,2018,MEI,Total,Total,205
+1128,2708105,Santana do Mundaú,2019,MEI,Total,Total,219
+1129,2708105,Santana do Mundaú,2020,MEI,Total,Total,235
+1130,2708105,Santana do Mundaú,2021,MEI,Total,Total,248
+1131,2708105,Santana do Mundaú,2022,MEI,Total,Total,259
+1132,2708204,São Brás,2010,MEI,Total,Total,1
+1133,2708204,São Brás,2011,MEI,Total,Total,9
+1134,2708204,São Brás,2012,MEI,Total,Total,19
+1135,2708204,São Brás,2013,MEI,Total,Total,26
+1136,2708204,São Brás,2014,MEI,Total,Total,40
+1137,2708204,São Brás,2015,MEI,Total,Total,42
+1138,2708204,São Brás,2016,MEI,Total,Total,50
+1139,2708204,São Brás,2017,MEI,Total,Total,64
+1140,2708204,São Brás,2018,MEI,Total,Total,52
+1141,2708204,São Brás,2019,MEI,Total,Total,56
+1142,2708204,São Brás,2020,MEI,Total,Total,72
+1143,2708204,São Brás,2021,MEI,Total,Total,89
+1144,2708204,São Brás,2022,MEI,Total,Total,96
+1145,2708303,São José da Laje,2010,MEI,Total,Total,66
+1146,2708303,São José da Laje,2011,MEI,Total,Total,116
+1147,2708303,São José da Laje,2012,MEI,Total,Total,164
+1148,2708303,São José da Laje,2013,MEI,Total,Total,218
+1149,2708303,São José da Laje,2014,MEI,Total,Total,292
+1150,2708303,São José da Laje,2015,MEI,Total,Total,360
+1151,2708303,São José da Laje,2016,MEI,Total,Total,381
+1152,2708303,São José da Laje,2017,MEI,Total,Total,413
+1153,2708303,São José da Laje,2018,MEI,Total,Total,413
+1154,2708303,São José da Laje,2019,MEI,Total,Total,464
+1155,2708303,São José da Laje,2020,MEI,Total,Total,630
+1156,2708303,São José da Laje,2021,MEI,Total,Total,820
+1157,2708303,São José da Laje,2022,MEI,Total,Total,854
+1158,2708402,São José da Tapera,2010,MEI,Total,Total,17
+1159,2708402,São José da Tapera,2011,MEI,Total,Total,47
+1160,2708402,São José da Tapera,2012,MEI,Total,Total,78
+1161,2708402,São José da Tapera,2013,MEI,Total,Total,124
+1162,2708402,São José da Tapera,2014,MEI,Total,Total,146
+1163,2708402,São José da Tapera,2015,MEI,Total,Total,195
+1164,2708402,São José da Tapera,2016,MEI,Total,Total,244
+1165,2708402,São José da Tapera,2017,MEI,Total,Total,304
+1166,2708402,São José da Tapera,2018,MEI,Total,Total,295
+1167,2708402,São José da Tapera,2019,MEI,Total,Total,354
+1168,2708402,São José da Tapera,2020,MEI,Total,Total,405
+1169,2708402,São José da Tapera,2021,MEI,Total,Total,470
+1170,2708402,São José da Tapera,2022,MEI,Total,Total,498
+1171,2708501,São Luís do Quitunde,2010,MEI,Total,Total,75
+1172,2708501,São Luís do Quitunde,2011,MEI,Total,Total,147
+1173,2708501,São Luís do Quitunde,2012,MEI,Total,Total,207
+1174,2708501,São Luís do Quitunde,2013,MEI,Total,Total,263
+1175,2708501,São Luís do Quitunde,2014,MEI,Total,Total,328
+1176,2708501,São Luís do Quitunde,2015,MEI,Total,Total,375
+1177,2708501,São Luís do Quitunde,2016,MEI,Total,Total,394
+1178,2708501,São Luís do Quitunde,2017,MEI,Total,Total,434
+1179,2708501,São Luís do Quitunde,2018,MEI,Total,Total,391
+1180,2708501,São Luís do Quitunde,2019,MEI,Total,Total,471
+1181,2708501,São Luís do Quitunde,2020,MEI,Total,Total,582
+1182,2708501,São Luís do Quitunde,2021,MEI,Total,Total,680
+1183,2708501,São Luís do Quitunde,2022,MEI,Total,Total,741
+1184,2708600,São Miguel dos Campos,2010,MEI,Total,Total,86
+1185,2708600,São Miguel dos Campos,2011,MEI,Total,Total,264
+1186,2708600,São Miguel dos Campos,2012,MEI,Total,Total,480
+1187,2708600,São Miguel dos Campos,2013,MEI,Total,Total,702
+1188,2708600,São Miguel dos Campos,2014,MEI,Total,Total,955
+1189,2708600,São Miguel dos Campos,2015,MEI,Total,Total,1237
+1190,2708600,São Miguel dos Campos,2016,MEI,Total,Total,1413
+1191,2708600,São Miguel dos Campos,2017,MEI,Total,Total,1548
+1192,2708600,São Miguel dos Campos,2018,MEI,Total,Total,1463
+1193,2708600,São Miguel dos Campos,2019,MEI,Total,Total,1664
+1194,2708600,São Miguel dos Campos,2020,MEI,Total,Total,1971
+1195,2708600,São Miguel dos Campos,2021,MEI,Total,Total,2320
+1196,2708600,São Miguel dos Campos,2022,MEI,Total,Total,2599
+1197,2708709,São Miguel dos Milagres,2010,MEI,Total,Total,16
+1198,2708709,São Miguel dos Milagres,2011,MEI,Total,Total,47
+1199,2708709,São Miguel dos Milagres,2012,MEI,Total,Total,84
+1200,2708709,São Miguel dos Milagres,2013,MEI,Total,Total,149
+1201,2708709,São Miguel dos Milagres,2014,MEI,Total,Total,182
+1202,2708709,São Miguel dos Milagres,2015,MEI,Total,Total,225
+1203,2708709,São Miguel dos Milagres,2016,MEI,Total,Total,265
+1204,2708709,São Miguel dos Milagres,2017,MEI,Total,Total,304
+1205,2708709,São Miguel dos Milagres,2018,MEI,Total,Total,301
+1206,2708709,São Miguel dos Milagres,2019,MEI,Total,Total,357
+1207,2708709,São Miguel dos Milagres,2020,MEI,Total,Total,426
+1208,2708709,São Miguel dos Milagres,2021,MEI,Total,Total,511
+1209,2708709,São Miguel dos Milagres,2022,MEI,Total,Total,582
+1210,2708808,São Sebastião,2010,MEI,Total,Total,33
+1211,2708808,São Sebastião,2011,MEI,Total,Total,66
+1212,2708808,São Sebastião,2012,MEI,Total,Total,108
+1213,2708808,São Sebastião,2013,MEI,Total,Total,158
+1214,2708808,São Sebastião,2014,MEI,Total,Total,261
+1215,2708808,São Sebastião,2015,MEI,Total,Total,311
+1216,2708808,São Sebastião,2016,MEI,Total,Total,366
+1217,2708808,São Sebastião,2017,MEI,Total,Total,419
+1218,2708808,São Sebastião,2018,MEI,Total,Total,413
+1219,2708808,São Sebastião,2019,MEI,Total,Total,479
+1220,2708808,São Sebastião,2020,MEI,Total,Total,520
+1221,2708808,São Sebastião,2021,MEI,Total,Total,634
+1222,2708808,São Sebastião,2022,MEI,Total,Total,705
+1223,2708907,Satuba,2010,MEI,Total,Total,61
+1224,2708907,Satuba,2011,MEI,Total,Total,109
+1225,2708907,Satuba,2012,MEI,Total,Total,155
+1226,2708907,Satuba,2013,MEI,Total,Total,177
+1227,2708907,Satuba,2014,MEI,Total,Total,203
+1228,2708907,Satuba,2015,MEI,Total,Total,283
+1229,2708907,Satuba,2016,MEI,Total,Total,401
+1230,2708907,Satuba,2017,MEI,Total,Total,509
+1231,2708907,Satuba,2018,MEI,Total,Total,552
+1232,2708907,Satuba,2019,MEI,Total,Total,681
+1233,2708907,Satuba,2020,MEI,Total,Total,916
+1234,2708907,Satuba,2021,MEI,Total,Total,1138
+1235,2708907,Satuba,2022,MEI,Total,Total,1321
+1236,2708956,Senador Rui Palmeira,2010,MEI,Total,Total,10
+1237,2708956,Senador Rui Palmeira,2011,MEI,Total,Total,20
+1238,2708956,Senador Rui Palmeira,2012,MEI,Total,Total,29
+1239,2708956,Senador Rui Palmeira,2013,MEI,Total,Total,42
+1240,2708956,Senador Rui Palmeira,2014,MEI,Total,Total,52
+1241,2708956,Senador Rui Palmeira,2015,MEI,Total,Total,64
+1242,2708956,Senador Rui Palmeira,2016,MEI,Total,Total,69
+1243,2708956,Senador Rui Palmeira,2017,MEI,Total,Total,83
+1244,2708956,Senador Rui Palmeira,2018,MEI,Total,Total,85
+1245,2708956,Senador Rui Palmeira,2019,MEI,Total,Total,110
+1246,2708956,Senador Rui Palmeira,2020,MEI,Total,Total,131
+1247,2708956,Senador Rui Palmeira,2021,MEI,Total,Total,136
+1248,2708956,Senador Rui Palmeira,2022,MEI,Total,Total,156
+1249,2709004,Tanque d'Arca,2010,MEI,Total,Total,1
+1250,2709004,Tanque d'Arca,2011,MEI,Total,Total,6
+1251,2709004,Tanque d'Arca,2012,MEI,Total,Total,11
+1252,2709004,Tanque d'Arca,2013,MEI,Total,Total,16
+1253,2709004,Tanque d'Arca,2014,MEI,Total,Total,24
+1254,2709004,Tanque d'Arca,2015,MEI,Total,Total,29
+1255,2709004,Tanque d'Arca,2016,MEI,Total,Total,33
+1256,2709004,Tanque d'Arca,2017,MEI,Total,Total,42
+1257,2709004,Tanque d'Arca,2018,MEI,Total,Total,33
+1258,2709004,Tanque d'Arca,2019,MEI,Total,Total,50
+1259,2709004,Tanque d'Arca,2020,MEI,Total,Total,65
+1260,2709004,Tanque d'Arca,2021,MEI,Total,Total,68
+1261,2709004,Tanque d'Arca,2022,MEI,Total,Total,88
+1262,2709103,Taquarana,2010,MEI,Total,Total,5
+1263,2709103,Taquarana,2011,MEI,Total,Total,21
+1264,2709103,Taquarana,2012,MEI,Total,Total,59
+1265,2709103,Taquarana,2013,MEI,Total,Total,94
+1266,2709103,Taquarana,2014,MEI,Total,Total,117
+1267,2709103,Taquarana,2015,MEI,Total,Total,132
+1268,2709103,Taquarana,2016,MEI,Total,Total,136
+1269,2709103,Taquarana,2017,MEI,Total,Total,154
+1270,2709103,Taquarana,2018,MEI,Total,Total,176
+1271,2709103,Taquarana,2019,MEI,Total,Total,268
+1272,2709103,Taquarana,2020,MEI,Total,Total,308
+1273,2709103,Taquarana,2021,MEI,Total,Total,362
+1274,2709103,Taquarana,2022,MEI,Total,Total,390
+1275,2709152,Teotônio Vilela,2010,MEI,Total,Total,34
+1276,2709152,Teotônio Vilela,2011,MEI,Total,Total,156
+1277,2709152,Teotônio Vilela,2012,MEI,Total,Total,324
+1278,2709152,Teotônio Vilela,2013,MEI,Total,Total,433
+1279,2709152,Teotônio Vilela,2014,MEI,Total,Total,512
+1280,2709152,Teotônio Vilela,2015,MEI,Total,Total,617
+1281,2709152,Teotônio Vilela,2016,MEI,Total,Total,686
+1282,2709152,Teotônio Vilela,2017,MEI,Total,Total,729
+1283,2709152,Teotônio Vilela,2018,MEI,Total,Total,659
+1284,2709152,Teotônio Vilela,2019,MEI,Total,Total,741
+1285,2709152,Teotônio Vilela,2020,MEI,Total,Total,850
+1286,2709152,Teotônio Vilela,2021,MEI,Total,Total,981
+1287,2709152,Teotônio Vilela,2022,MEI,Total,Total,1099
+1288,2709202,Traipu,2010,MEI,Total,Total,8
+1289,2709202,Traipu,2011,MEI,Total,Total,23
+1290,2709202,Traipu,2012,MEI,Total,Total,41
+1291,2709202,Traipu,2013,MEI,Total,Total,79
+1292,2709202,Traipu,2014,MEI,Total,Total,98
+1293,2709202,Traipu,2015,MEI,Total,Total,122
+1294,2709202,Traipu,2016,MEI,Total,Total,141
+1295,2709202,Traipu,2017,MEI,Total,Total,166
+1296,2709202,Traipu,2018,MEI,Total,Total,172
+1297,2709202,Traipu,2019,MEI,Total,Total,183
+1298,2709202,Traipu,2020,MEI,Total,Total,191
+1299,2709202,Traipu,2021,MEI,Total,Total,225
+1300,2709202,Traipu,2022,MEI,Total,Total,341
+1301,2709301,União dos Palmares,2010,MEI,Total,Total,206
+1302,2709301,União dos Palmares,2011,MEI,Total,Total,476
+1303,2709301,União dos Palmares,2012,MEI,Total,Total,691
+1304,2709301,União dos Palmares,2013,MEI,Total,Total,948
+1305,2709301,União dos Palmares,2014,MEI,Total,Total,1144
+1306,2709301,União dos Palmares,2015,MEI,Total,Total,1331
+1307,2709301,União dos Palmares,2016,MEI,Total,Total,1495
+1308,2709301,União dos Palmares,2017,MEI,Total,Total,1654
+1309,2709301,União dos Palmares,2018,MEI,Total,Total,1469
+1310,2709301,União dos Palmares,2019,MEI,Total,Total,1745
+1311,2709301,União dos Palmares,2020,MEI,Total,Total,1981
+1312,2709301,União dos Palmares,2021,MEI,Total,Total,3509
+1313,2709301,União dos Palmares,2022,MEI,Total,Total,3264
+1314,2709400,Viçosa,2010,MEI,Total,Total,137
+1315,2709400,Viçosa,2011,MEI,Total,Total,217
+1316,2709400,Viçosa,2012,MEI,Total,Total,328
+1317,2709400,Viçosa,2013,MEI,Total,Total,396
+1318,2709400,Viçosa,2014,MEI,Total,Total,464
+1319,2709400,Viçosa,2015,MEI,Total,Total,526
+1320,2709400,Viçosa,2016,MEI,Total,Total,581
+1321,2709400,Viçosa,2017,MEI,Total,Total,593
+1322,2709400,Viçosa,2018,MEI,Total,Total,522
+1323,2709400,Viçosa,2019,MEI,Total,Total,547
+1324,2709400,Viçosa,2020,MEI,Total,Total,622
+1325,2709400,Viçosa,2021,MEI,Total,Total,718
+1326,2709400,Viçosa,2022,MEI,Total,Total,854

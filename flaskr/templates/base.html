@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=[device-width], initial-scale=1.0">
+    <title>{% block title %} <!-- Título do arquivo HTML que extende este -->{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+</head>
+<body>
+    <nav class="bg-gradient-to-r from-blue-600 to-purple-500 text-white">
+        <div class="container mx-auto px-4 py-6
+        flex justify-between items-center">
+          <!-- Espaço do nome do site -->
+          <div class="text-lg font-bold">MeiAnalytics</div>
+          <!-- Links de navegação na direita -->
+          <div class="space-x-4 ml-auto">
+            <a href="/home" class="hover:bg-gray-700 hover:underline hover:transition-all">Início</a>
+            <a href="/pesquisa_analises_municipios" class="hover:bg-gray-700 hover:underline hover:transition-all">Análises</a>
+            <a href="/sobrenos" class="hover:bg-gray-700 hover:underline hover:transition-all">Sobre Nós</a>
+          </div>
+        </div>
+      </nav>
+      {% block content%}
+      <!-- Conteúdo do arquivo HTML que extender este -->
+      {% endblock %}
+      <script>
+        AOS.init();
+      </script>
+</body>
+</html>

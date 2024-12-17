@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+<head>
+    <script src='script.js' defer></script>
+</head>
+{% block title %}Análises{% endblock %}
+{% block content %}
+<div class="max-w-4xl mx-auto p-4">
+    <div data-aos="fade-up" data-aos-duration="900" data-aos-delay="300" class="mb-8 text-center">
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-500 text-transparent bg-clip-text mb-4">
+            Pesquisa de análises municipais de Alagoas
+        </h1>
+    </div>
+</div>
+<div class="container mx-auto">
+    <div class="grid grid-cols-3 gap-4">
+        {% for municipio in municipios %}
+            <a href="{{ url_for('show_municipio', municipio=municipio) }}" class="block p-3 bg-blue-500 text-white rounded-lg text-center hover:bg-blue-700">
+                {{ municipio }}
+            </a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

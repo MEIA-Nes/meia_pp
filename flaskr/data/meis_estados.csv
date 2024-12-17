@@ -1,0 +1,368 @@
+_id,co_uf,no_uf,ano,variavel,mei_categoria,mei_subcategoria,valor
+1,11,Rondônia,2009,MEI,Total,Total,2
+2,11,Rondônia,2010,MEI,Total,Total,7188
+3,11,Rondônia,2011,MEI,Total,Total,13821
+4,11,Rondônia,2012,MEI,Total,Total,21320
+5,11,Rondônia,2013,MEI,Total,Total,27760
+6,11,Rondônia,2014,MEI,Total,Total,33135
+7,11,Rondônia,2015,MEI,Total,Total,38258
+8,11,Rondônia,2016,MEI,Total,Total,43300
+9,11,Rondônia,2017,MEI,Total,Total,49520
+10,11,Rondônia,2018,MEI,Total,Total,46142
+11,11,Rondônia,2019,MEI,Total,Total,55050
+12,11,Rondônia,2020,MEI,Total,Total,66822
+13,11,Rondônia,2021,MEI,Total,Total,78666
+14,11,Rondônia,2022,MEI,Total,Total,89739
+15,12,Acre,2009,MEI,Total,Total,1
+16,12,Acre,2010,MEI,Total,Total,3433
+17,12,Acre,2011,MEI,Total,Total,6472
+18,12,Acre,2012,MEI,Total,Total,9168
+19,12,Acre,2013,MEI,Total,Total,11484
+20,12,Acre,2014,MEI,Total,Total,13190
+21,12,Acre,2015,MEI,Total,Total,14852
+22,12,Acre,2016,MEI,Total,Total,16282
+23,12,Acre,2017,MEI,Total,Total,17793
+24,12,Acre,2018,MEI,Total,Total,8291
+25,12,Acre,2019,MEI,Total,Total,14074
+26,12,Acre,2020,MEI,Total,Total,18450
+27,12,Acre,2021,MEI,Total,Total,23038
+28,12,Acre,2022,MEI,Total,Total,26291
+29,13,Amazonas,2010,MEI,Total,Total,10912
+30,13,Amazonas,2011,MEI,Total,Total,19036
+31,13,Amazonas,2012,MEI,Total,Total,28954
+32,13,Amazonas,2013,MEI,Total,Total,37520
+33,13,Amazonas,2014,MEI,Total,Total,45191
+34,13,Amazonas,2015,MEI,Total,Total,53734
+35,13,Amazonas,2016,MEI,Total,Total,60827
+36,13,Amazonas,2017,MEI,Total,Total,70442
+37,13,Amazonas,2018,MEI,Total,Total,63473
+38,13,Amazonas,2019,MEI,Total,Total,80857
+39,13,Amazonas,2020,MEI,Total,Total,104353
+40,13,Amazonas,2021,MEI,Total,Total,128894
+41,13,Amazonas,2022,MEI,Total,Total,149120
+42,14,Roraima,2010,MEI,Total,Total,1754
+43,14,Roraima,2011,MEI,Total,Total,3785
+44,14,Roraima,2012,MEI,Total,Total,5815
+45,14,Roraima,2013,MEI,Total,Total,7707
+46,14,Roraima,2014,MEI,Total,Total,9145
+47,14,Roraima,2015,MEI,Total,Total,10637
+48,14,Roraima,2016,MEI,Total,Total,11726
+49,14,Roraima,2017,MEI,Total,Total,13146
+50,14,Roraima,2018,MEI,Total,Total,11777
+51,14,Roraima,2019,MEI,Total,Total,14415
+52,14,Roraima,2020,MEI,Total,Total,17599
+53,14,Roraima,2021,MEI,Total,Total,21306
+54,14,Roraima,2022,MEI,Total,Total,25054
+55,15,Pará,2010,MEI,Total,Total,21569
+56,15,Pará,2011,MEI,Total,Total,45275
+57,15,Pará,2012,MEI,Total,Total,73485
+58,15,Pará,2013,MEI,Total,Total,97730
+59,15,Pará,2014,MEI,Total,Total,120388
+60,15,Pará,2015,MEI,Total,Total,142739
+61,15,Pará,2016,MEI,Total,Total,163375
+62,15,Pará,2017,MEI,Total,Total,184452
+63,15,Pará,2018,MEI,Total,Total,165671
+64,15,Pará,2019,MEI,Total,Total,198868
+65,15,Pará,2020,MEI,Total,Total,241181
+66,15,Pará,2021,MEI,Total,Total,288490
+67,15,Pará,2022,MEI,Total,Total,322271
+68,16,Amapá,2010,MEI,Total,Total,2870
+69,16,Amapá,2011,MEI,Total,Total,5814
+70,16,Amapá,2012,MEI,Total,Total,7793
+71,16,Amapá,2013,MEI,Total,Total,9242
+72,16,Amapá,2014,MEI,Total,Total,10541
+73,16,Amapá,2015,MEI,Total,Total,12170
+74,16,Amapá,2016,MEI,Total,Total,13740
+75,16,Amapá,2017,MEI,Total,Total,15611
+76,16,Amapá,2018,MEI,Total,Total,12817
+77,16,Amapá,2019,MEI,Total,Total,15822
+78,16,Amapá,2020,MEI,Total,Total,19533
+79,16,Amapá,2021,MEI,Total,Total,23841
+80,16,Amapá,2022,MEI,Total,Total,26406
+81,17,Tocantins,2010,MEI,Total,Total,9151
+82,17,Tocantins,2011,MEI,Total,Total,15299
+83,17,Tocantins,2012,MEI,Total,Total,21859
+84,17,Tocantins,2013,MEI,Total,Total,29884
+85,17,Tocantins,2014,MEI,Total,Total,37257
+86,17,Tocantins,2015,MEI,Total,Total,44522
+87,17,Tocantins,2016,MEI,Total,Total,50178
+88,17,Tocantins,2017,MEI,Total,Total,57458
+89,17,Tocantins,2018,MEI,Total,Total,55656
+90,17,Tocantins,2019,MEI,Total,Total,65004
+91,17,Tocantins,2020,MEI,Total,Total,74977
+92,17,Tocantins,2021,MEI,Total,Total,86057
+93,17,Tocantins,2022,MEI,Total,Total,94243
+94,21,Maranhão,2010,MEI,Total,Total,12710
+95,21,Maranhão,2011,MEI,Total,Total,25175
+96,21,Maranhão,2012,MEI,Total,Total,37778
+97,21,Maranhão,2013,MEI,Total,Total,51492
+98,21,Maranhão,2014,MEI,Total,Total,65464
+99,21,Maranhão,2015,MEI,Total,Total,79093
+100,21,Maranhão,2016,MEI,Total,Total,89430
+101,21,Maranhão,2017,MEI,Total,Total,100308
+102,21,Maranhão,2018,MEI,Total,Total,92199
+103,21,Maranhão,2019,MEI,Total,Total,110192
+104,21,Maranhão,2020,MEI,Total,Total,132679
+105,21,Maranhão,2021,MEI,Total,Total,157048
+106,21,Maranhão,2022,MEI,Total,Total,176426
+107,22,Piauí,2009,MEI,Total,Total,1
+108,22,Piauí,2010,MEI,Total,Total,5333
+109,22,Piauí,2011,MEI,Total,Total,13904
+110,22,Piauí,2012,MEI,Total,Total,23339
+111,22,Piauí,2013,MEI,Total,Total,32269
+112,22,Piauí,2014,MEI,Total,Total,40501
+113,22,Piauí,2015,MEI,Total,Total,49745
+114,22,Piauí,2016,MEI,Total,Total,56992
+115,22,Piauí,2017,MEI,Total,Total,64820
+116,22,Piauí,2018,MEI,Total,Total,64175
+117,22,Piauí,2019,MEI,Total,Total,76099
+118,22,Piauí,2020,MEI,Total,Total,89903
+119,22,Piauí,2021,MEI,Total,Total,105563
+120,22,Piauí,2022,MEI,Total,Total,115800
+121,23,Ceará,2009,MEI,Total,Total,1289
+122,23,Ceará,2010,MEI,Total,Total,20633
+123,23,Ceará,2011,MEI,Total,Total,48252
+124,23,Ceará,2012,MEI,Total,Total,82968
+125,23,Ceará,2013,MEI,Total,Total,120362
+126,23,Ceará,2014,MEI,Total,Total,154800
+127,23,Ceará,2015,MEI,Total,Total,188008
+128,23,Ceará,2016,MEI,Total,Total,215198
+129,23,Ceará,2017,MEI,Total,Total,247602
+130,23,Ceará,2018,MEI,Total,Total,247070
+131,23,Ceará,2019,MEI,Total,Total,298019
+132,23,Ceará,2020,MEI,Total,Total,353069
+133,23,Ceará,2021,MEI,Total,Total,408037
+134,23,Ceará,2022,MEI,Total,Total,448951
+135,24,Rio Grande do Norte,2009,MEI,Total,Total,3
+136,24,Rio Grande do Norte,2010,MEI,Total,Total,10496
+137,24,Rio Grande do Norte,2011,MEI,Total,Total,23730
+138,24,Rio Grande do Norte,2012,MEI,Total,Total,37204
+139,24,Rio Grande do Norte,2013,MEI,Total,Total,50133
+140,24,Rio Grande do Norte,2014,MEI,Total,Total,62511
+141,24,Rio Grande do Norte,2015,MEI,Total,Total,76264
+142,24,Rio Grande do Norte,2016,MEI,Total,Total,88161
+143,24,Rio Grande do Norte,2017,MEI,Total,Total,102073
+144,24,Rio Grande do Norte,2018,MEI,Total,Total,101273
+145,24,Rio Grande do Norte,2019,MEI,Total,Total,120758
+146,24,Rio Grande do Norte,2020,MEI,Total,Total,141446
+147,24,Rio Grande do Norte,2021,MEI,Total,Total,163403
+148,24,Rio Grande do Norte,2022,MEI,Total,Total,180067
+149,25,Paraíba,2009,MEI,Total,Total,1
+150,25,Paraíba,2010,MEI,Total,Total,10612
+151,25,Paraíba,2011,MEI,Total,Total,22863
+152,25,Paraíba,2012,MEI,Total,Total,36950
+153,25,Paraíba,2013,MEI,Total,Total,49715
+154,25,Paraíba,2014,MEI,Total,Total,64729
+155,25,Paraíba,2015,MEI,Total,Total,78989
+156,25,Paraíba,2016,MEI,Total,Total,92606
+157,25,Paraíba,2017,MEI,Total,Total,108124
+158,25,Paraíba,2018,MEI,Total,Total,109523
+159,25,Paraíba,2019,MEI,Total,Total,130102
+160,25,Paraíba,2020,MEI,Total,Total,153806
+161,25,Paraíba,2021,MEI,Total,Total,181673
+162,25,Paraíba,2022,MEI,Total,Total,200164
+163,26,Pernambuco,2010,MEI,Total,Total,28586
+164,26,Pernambuco,2011,MEI,Total,Total,58437
+165,26,Pernambuco,2012,MEI,Total,Total,91316
+166,26,Pernambuco,2013,MEI,Total,Total,124313
+167,26,Pernambuco,2014,MEI,Total,Total,156829
+168,26,Pernambuco,2015,MEI,Total,Total,189536
+169,26,Pernambuco,2016,MEI,Total,Total,217606
+170,26,Pernambuco,2017,MEI,Total,Total,250529
+171,26,Pernambuco,2018,MEI,Total,Total,246576
+172,26,Pernambuco,2019,MEI,Total,Total,298694
+173,26,Pernambuco,2020,MEI,Total,Total,355677
+174,26,Pernambuco,2021,MEI,Total,Total,415801
+175,26,Pernambuco,2022,MEI,Total,Total,457653
+176,27,Alagoas,2010,MEI,Total,Total,10083
+177,27,Alagoas,2011,MEI,Total,Total,22135
+178,27,Alagoas,2012,MEI,Total,Total,35600
+179,27,Alagoas,2013,MEI,Total,Total,46234
+180,27,Alagoas,2014,MEI,Total,Total,55724
+181,27,Alagoas,2015,MEI,Total,Total,65483
+182,27,Alagoas,2016,MEI,Total,Total,73285
+183,27,Alagoas,2017,MEI,Total,Total,81767
+184,27,Alagoas,2018,MEI,Total,Total,77582
+185,27,Alagoas,2019,MEI,Total,Total,91887
+186,27,Alagoas,2020,MEI,Total,Total,109589
+187,27,Alagoas,2021,MEI,Total,Total,132213
+188,27,Alagoas,2022,MEI,Total,Total,146347
+189,28,Sergipe,2010,MEI,Total,Total,6837
+190,28,Sergipe,2011,MEI,Total,Total,12745
+191,28,Sergipe,2012,MEI,Total,Total,19268
+192,28,Sergipe,2013,MEI,Total,Total,24926
+193,28,Sergipe,2014,MEI,Total,Total,30741
+194,28,Sergipe,2015,MEI,Total,Total,36918
+195,28,Sergipe,2016,MEI,Total,Total,42574
+196,28,Sergipe,2017,MEI,Total,Total,48346
+197,28,Sergipe,2018,MEI,Total,Total,48038
+198,28,Sergipe,2019,MEI,Total,Total,58486
+199,28,Sergipe,2020,MEI,Total,Total,72872
+200,28,Sergipe,2021,MEI,Total,Total,89587
+201,28,Sergipe,2022,MEI,Total,Total,100080
+202,29,Bahia,2009,MEI,Total,Total,3
+203,29,Bahia,2010,MEI,Total,Total,74039
+204,29,Bahia,2011,MEI,Total,Total,133949
+205,29,Bahia,2012,MEI,Total,Total,192924
+206,29,Bahia,2013,MEI,Total,Total,246910
+207,29,Bahia,2014,MEI,Total,Total,300160
+208,29,Bahia,2015,MEI,Total,Total,352440
+209,29,Bahia,2016,MEI,Total,Total,395692
+210,29,Bahia,2017,MEI,Total,Total,446268
+211,29,Bahia,2018,MEI,Total,Total,424404
+212,29,Bahia,2019,MEI,Total,Total,511143
+213,29,Bahia,2020,MEI,Total,Total,603056
+214,29,Bahia,2021,MEI,Total,Total,709546
+215,29,Bahia,2022,MEI,Total,Total,788264
+216,31,Minas Gerais,2009,MEI,Total,Total,8950
+217,31,Minas Gerais,2010,MEI,Total,Total,72720
+218,31,Minas Gerais,2011,MEI,Total,Total,163027
+219,31,Minas Gerais,2012,MEI,Total,Total,274550
+220,31,Minas Gerais,2013,MEI,Total,Total,388497
+221,31,Minas Gerais,2014,MEI,Total,Total,502724
+222,31,Minas Gerais,2015,MEI,Total,Total,620101
+223,31,Minas Gerais,2016,MEI,Total,Total,729746
+224,31,Minas Gerais,2017,MEI,Total,Total,852339
+225,31,Minas Gerais,2018,MEI,Total,Total,890500
+226,31,Minas Gerais,2019,MEI,Total,Total,1072260
+227,31,Minas Gerais,2020,MEI,Total,Total,1277914
+228,31,Minas Gerais,2021,MEI,Total,Total,1479883
+229,31,Minas Gerais,2022,MEI,Total,Total,1629638
+230,32,Espírito Santo,2009,MEI,Total,Total,2453
+231,32,Espírito Santo,2010,MEI,Total,Total,20244
+232,32,Espírito Santo,2011,MEI,Total,Total,42656
+233,32,Espírito Santo,2012,MEI,Total,Total,68806
+234,32,Espírito Santo,2013,MEI,Total,Total,95023
+235,32,Espírito Santo,2014,MEI,Total,Total,121839
+236,32,Espírito Santo,2015,MEI,Total,Total,148740
+237,32,Espírito Santo,2016,MEI,Total,Total,174250
+238,32,Espírito Santo,2017,MEI,Total,Total,201470
+239,32,Espírito Santo,2018,MEI,Total,Total,203212
+240,32,Espírito Santo,2019,MEI,Total,Total,242409
+241,32,Espírito Santo,2020,MEI,Total,Total,290342
+242,32,Espírito Santo,2021,MEI,Total,Total,337150
+243,32,Espírito Santo,2022,MEI,Total,Total,370892
+244,33,Rio de Janeiro,2009,MEI,Total,Total,6774
+245,33,Rio de Janeiro,2010,MEI,Total,Total,105299
+246,33,Rio de Janeiro,2011,MEI,Total,Total,213280
+247,33,Rio de Janeiro,2012,MEI,Total,Total,327206
+248,33,Rio de Janeiro,2013,MEI,Total,Total,438478
+249,33,Rio de Janeiro,2014,MEI,Total,Total,555851
+250,33,Rio de Janeiro,2015,MEI,Total,Total,690106
+251,33,Rio de Janeiro,2016,MEI,Total,Total,816607
+252,33,Rio de Janeiro,2017,MEI,Total,Total,952625
+253,33,Rio de Janeiro,2018,MEI,Total,Total,902901
+254,33,Rio de Janeiro,2019,MEI,Total,Total,1093887
+255,33,Rio de Janeiro,2020,MEI,Total,Total,1313091
+256,33,Rio de Janeiro,2021,MEI,Total,Total,1525333
+257,33,Rio de Janeiro,2022,MEI,Total,Total,1670110
+258,35,São Paulo,2009,MEI,Total,Total,13268
+259,35,São Paulo,2010,MEI,Total,Total,156261
+260,35,São Paulo,2011,MEI,Total,Total,386160
+261,35,São Paulo,2012,MEI,Total,Total,647064
+262,35,São Paulo,2013,MEI,Total,Total,905043
+263,35,São Paulo,2014,MEI,Total,Total,1169225
+264,35,São Paulo,2015,MEI,Total,Total,1439272
+265,35,São Paulo,2016,MEI,Total,Total,1711010
+266,35,São Paulo,2017,MEI,Total,Total,2010554
+267,35,São Paulo,2018,MEI,Total,Total,2043208
+268,35,São Paulo,2019,MEI,Total,Total,2540259
+269,35,São Paulo,2020,MEI,Total,Total,3058932
+270,35,São Paulo,2021,MEI,Total,Total,3606217
+271,35,São Paulo,2022,MEI,Total,Total,4048550
+272,41,Paraná,2009,MEI,Total,Total,3382
+273,41,Paraná,2010,MEI,Total,Total,39547
+274,41,Paraná,2011,MEI,Total,Total,83396
+275,41,Paraná,2012,MEI,Total,Total,136848
+276,41,Paraná,2013,MEI,Total,Total,193670
+277,41,Paraná,2014,MEI,Total,Total,252646
+278,41,Paraná,2015,MEI,Total,Total,315556
+279,41,Paraná,2016,MEI,Total,Total,376750
+280,41,Paraná,2017,MEI,Total,Total,447227
+281,41,Paraná,2018,MEI,Total,Total,477302
+282,41,Paraná,2019,MEI,Total,Total,583425
+283,41,Paraná,2020,MEI,Total,Total,709945
+284,41,Paraná,2021,MEI,Total,Total,831445
+285,41,Paraná,2022,MEI,Total,Total,938879
+286,42,Santa Catarina,2009,MEI,Total,Total,1595
+287,42,Santa Catarina,2010,MEI,Total,Total,24889
+288,42,Santa Catarina,2011,MEI,Total,Total,52536
+289,42,Santa Catarina,2012,MEI,Total,Total,88155
+290,42,Santa Catarina,2013,MEI,Total,Total,123861
+291,42,Santa Catarina,2014,MEI,Total,Total,159682
+292,42,Santa Catarina,2015,MEI,Total,Total,199555
+293,42,Santa Catarina,2016,MEI,Total,Total,241262
+294,42,Santa Catarina,2017,MEI,Total,Total,289369
+295,42,Santa Catarina,2018,MEI,Total,Total,311765
+296,42,Santa Catarina,2019,MEI,Total,Total,388346
+297,42,Santa Catarina,2020,MEI,Total,Total,477460
+298,42,Santa Catarina,2021,MEI,Total,Total,574714
+299,42,Santa Catarina,2022,MEI,Total,Total,665583
+300,43,Rio Grande do Sul,2009,MEI,Total,Total,3773
+301,43,Rio Grande do Sul,2010,MEI,Total,Total,41924
+302,43,Rio Grande do Sul,2011,MEI,Total,Total,90897
+303,43,Rio Grande do Sul,2012,MEI,Total,Total,152152
+304,43,Rio Grande do Sul,2013,MEI,Total,Total,212350
+305,43,Rio Grande do Sul,2014,MEI,Total,Total,269988
+306,43,Rio Grande do Sul,2015,MEI,Total,Total,329987
+307,43,Rio Grande do Sul,2016,MEI,Total,Total,389857
+308,43,Rio Grande do Sul,2017,MEI,Total,Total,459867
+309,43,Rio Grande do Sul,2018,MEI,Total,Total,476155
+310,43,Rio Grande do Sul,2019,MEI,Total,Total,575222
+311,43,Rio Grande do Sul,2020,MEI,Total,Total,688765
+312,43,Rio Grande do Sul,2021,MEI,Total,Total,804242
+313,43,Rio Grande do Sul,2022,MEI,Total,Total,898886
+314,50,Mato Grosso do Sul,2010,MEI,Total,Total,14592
+315,50,Mato Grosso do Sul,2011,MEI,Total,Total,27876
+316,50,Mato Grosso do Sul,2012,MEI,Total,Total,42906
+317,50,Mato Grosso do Sul,2013,MEI,Total,Total,56252
+318,50,Mato Grosso do Sul,2014,MEI,Total,Total,69707
+319,50,Mato Grosso do Sul,2015,MEI,Total,Total,82517
+320,50,Mato Grosso do Sul,2016,MEI,Total,Total,95890
+321,50,Mato Grosso do Sul,2017,MEI,Total,Total,111076
+322,50,Mato Grosso do Sul,2018,MEI,Total,Total,111311
+323,50,Mato Grosso do Sul,2019,MEI,Total,Total,134043
+324,50,Mato Grosso do Sul,2020,MEI,Total,Total,158658
+325,50,Mato Grosso do Sul,2021,MEI,Total,Total,184869
+326,50,Mato Grosso do Sul,2022,MEI,Total,Total,206124
+327,51,Mato Grosso,2010,MEI,Total,Total,15234
+328,51,Mato Grosso,2011,MEI,Total,Total,33781
+329,51,Mato Grosso,2012,MEI,Total,Total,52718
+330,51,Mato Grosso,2013,MEI,Total,Total,71795
+331,51,Mato Grosso,2014,MEI,Total,Total,88891
+332,51,Mato Grosso,2015,MEI,Total,Total,105912
+333,51,Mato Grosso,2016,MEI,Total,Total,121633
+334,51,Mato Grosso,2017,MEI,Total,Total,141749
+335,51,Mato Grosso,2018,MEI,Total,Total,139364
+336,51,Mato Grosso,2019,MEI,Total,Total,163939
+337,51,Mato Grosso,2020,MEI,Total,Total,194968
+338,51,Mato Grosso,2021,MEI,Total,Total,231500
+339,51,Mato Grosso,2022,MEI,Total,Total,263890
+340,52,Goiás,2009,MEI,Total,Total,9
+341,52,Goiás,2010,MEI,Total,Total,29704
+342,52,Goiás,2011,MEI,Total,Total,61629
+343,52,Goiás,2012,MEI,Total,Total,98644
+344,52,Goiás,2013,MEI,Total,Total,138517
+345,52,Goiás,2014,MEI,Total,Total,175241
+346,52,Goiás,2015,MEI,Total,Total,208403
+347,52,Goiás,2016,MEI,Total,Total,238150
+348,52,Goiás,2017,MEI,Total,Total,272306
+349,52,Goiás,2018,MEI,Total,Total,269770
+350,52,Goiás,2019,MEI,Total,Total,327953
+351,52,Goiás,2020,MEI,Total,Total,391453
+352,52,Goiás,2021,MEI,Total,Total,463806
+353,52,Goiás,2022,MEI,Total,Total,524929
+354,53,Distrito Federal,2009,MEI,Total,Total,2684
+355,53,Distrito Federal,2010,MEI,Total,Total,15095
+356,53,Distrito Federal,2011,MEI,Total,Total,31023
+357,53,Distrito Federal,2012,MEI,Total,Total,50815
+358,53,Distrito Federal,2013,MEI,Total,Total,68614
+359,53,Distrito Federal,2014,MEI,Total,Total,86980
+360,53,Distrito Federal,2015,MEI,Total,Total,107077
+361,53,Distrito Federal,2016,MEI,Total,Total,123769
+362,53,Distrito Federal,2017,MEI,Total,Total,141749
+363,53,Distrito Federal,2018,MEI,Total,Total,139297
+364,53,Distrito Federal,2019,MEI,Total,Total,169225
+365,53,Distrito Federal,2020,MEI,Total,Total,200313
+366,53,Distrito Federal,2021,MEI,Total,Total,232374
+367,53,Distrito Federal,2022,MEI,Total,Total,256057

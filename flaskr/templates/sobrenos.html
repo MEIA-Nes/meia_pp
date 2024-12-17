@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}Análises{% endblock %}
+{% block content %}
+<div data-aos="fade-up" data-aos-duration="900" data-aos-delay="300" class="mb-8 text-center max-w-4xl mx-auto p-4">
+    <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-500 text-transparent bg-clip-text mb-4">
+        Sobre Nós
+    </h1>
+    <h2 class="text-2xl sm:text-xl bg-gradient-to-r from-blue-600 to-purple-500 text-transparent bg-clip-text">
+        Membros do grupo e suas participações.
+    </h2>
+    
+    <div data-aos="fade-up" data-aos-duration="700" data-aos-delay="400" class="mb-8 mt-8 mx-auto">
+        <p class="text-2xl sm:text-xl md:text-2xl text-gray-600 text-center">
+            Este site é um projeto do Prática e Pesquisa, matéria do curso do
+            <a href="https://www.novoensinosuplementar.com" target="_blank" class="text-blue-600 hover:text-blue-800 underline">
+                Novo Ensino Suplementar (NES)
+            </a>
+            . Onde se tinha como objetivo a criação de um site utilizando a
+            ferramenta da biblioteca do python flask.
+            Aqui temos os membros que nele trabalharam e suas respectivas funções.
+        </p>
+     </div>
+</div>
+
+<div data-aos="fade-up" data-aos-duration="700" data-aos-delay="300" 
+    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8 mx-auto justify-center">
+    <!-- Fotos dos membros e descrições de seus trabalhos -->
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='images/aboutus-almir.jpg') }}" 
+            class="w-64 h-auto rounded-md shadow-xl mx-auto">
+        <p class="text-2xl mt-4">Almir Sérgio</p>
+        <ul class="text-xl list-disc pl-5 inline-block text-left">
+            <li>Análises do Dataset</li>
+        </ul>
+    </div>
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='images/aboutus-caua.jpg') }}" 
+            class="w-64 h-auto rounded-md shadow-xl mx-auto">
+        <p class="text-2xl mt-4">Cauã Santos</p>
+        <ul class="text-xl list-disc pl-5 inline-block text-left">
+            <li>Apresentação do site</li>
+        </ul>
+    </div>
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='images/aboutus-joaom.jpg') }}" 
+            class="w-64 h-auto rounded-md shadow-xl mx-auto">
+        <p class="text-2xl mt-4">João Marcus</p>
+        <ul class="text-xl list-disc pl-5 inline-block text-left">
+            <li>Frontend do site</li>
+            <li>Backend do site</li>
+        </ul>
+    </div>
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='images/aboutus-lorena.jpg') }}" 
+            class="w-64 h-auto rounded-md shadow-xl mx-auto">
+        <p class="text-2xl mt-4">Lorena Wangleycia</p>
+        <ul class="text-xl list-disc pl-5 inline-block text-left">
+            <li>Gráficos das análises</li>
+        </ul>
+    </div>
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='images/aboutus-nicolas.jpg') }}" 
+            class="w-64 h-auto rounded-md shadow-xl mx-auto">
+        <p class="text-2xl mt-4">Nícolas asdasd</p>
+        <ul class="text-xl list-disc pl-5 inline-block text-left">
+            <li>Frontend do site</li>
+            <li>Backend do site</li>
+        </ul>
+    </div>
+</div>
+
+{% endblock %}

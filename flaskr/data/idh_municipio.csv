@@ -1,0 +1,1225 @@
+_id,co_mun,no_mun,ano,variavel,idh_categoria,idh_subcategoria,valor
+1,2700102,Água Branca,1991,IDH,Educação,Total,0.106
+2,2700102,Água Branca,1991,IDH,Longevidade,Total,0.576
+3,2700102,Água Branca,1991,IDH,Renda,Total,0.367
+4,2700102,Água Branca,1991,IDH,Total,Total,0.282
+5,2700102,Água Branca,2000,IDH,Educação,Total,0.195
+6,2700102,Água Branca,2000,IDH,Longevidade,Total,0.675
+7,2700102,Água Branca,2000,IDH,Renda,Total,0.459
+8,2700102,Água Branca,2000,IDH,Total,Total,0.392
+9,2700102,Água Branca,2010,IDH,Educação,Total,0.432
+10,2700102,Água Branca,2010,IDH,Longevidade,Total,0.728
+11,2700102,Água Branca,2010,IDH,Renda,Total,0.527
+12,2700102,Água Branca,2010,IDH,Total,Total,0.549
+13,2700201,Anadia,1991,IDH,Educação,Total,0.118
+14,2700201,Anadia,1991,IDH,Longevidade,Total,0.537
+15,2700201,Anadia,1991,IDH,Renda,Total,0.433
+16,2700201,Anadia,1991,IDH,Total,Total,0.302
+17,2700201,Anadia,2000,IDH,Educação,Total,0.242
+18,2700201,Anadia,2000,IDH,Longevidade,Total,0.661
+19,2700201,Anadia,2000,IDH,Renda,Total,0.491
+20,2700201,Anadia,2000,IDH,Total,Total,0.428
+21,2700201,Anadia,2010,IDH,Educação,Total,0.444
+22,2700201,Anadia,2010,IDH,Longevidade,Total,0.756
+23,2700201,Anadia,2010,IDH,Renda,Total,0.546
+24,2700201,Anadia,2010,IDH,Total,Total,0.568
+25,2700300,Arapiraca,1991,IDH,Educação,Total,0.165
+26,2700300,Arapiraca,1991,IDH,Longevidade,Total,0.525
+27,2700300,Arapiraca,1991,IDH,Renda,Total,0.532
+28,2700300,Arapiraca,1991,IDH,Total,Total,0.359
+29,2700300,Arapiraca,2000,IDH,Educação,Total,0.297
+30,2700300,Arapiraca,2000,IDH,Longevidade,Total,0.65
+31,2700300,Arapiraca,2000,IDH,Renda,Total,0.558
+32,2700300,Arapiraca,2000,IDH,Total,Total,0.476
+33,2700300,Arapiraca,2010,IDH,Educação,Total,0.549
+34,2700300,Arapiraca,2010,IDH,Longevidade,Total,0.78
+35,2700300,Arapiraca,2010,IDH,Renda,Total,0.638
+36,2700300,Arapiraca,2010,IDH,Total,Total,0.649
+37,2700409,Atalaia,1991,IDH,Educação,Total,0.084
+38,2700409,Atalaia,1991,IDH,Longevidade,Total,0.632
+39,2700409,Atalaia,1991,IDH,Renda,Total,0.434
+40,2700409,Atalaia,1991,IDH,Total,Total,0.285
+41,2700409,Atalaia,2000,IDH,Educação,Total,0.203
+42,2700409,Atalaia,2000,IDH,Longevidade,Total,0.701
+43,2700409,Atalaia,2000,IDH,Renda,Total,0.474
+44,2700409,Atalaia,2000,IDH,Total,Total,0.407
+45,2700409,Atalaia,2010,IDH,Educação,Total,0.431
+46,2700409,Atalaia,2010,IDH,Longevidade,Total,0.752
+47,2700409,Atalaia,2010,IDH,Renda,Total,0.545
+48,2700409,Atalaia,2010,IDH,Total,Total,0.561
+49,2700508,Barra de Santo Antônio,1991,IDH,Educação,Total,0.085
+50,2700508,Barra de Santo Antônio,1991,IDH,Longevidade,Total,0.552
+51,2700508,Barra de Santo Antônio,1991,IDH,Renda,Total,0.398
+52,2700508,Barra de Santo Antônio,1991,IDH,Total,Total,0.265
+53,2700508,Barra de Santo Antônio,2000,IDH,Educação,Total,0.176
+54,2700508,Barra de Santo Antônio,2000,IDH,Longevidade,Total,0.667
+55,2700508,Barra de Santo Antônio,2000,IDH,Renda,Total,0.46
+56,2700508,Barra de Santo Antônio,2000,IDH,Total,Total,0.378
+57,2700508,Barra de Santo Antônio,2010,IDH,Educação,Total,0.428
+58,2700508,Barra de Santo Antônio,2010,IDH,Longevidade,Total,0.732
+59,2700508,Barra de Santo Antônio,2010,IDH,Renda,Total,0.552
+60,2700508,Barra de Santo Antônio,2010,IDH,Total,Total,0.557
+61,2700607,Barra de São Miguel,1991,IDH,Educação,Total,0.079
+62,2700607,Barra de São Miguel,1991,IDH,Longevidade,Total,0.552
+63,2700607,Barra de São Miguel,1991,IDH,Renda,Total,0.476
+64,2700607,Barra de São Miguel,1991,IDH,Total,Total,0.275
+65,2700607,Barra de São Miguel,2000,IDH,Educação,Total,0.235
+66,2700607,Barra de São Miguel,2000,IDH,Longevidade,Total,0.683
+67,2700607,Barra de São Miguel,2000,IDH,Renda,Total,0.531
+68,2700607,Barra de São Miguel,2000,IDH,Total,Total,0.44
+69,2700607,Barra de São Miguel,2010,IDH,Educação,Total,0.475
+70,2700607,Barra de São Miguel,2010,IDH,Longevidade,Total,0.767
+71,2700607,Barra de São Miguel,2010,IDH,Renda,Total,0.638
+72,2700607,Barra de São Miguel,2010,IDH,Total,Total,0.615
+73,2700706,Batalha,1991,IDH,Educação,Total,0.11
+74,2700706,Batalha,1991,IDH,Longevidade,Total,0.481
+75,2700706,Batalha,1991,IDH,Renda,Total,0.468
+76,2700706,Batalha,1991,IDH,Total,Total,0.291
+77,2700706,Batalha,2000,IDH,Educação,Total,0.188
+78,2700706,Batalha,2000,IDH,Longevidade,Total,0.622
+79,2700706,Batalha,2000,IDH,Renda,Total,0.551
+80,2700706,Batalha,2000,IDH,Total,Total,0.401
+81,2700706,Batalha,2010,IDH,Educação,Total,0.496
+82,2700706,Batalha,2010,IDH,Longevidade,Total,0.752
+83,2700706,Batalha,2010,IDH,Renda,Total,0.563
+84,2700706,Batalha,2010,IDH,Total,Total,0.594
+85,2700805,Belém,1991,IDH,Educação,Total,0.105
+86,2700805,Belém,1991,IDH,Longevidade,Total,0.567
+87,2700805,Belém,1991,IDH,Renda,Total,0.444
+88,2700805,Belém,1991,IDH,Total,Total,0.298
+89,2700805,Belém,2000,IDH,Educação,Total,0.236
+90,2700805,Belém,2000,IDH,Longevidade,Total,0.655
+91,2700805,Belém,2000,IDH,Renda,Total,0.465
+92,2700805,Belém,2000,IDH,Total,Total,0.416
+93,2700805,Belém,2010,IDH,Educação,Total,0.464
+94,2700805,Belém,2010,IDH,Longevidade,Total,0.764
+95,2700805,Belém,2010,IDH,Renda,Total,0.587
+96,2700805,Belém,2010,IDH,Total,Total,0.593
+97,2700904,Belo Monte,1991,IDH,Educação,Total,0.063
+98,2700904,Belo Monte,1991,IDH,Longevidade,Total,0.495
+99,2700904,Belo Monte,1991,IDH,Renda,Total,0.373
+100,2700904,Belo Monte,1991,IDH,Total,Total,0.227
+101,2700904,Belo Monte,2000,IDH,Educação,Total,0.137
+102,2700904,Belo Monte,2000,IDH,Longevidade,Total,0.629
+103,2700904,Belo Monte,2000,IDH,Renda,Total,0.419
+104,2700904,Belo Monte,2000,IDH,Total,Total,0.331
+105,2700904,Belo Monte,2010,IDH,Educação,Total,0.376
+106,2700904,Belo Monte,2010,IDH,Longevidade,Total,0.725
+107,2700904,Belo Monte,2010,IDH,Renda,Total,0.507
+108,2700904,Belo Monte,2010,IDH,Total,Total,0.517
+109,2701001,Boca da Mata,1991,IDH,Educação,Total,0.143
+110,2701001,Boca da Mata,1991,IDH,Longevidade,Total,0.576
+111,2701001,Boca da Mata,1991,IDH,Renda,Total,0.45
+112,2701001,Boca da Mata,1991,IDH,Total,Total,0.333
+113,2701001,Boca da Mata,2000,IDH,Educação,Total,0.227
+114,2701001,Boca da Mata,2000,IDH,Longevidade,Total,0.664
+115,2701001,Boca da Mata,2000,IDH,Renda,Total,0.492
+116,2701001,Boca da Mata,2000,IDH,Total,Total,0.42
+117,2701001,Boca da Mata,2010,IDH,Educação,Total,0.518
+118,2701001,Boca da Mata,2010,IDH,Longevidade,Total,0.758
+119,2701001,Boca da Mata,2010,IDH,Renda,Total,0.56
+120,2701001,Boca da Mata,2010,IDH,Total,Total,0.604
+121,2701100,Branquinha,1991,IDH,Educação,Total,0.042
+122,2701100,Branquinha,1991,IDH,Longevidade,Total,0.496
+123,2701100,Branquinha,1991,IDH,Renda,Total,0.369
+124,2701100,Branquinha,1991,IDH,Total,Total,0.197
+125,2701100,Branquinha,2000,IDH,Educação,Total,0.12
+126,2701100,Branquinha,2000,IDH,Longevidade,Total,0.574
+127,2701100,Branquinha,2000,IDH,Renda,Total,0.437
+128,2701100,Branquinha,2000,IDH,Total,Total,0.311
+129,2701100,Branquinha,2010,IDH,Educação,Total,0.362
+130,2701100,Branquinha,2010,IDH,Longevidade,Total,0.699
+131,2701100,Branquinha,2010,IDH,Renda,Total,0.534
+132,2701100,Branquinha,2010,IDH,Total,Total,0.513
+133,2701209,Cacimbinhas,1991,IDH,Educação,Total,0.095
+134,2701209,Cacimbinhas,1991,IDH,Longevidade,Total,0.527
+135,2701209,Cacimbinhas,1991,IDH,Renda,Total,0.45
+136,2701209,Cacimbinhas,1991,IDH,Total,Total,0.282
+137,2701209,Cacimbinhas,2000,IDH,Educação,Total,0.161
+138,2701209,Cacimbinhas,2000,IDH,Longevidade,Total,0.621
+139,2701209,Cacimbinhas,2000,IDH,Renda,Total,0.463
+140,2701209,Cacimbinhas,2000,IDH,Total,Total,0.359
+141,2701209,Cacimbinhas,2010,IDH,Educação,Total,0.384
+142,2701209,Cacimbinhas,2010,IDH,Longevidade,Total,0.697
+143,2701209,Cacimbinhas,2010,IDH,Renda,Total,0.559
+144,2701209,Cacimbinhas,2010,IDH,Total,Total,0.531
+145,2701308,Cajueiro,1991,IDH,Educação,Total,0.114
+146,2701308,Cajueiro,1991,IDH,Longevidade,Total,0.49
+147,2701308,Cajueiro,1991,IDH,Renda,Total,0.429
+148,2701308,Cajueiro,1991,IDH,Total,Total,0.288
+149,2701308,Cajueiro,2000,IDH,Educação,Total,0.217
+150,2701308,Cajueiro,2000,IDH,Longevidade,Total,0.592
+151,2701308,Cajueiro,2000,IDH,Renda,Total,0.445
+152,2701308,Cajueiro,2000,IDH,Total,Total,0.385
+153,2701308,Cajueiro,2010,IDH,Educação,Total,0.473
+154,2701308,Cajueiro,2010,IDH,Longevidade,Total,0.691
+155,2701308,Cajueiro,2010,IDH,Renda,Total,0.542
+156,2701308,Cajueiro,2010,IDH,Total,Total,0.562
+157,2701357,Campestre,1991,IDH,Educação,Total,0.136
+158,2701357,Campestre,1991,IDH,Longevidade,Total,0.517
+159,2701357,Campestre,1991,IDH,Renda,Total,0.432
+160,2701357,Campestre,1991,IDH,Total,Total,0.312
+161,2701357,Campestre,2000,IDH,Educação,Total,0.243
+162,2701357,Campestre,2000,IDH,Longevidade,Total,0.601
+163,2701357,Campestre,2000,IDH,Renda,Total,0.48
+164,2701357,Campestre,2000,IDH,Total,Total,0.412
+165,2701357,Campestre,2010,IDH,Educação,Total,0.435
+166,2701357,Campestre,2010,IDH,Longevidade,Total,0.729
+167,2701357,Campestre,2010,IDH,Renda,Total,0.55
+168,2701357,Campestre,2010,IDH,Total,Total,0.559
+169,2701407,Campo Alegre,1991,IDH,Educação,Total,0.094
+170,2701407,Campo Alegre,1991,IDH,Longevidade,Total,0.576
+171,2701407,Campo Alegre,1991,IDH,Renda,Total,0.46
+172,2701407,Campo Alegre,1991,IDH,Total,Total,0.292
+173,2701407,Campo Alegre,2000,IDH,Educação,Total,0.195
+174,2701407,Campo Alegre,2000,IDH,Longevidade,Total,0.664
+175,2701407,Campo Alegre,2000,IDH,Renda,Total,0.468
+176,2701407,Campo Alegre,2000,IDH,Total,Total,0.393
+177,2701407,Campo Alegre,2010,IDH,Educação,Total,0.47
+178,2701407,Campo Alegre,2010,IDH,Longevidade,Total,0.742
+179,2701407,Campo Alegre,2010,IDH,Renda,Total,0.531
+180,2701407,Campo Alegre,2010,IDH,Total,Total,0.57
+181,2701506,Campo Grande,1991,IDH,Educação,Total,0.053
+182,2701506,Campo Grande,1991,IDH,Longevidade,Total,0.516
+183,2701506,Campo Grande,1991,IDH,Renda,Total,0.357
+184,2701506,Campo Grande,1991,IDH,Total,Total,0.214
+185,2701506,Campo Grande,2000,IDH,Educação,Total,0.141
+186,2701506,Campo Grande,2000,IDH,Longevidade,Total,0.637
+187,2701506,Campo Grande,2000,IDH,Renda,Total,0.427
+188,2701506,Campo Grande,2000,IDH,Total,Total,0.337
+189,2701506,Campo Grande,2010,IDH,Educação,Total,0.387
+190,2701506,Campo Grande,2010,IDH,Longevidade,Total,0.739
+191,2701506,Campo Grande,2010,IDH,Renda,Total,0.502
+192,2701506,Campo Grande,2010,IDH,Total,Total,0.524
+193,2701605,Canapi,1991,IDH,Educação,Total,0.047
+194,2701605,Canapi,1991,IDH,Longevidade,Total,0.467
+195,2701605,Canapi,1991,IDH,Renda,Total,0.39
+196,2701605,Canapi,1991,IDH,Total,Total,0.205
+197,2701605,Canapi,2000,IDH,Educação,Total,0.125
+198,2701605,Canapi,2000,IDH,Longevidade,Total,0.608
+199,2701605,Canapi,2000,IDH,Renda,Total,0.378
+200,2701605,Canapi,2000,IDH,Total,Total,0.306
+201,2701605,Canapi,2010,IDH,Educação,Total,0.357
+202,2701605,Canapi,2010,IDH,Longevidade,Total,0.719
+203,2701605,Canapi,2010,IDH,Renda,Total,0.504
+204,2701605,Canapi,2010,IDH,Total,Total,0.506
+205,2701704,Capela,1991,IDH,Educação,Total,0.103
+206,2701704,Capela,1991,IDH,Longevidade,Total,0.552
+207,2701704,Capela,1991,IDH,Renda,Total,0.419
+208,2701704,Capela,1991,IDH,Total,Total,0.288
+209,2701704,Capela,2000,IDH,Educação,Total,0.188
+210,2701704,Capela,2000,IDH,Longevidade,Total,0.625
+211,2701704,Capela,2000,IDH,Renda,Total,0.464
+212,2701704,Capela,2000,IDH,Total,Total,0.379
+213,2701704,Capela,2010,IDH,Educação,Total,0.456
+214,2701704,Capela,2010,IDH,Longevidade,Total,0.743
+215,2701704,Capela,2010,IDH,Renda,Total,0.554
+216,2701704,Capela,2010,IDH,Total,Total,0.573
+217,2701803,Carneiros,1991,IDH,Educação,Total,0.106
+218,2701803,Carneiros,1991,IDH,Longevidade,Total,0.457
+219,2701803,Carneiros,1991,IDH,Renda,Total,0.41
+220,2701803,Carneiros,1991,IDH,Total,Total,0.271
+221,2701803,Carneiros,2000,IDH,Educação,Total,0.182
+222,2701803,Carneiros,2000,IDH,Longevidade,Total,0.575
+223,2701803,Carneiros,2000,IDH,Renda,Total,0.432
+224,2701803,Carneiros,2000,IDH,Total,Total,0.356
+225,2701803,Carneiros,2010,IDH,Educação,Total,0.398
+226,2701803,Carneiros,2010,IDH,Longevidade,Total,0.709
+227,2701803,Carneiros,2010,IDH,Renda,Total,0.517
+228,2701803,Carneiros,2010,IDH,Total,Total,0.526
+229,2701902,Chã Preta,1991,IDH,Educação,Total,0.109
+230,2701902,Chã Preta,1991,IDH,Longevidade,Total,0.537
+231,2701902,Chã Preta,1991,IDH,Renda,Total,0.405
+232,2701902,Chã Preta,1991,IDH,Total,Total,0.287
+233,2701902,Chã Preta,2000,IDH,Educação,Total,0.211
+234,2701902,Chã Preta,2000,IDH,Longevidade,Total,0.608
+235,2701902,Chã Preta,2000,IDH,Renda,Total,0.437
+236,2701902,Chã Preta,2000,IDH,Total,Total,0.383
+237,2701902,Chã Preta,2010,IDH,Educação,Total,0.481
+238,2701902,Chã Preta,2010,IDH,Longevidade,Total,0.737
+239,2701902,Chã Preta,2010,IDH,Renda,Total,0.537
+240,2701902,Chã Preta,2010,IDH,Total,Total,0.575
+241,2702009,Coité do Nóia,1991,IDH,Educação,Total,0.06
+242,2702009,Coité do Nóia,1991,IDH,Longevidade,Total,0.516
+243,2702009,Coité do Nóia,1991,IDH,Renda,Total,0.418
+244,2702009,Coité do Nóia,1991,IDH,Total,Total,0.235
+245,2702009,Coité do Nóia,2000,IDH,Educação,Total,0.158
+246,2702009,Coité do Nóia,2000,IDH,Longevidade,Total,0.637
+247,2702009,Coité do Nóia,2000,IDH,Renda,Total,0.44
+248,2702009,Coité do Nóia,2000,IDH,Total,Total,0.354
+249,2702009,Coité do Nóia,2010,IDH,Educação,Total,0.398
+250,2702009,Coité do Nóia,2010,IDH,Longevidade,Total,0.73
+251,2702009,Coité do Nóia,2010,IDH,Renda,Total,0.52
+252,2702009,Coité do Nóia,2010,IDH,Total,Total,0.533
+253,2702108,Colônia Leopoldina,1991,IDH,Educação,Total,0.08
+254,2702108,Colônia Leopoldina,1991,IDH,Longevidade,Total,0.517
+255,2702108,Colônia Leopoldina,1991,IDH,Renda,Total,0.403
+256,2702108,Colônia Leopoldina,1991,IDH,Total,Total,0.255
+257,2702108,Colônia Leopoldina,2000,IDH,Educação,Total,0.187
+258,2702108,Colônia Leopoldina,2000,IDH,Longevidade,Total,0.598
+259,2702108,Colônia Leopoldina,2000,IDH,Renda,Total,0.478
+260,2702108,Colônia Leopoldina,2000,IDH,Total,Total,0.377
+261,2702108,Colônia Leopoldina,2010,IDH,Educação,Total,0.363
+262,2702108,Colônia Leopoldina,2010,IDH,Longevidade,Total,0.693
+263,2702108,Colônia Leopoldina,2010,IDH,Renda,Total,0.548
+264,2702108,Colônia Leopoldina,2010,IDH,Total,Total,0.517
+265,2702207,Coqueiro Seco,1991,IDH,Educação,Total,0.146
+266,2702207,Coqueiro Seco,1991,IDH,Longevidade,Total,0.576
+267,2702207,Coqueiro Seco,1991,IDH,Renda,Total,0.485
+268,2702207,Coqueiro Seco,1991,IDH,Total,Total,0.344
+269,2702207,Coqueiro Seco,2000,IDH,Educação,Total,0.284
+270,2702207,Coqueiro Seco,2000,IDH,Longevidade,Total,0.698
+271,2702207,Coqueiro Seco,2000,IDH,Renda,Total,0.511
+272,2702207,Coqueiro Seco,2000,IDH,Total,Total,0.466
+273,2702207,Coqueiro Seco,2010,IDH,Educação,Total,0.457
+274,2702207,Coqueiro Seco,2010,IDH,Longevidade,Total,0.757
+275,2702207,Coqueiro Seco,2010,IDH,Renda,Total,0.582
+276,2702207,Coqueiro Seco,2010,IDH,Total,Total,0.586
+277,2702306,Coruripe,1991,IDH,Educação,Total,0.116
+278,2702306,Coruripe,1991,IDH,Longevidade,Total,0.576
+279,2702306,Coruripe,1991,IDH,Renda,Total,0.477
+280,2702306,Coruripe,1991,IDH,Total,Total,0.317
+281,2702306,Coruripe,2000,IDH,Educação,Total,0.224
+282,2702306,Coruripe,2000,IDH,Longevidade,Total,0.638
+283,2702306,Coruripe,2000,IDH,Renda,Total,0.515
+284,2702306,Coruripe,2000,IDH,Total,Total,0.419
+285,2702306,Coruripe,2010,IDH,Educação,Total,0.541
+286,2702306,Coruripe,2010,IDH,Longevidade,Total,0.769
+287,2702306,Coruripe,2010,IDH,Renda,Total,0.591
+288,2702306,Coruripe,2010,IDH,Total,Total,0.626
+289,2702355,Craíbas,1991,IDH,Educação,Total,0.041
+290,2702355,Craíbas,1991,IDH,Longevidade,Total,0.516
+291,2702355,Craíbas,1991,IDH,Renda,Total,0.402
+292,2702355,Craíbas,1991,IDH,Total,Total,0.204
+293,2702355,Craíbas,2000,IDH,Educação,Total,0.148
+294,2702355,Craíbas,2000,IDH,Longevidade,Total,0.637
+295,2702355,Craíbas,2000,IDH,Renda,Total,0.43
+296,2702355,Craíbas,2000,IDH,Total,Total,0.344
+297,2702355,Craíbas,2010,IDH,Educação,Total,0.408
+298,2702355,Craíbas,2010,IDH,Longevidade,Total,0.687
+299,2702355,Craíbas,2010,IDH,Renda,Total,0.517
+300,2702355,Craíbas,2010,IDH,Total,Total,0.525
+301,2702405,Delmiro Gouveia,1991,IDH,Educação,Total,0.149
+302,2702405,Delmiro Gouveia,1991,IDH,Longevidade,Total,0.537
+303,2702405,Delmiro Gouveia,1991,IDH,Renda,Total,0.464
+304,2702405,Delmiro Gouveia,1991,IDH,Total,Total,0.334
+305,2702405,Delmiro Gouveia,2000,IDH,Educação,Total,0.235
+306,2702405,Delmiro Gouveia,2000,IDH,Longevidade,Total,0.657
+307,2702405,Delmiro Gouveia,2000,IDH,Renda,Total,0.537
+308,2702405,Delmiro Gouveia,2000,IDH,Total,Total,0.436
+309,2702405,Delmiro Gouveia,2010,IDH,Educação,Total,0.494
+310,2702405,Delmiro Gouveia,2010,IDH,Longevidade,Total,0.774
+311,2702405,Delmiro Gouveia,2010,IDH,Renda,Total,0.599
+312,2702405,Delmiro Gouveia,2010,IDH,Total,Total,0.612
+313,2702504,Dois Riachos,1991,IDH,Educação,Total,0.087
+314,2702504,Dois Riachos,1991,IDH,Longevidade,Total,0.509
+315,2702504,Dois Riachos,1991,IDH,Renda,Total,0.403
+316,2702504,Dois Riachos,1991,IDH,Total,Total,0.261
+317,2702504,Dois Riachos,2000,IDH,Educação,Total,0.17
+318,2702504,Dois Riachos,2000,IDH,Longevidade,Total,0.634
+319,2702504,Dois Riachos,2000,IDH,Renda,Total,0.47
+320,2702504,Dois Riachos,2000,IDH,Total,Total,0.37
+321,2702504,Dois Riachos,2010,IDH,Educação,Total,0.385
+322,2702504,Dois Riachos,2010,IDH,Longevidade,Total,0.762
+323,2702504,Dois Riachos,2010,IDH,Renda,Total,0.513
+324,2702504,Dois Riachos,2010,IDH,Total,Total,0.532
+325,2702553,Estrela de Alagoas,1991,IDH,Educação,Total,0.05
+326,2702553,Estrela de Alagoas,1991,IDH,Longevidade,Total,0.549
+327,2702553,Estrela de Alagoas,1991,IDH,Renda,Total,0.394
+328,2702553,Estrela de Alagoas,1991,IDH,Total,Total,0.221
+329,2702553,Estrela de Alagoas,2000,IDH,Educação,Total,0.135
+330,2702553,Estrela de Alagoas,2000,IDH,Longevidade,Total,0.61
+331,2702553,Estrela de Alagoas,2000,IDH,Renda,Total,0.406
+332,2702553,Estrela de Alagoas,2000,IDH,Total,Total,0.322
+333,2702553,Estrela de Alagoas,2010,IDH,Educação,Total,0.41
+334,2702553,Estrela de Alagoas,2010,IDH,Longevidade,Total,0.72
+335,2702553,Estrela de Alagoas,2010,IDH,Renda,Total,0.515
+336,2702553,Estrela de Alagoas,2010,IDH,Total,Total,0.534
+337,2702603,Feira Grande,1991,IDH,Educação,Total,0.079
+338,2702603,Feira Grande,1991,IDH,Longevidade,Total,0.488
+339,2702603,Feira Grande,1991,IDH,Renda,Total,0.403
+340,2702603,Feira Grande,1991,IDH,Total,Total,0.25
+341,2702603,Feira Grande,2000,IDH,Educação,Total,0.18
+342,2702603,Feira Grande,2000,IDH,Longevidade,Total,0.626
+343,2702603,Feira Grande,2000,IDH,Renda,Total,0.454
+344,2702603,Feira Grande,2000,IDH,Total,Total,0.371
+345,2702603,Feira Grande,2010,IDH,Educação,Total,0.402
+346,2702603,Feira Grande,2010,IDH,Longevidade,Total,0.736
+347,2702603,Feira Grande,2010,IDH,Renda,Total,0.512
+348,2702603,Feira Grande,2010,IDH,Total,Total,0.533
+349,2702702,Feliz Deserto,1991,IDH,Educação,Total,0.149
+350,2702702,Feliz Deserto,1991,IDH,Longevidade,Total,0.559
+351,2702702,Feliz Deserto,1991,IDH,Renda,Total,0.429
+352,2702702,Feliz Deserto,1991,IDH,Total,Total,0.329
+353,2702702,Feliz Deserto,2000,IDH,Educação,Total,0.231
+354,2702702,Feliz Deserto,2000,IDH,Longevidade,Total,0.687
+355,2702702,Feliz Deserto,2000,IDH,Renda,Total,0.436
+356,2702702,Feliz Deserto,2000,IDH,Total,Total,0.411
+357,2702702,Feliz Deserto,2010,IDH,Educação,Total,0.462
+358,2702702,Feliz Deserto,2010,IDH,Longevidade,Total,0.708
+359,2702702,Feliz Deserto,2010,IDH,Renda,Total,0.55
+360,2702702,Feliz Deserto,2010,IDH,Total,Total,0.565
+361,2702801,Flexeiras,1991,IDH,Educação,Total,0.063
+362,2702801,Flexeiras,1991,IDH,Longevidade,Total,0.49
+363,2702801,Flexeiras,1991,IDH,Renda,Total,0.404
+364,2702801,Flexeiras,1991,IDH,Total,Total,0.232
+365,2702801,Flexeiras,2000,IDH,Educação,Total,0.19
+366,2702801,Flexeiras,2000,IDH,Longevidade,Total,0.608
+367,2702801,Flexeiras,2000,IDH,Renda,Total,0.45
+368,2702801,Flexeiras,2000,IDH,Total,Total,0.373
+369,2702801,Flexeiras,2010,IDH,Educação,Total,0.4
+370,2702801,Flexeiras,2010,IDH,Longevidade,Total,0.693
+371,2702801,Flexeiras,2010,IDH,Renda,Total,0.528
+372,2702801,Flexeiras,2010,IDH,Total,Total,0.527
+373,2702900,Girau do Ponciano,1991,IDH,Educação,Total,0.067
+374,2702900,Girau do Ponciano,1991,IDH,Longevidade,Total,0.516
+375,2702900,Girau do Ponciano,1991,IDH,Renda,Total,0.405
+376,2702900,Girau do Ponciano,1991,IDH,Total,Total,0.241
+377,2702900,Girau do Ponciano,2000,IDH,Educação,Total,0.141
+378,2702900,Girau do Ponciano,2000,IDH,Longevidade,Total,0.634
+379,2702900,Girau do Ponciano,2000,IDH,Renda,Total,0.422
+380,2702900,Girau do Ponciano,2000,IDH,Total,Total,0.335
+381,2702900,Girau do Ponciano,2010,IDH,Educação,Total,0.405
+382,2702900,Girau do Ponciano,2010,IDH,Longevidade,Total,0.762
+383,2702900,Girau do Ponciano,2010,IDH,Renda,Total,0.498
+384,2702900,Girau do Ponciano,2010,IDH,Total,Total,0.536
+385,2703007,Ibateguara,1991,IDH,Educação,Total,0.09
+386,2703007,Ibateguara,1991,IDH,Longevidade,Total,0.527
+387,2703007,Ibateguara,1991,IDH,Renda,Total,0.397
+388,2703007,Ibateguara,1991,IDH,Total,Total,0.266
+389,2703007,Ibateguara,2000,IDH,Educação,Total,0.126
+390,2703007,Ibateguara,2000,IDH,Longevidade,Total,0.657
+391,2703007,Ibateguara,2000,IDH,Renda,Total,0.463
+392,2703007,Ibateguara,2000,IDH,Total,Total,0.337
+393,2703007,Ibateguara,2010,IDH,Educação,Total,0.393
+394,2703007,Ibateguara,2010,IDH,Longevidade,Total,0.684
+395,2703007,Ibateguara,2010,IDH,Renda,Total,0.517
+396,2703007,Ibateguara,2010,IDH,Total,Total,0.518
+397,2703106,Igaci,1991,IDH,Educação,Total,0.07
+398,2703106,Igaci,1991,IDH,Longevidade,Total,0.512
+399,2703106,Igaci,1991,IDH,Renda,Total,0.39
+400,2703106,Igaci,1991,IDH,Total,Total,0.241
+401,2703106,Igaci,2000,IDH,Educação,Total,0.191
+402,2703106,Igaci,2000,IDH,Longevidade,Total,0.65
+403,2703106,Igaci,2000,IDH,Renda,Total,0.396
+404,2703106,Igaci,2000,IDH,Total,Total,0.366
+405,2703106,Igaci,2010,IDH,Educação,Total,0.424
+406,2703106,Igaci,2010,IDH,Longevidade,Total,0.774
+407,2703106,Igaci,2010,IDH,Renda,Total,0.547
+408,2703106,Igaci,2010,IDH,Total,Total,0.564
+409,2703205,Igreja Nova,1991,IDH,Educação,Total,0.049
+410,2703205,Igreja Nova,1991,IDH,Longevidade,Total,0.559
+411,2703205,Igreja Nova,1991,IDH,Renda,Total,0.391
+412,2703205,Igreja Nova,1991,IDH,Total,Total,0.22
+413,2703205,Igreja Nova,2000,IDH,Educação,Total,0.175
+414,2703205,Igreja Nova,2000,IDH,Longevidade,Total,0.698
+415,2703205,Igreja Nova,2000,IDH,Renda,Total,0.428
+416,2703205,Igreja Nova,2000,IDH,Total,Total,0.374
+417,2703205,Igreja Nova,2010,IDH,Educação,Total,0.428
+418,2703205,Igreja Nova,2010,IDH,Longevidade,Total,0.771
+419,2703205,Igreja Nova,2010,IDH,Renda,Total,0.556
+420,2703205,Igreja Nova,2010,IDH,Total,Total,0.568
+421,2703304,Inhapi,1991,IDH,Educação,Total,0.04
+422,2703304,Inhapi,1991,IDH,Longevidade,Total,0.467
+423,2703304,Inhapi,1991,IDH,Renda,Total,0.364
+424,2703304,Inhapi,1991,IDH,Total,Total,0.189
+425,2703304,Inhapi,2000,IDH,Educação,Total,0.09
+426,2703304,Inhapi,2000,IDH,Longevidade,Total,0.603
+427,2703304,Inhapi,2000,IDH,Renda,Total,0.409
+428,2703304,Inhapi,2000,IDH,Total,Total,0.281
+429,2703304,Inhapi,2010,IDH,Educação,Total,0.316
+430,2703304,Inhapi,2010,IDH,Longevidade,Total,0.718
+431,2703304,Inhapi,2010,IDH,Renda,Total,0.501
+432,2703304,Inhapi,2010,IDH,Total,Total,0.484
+433,2703403,Jacaré dos Homens,1991,IDH,Educação,Total,0.114
+434,2703403,Jacaré dos Homens,1991,IDH,Longevidade,Total,0.516
+435,2703403,Jacaré dos Homens,1991,IDH,Renda,Total,0.439
+436,2703403,Jacaré dos Homens,1991,IDH,Total,Total,0.296
+437,2703403,Jacaré dos Homens,2000,IDH,Educação,Total,0.188
+438,2703403,Jacaré dos Homens,2000,IDH,Longevidade,Total,0.634
+439,2703403,Jacaré dos Homens,2000,IDH,Renda,Total,0.535
+440,2703403,Jacaré dos Homens,2000,IDH,Total,Total,0.4
+441,2703403,Jacaré dos Homens,2010,IDH,Educação,Total,0.481
+442,2703403,Jacaré dos Homens,2010,IDH,Longevidade,Total,0.759
+443,2703403,Jacaré dos Homens,2010,IDH,Renda,Total,0.543
+444,2703403,Jacaré dos Homens,2010,IDH,Total,Total,0.583
+445,2703502,Jacuípe,1991,IDH,Educação,Total,0.05
+446,2703502,Jacuípe,1991,IDH,Longevidade,Total,0.552
+447,2703502,Jacuípe,1991,IDH,Renda,Total,0.437
+448,2703502,Jacuípe,1991,IDH,Total,Total,0.229
+449,2703502,Jacuípe,2000,IDH,Educação,Total,0.167
+450,2703502,Jacuípe,2000,IDH,Longevidade,Total,0.634
+451,2703502,Jacuípe,2000,IDH,Renda,Total,0.434
+452,2703502,Jacuípe,2000,IDH,Total,Total,0.358
+453,2703502,Jacuípe,2010,IDH,Educação,Total,0.41
+454,2703502,Jacuípe,2010,IDH,Longevidade,Total,0.755
+455,2703502,Jacuípe,2010,IDH,Renda,Total,0.532
+456,2703502,Jacuípe,2010,IDH,Total,Total,0.548
+457,2703601,Japaratinga,1991,IDH,Educação,Total,0.132
+458,2703601,Japaratinga,1991,IDH,Longevidade,Total,0.627
+459,2703601,Japaratinga,1991,IDH,Renda,Total,0.437
+460,2703601,Japaratinga,1991,IDH,Total,Total,0.331
+461,2703601,Japaratinga,2000,IDH,Educação,Total,0.207
+462,2703601,Japaratinga,2000,IDH,Longevidade,Total,0.7
+463,2703601,Japaratinga,2000,IDH,Renda,Total,0.49
+464,2703601,Japaratinga,2000,IDH,Total,Total,0.414
+465,2703601,Japaratinga,2010,IDH,Educação,Total,0.451
+466,2703601,Japaratinga,2010,IDH,Longevidade,Total,0.735
+467,2703601,Japaratinga,2010,IDH,Renda,Total,0.56
+468,2703601,Japaratinga,2010,IDH,Total,Total,0.57
+469,2703700,Jaramataia,1991,IDH,Educação,Total,0.058
+470,2703700,Jaramataia,1991,IDH,Longevidade,Total,0.488
+471,2703700,Jaramataia,1991,IDH,Renda,Total,0.381
+472,2703700,Jaramataia,1991,IDH,Total,Total,0.221
+473,2703700,Jaramataia,2000,IDH,Educação,Total,0.207
+474,2703700,Jaramataia,2000,IDH,Longevidade,Total,0.629
+475,2703700,Jaramataia,2000,IDH,Renda,Total,0.441
+476,2703700,Jaramataia,2000,IDH,Total,Total,0.386
+477,2703700,Jaramataia,2010,IDH,Educação,Total,0.451
+478,2703700,Jaramataia,2010,IDH,Longevidade,Total,0.701
+479,2703700,Jaramataia,2010,IDH,Renda,Total,0.532
+480,2703700,Jaramataia,2010,IDH,Total,Total,0.552
+481,2703759,Jequiá da Praia,1991,IDH,Educação,Total,0.076
+482,2703759,Jequiá da Praia,1991,IDH,Longevidade,Total,0.537
+483,2703759,Jequiá da Praia,1991,IDH,Renda,Total,0.431
+484,2703759,Jequiá da Praia,1991,IDH,Total,Total,0.26
+485,2703759,Jequiá da Praia,2000,IDH,Educação,Total,0.192
+486,2703759,Jequiá da Praia,2000,IDH,Longevidade,Total,0.65
+487,2703759,Jequiá da Praia,2000,IDH,Renda,Total,0.445
+488,2703759,Jequiá da Praia,2000,IDH,Total,Total,0.382
+489,2703759,Jequiá da Praia,2010,IDH,Educação,Total,0.43
+490,2703759,Jequiá da Praia,2010,IDH,Longevidade,Total,0.772
+491,2703759,Jequiá da Praia,2010,IDH,Renda,Total,0.517
+492,2703759,Jequiá da Praia,2010,IDH,Total,Total,0.556
+493,2703809,Joaquim Gomes,1991,IDH,Educação,Total,0.051
+494,2703809,Joaquim Gomes,1991,IDH,Longevidade,Total,0.548
+495,2703809,Joaquim Gomes,1991,IDH,Renda,Total,0.399
+496,2703809,Joaquim Gomes,1991,IDH,Total,Total,0.223
+497,2703809,Joaquim Gomes,2000,IDH,Educação,Total,0.152
+498,2703809,Joaquim Gomes,2000,IDH,Longevidade,Total,0.634
+499,2703809,Joaquim Gomes,2000,IDH,Renda,Total,0.44
+500,2703809,Joaquim Gomes,2000,IDH,Total,Total,0.349
+501,2703809,Joaquim Gomes,2010,IDH,Educação,Total,0.386
+502,2703809,Joaquim Gomes,2010,IDH,Longevidade,Total,0.764
+503,2703809,Joaquim Gomes,2010,IDH,Renda,Total,0.509
+504,2703809,Joaquim Gomes,2010,IDH,Total,Total,0.531
+505,2703908,Jundiá,1991,IDH,Educação,Total,0.095
+506,2703908,Jundiá,1991,IDH,Longevidade,Total,0.5
+507,2703908,Jundiá,1991,IDH,Renda,Total,0.453
+508,2703908,Jundiá,1991,IDH,Total,Total,0.278
+509,2703908,Jundiá,2000,IDH,Educação,Total,0.196
+510,2703908,Jundiá,2000,IDH,Longevidade,Total,0.631
+511,2703908,Jundiá,2000,IDH,Renda,Total,0.443
+512,2703908,Jundiá,2000,IDH,Total,Total,0.38
+513,2703908,Jundiá,2010,IDH,Educação,Total,0.434
+514,2703908,Jundiá,2010,IDH,Longevidade,Total,0.715
+515,2703908,Jundiá,2010,IDH,Renda,Total,0.573
+516,2703908,Jundiá,2010,IDH,Total,Total,0.562
+517,2704005,Junqueiro,1991,IDH,Educação,Total,0.094
+518,2704005,Junqueiro,1991,IDH,Longevidade,Total,0.552
+519,2704005,Junqueiro,1991,IDH,Renda,Total,0.429
+520,2704005,Junqueiro,1991,IDH,Total,Total,0.281
+521,2704005,Junqueiro,2000,IDH,Educação,Total,0.238
+522,2704005,Junqueiro,2000,IDH,Longevidade,Total,0.674
+523,2704005,Junqueiro,2000,IDH,Renda,Total,0.482
+524,2704005,Junqueiro,2000,IDH,Total,Total,0.426
+525,2704005,Junqueiro,2010,IDH,Educação,Total,0.454
+526,2704005,Junqueiro,2010,IDH,Longevidade,Total,0.714
+527,2704005,Junqueiro,2010,IDH,Renda,Total,0.586
+528,2704005,Junqueiro,2010,IDH,Total,Total,0.575
+529,2704104,Lagoa da Canoa,1991,IDH,Educação,Total,0.073
+530,2704104,Lagoa da Canoa,1991,IDH,Longevidade,Total,0.516
+531,2704104,Lagoa da Canoa,1991,IDH,Renda,Total,0.406
+532,2704104,Lagoa da Canoa,1991,IDH,Total,Total,0.248
+533,2704104,Lagoa da Canoa,2000,IDH,Educação,Total,0.204
+534,2704104,Lagoa da Canoa,2000,IDH,Longevidade,Total,0.634
+535,2704104,Lagoa da Canoa,2000,IDH,Renda,Total,0.435
+536,2704104,Lagoa da Canoa,2000,IDH,Total,Total,0.383
+537,2704104,Lagoa da Canoa,2010,IDH,Educação,Total,0.443
+538,2704104,Lagoa da Canoa,2010,IDH,Longevidade,Total,0.703
+539,2704104,Lagoa da Canoa,2010,IDH,Renda,Total,0.541
+540,2704104,Lagoa da Canoa,2010,IDH,Total,Total,0.552
+541,2704203,Limoeiro de Anadia,1991,IDH,Educação,Total,0.048
+542,2704203,Limoeiro de Anadia,1991,IDH,Longevidade,Total,0.516
+543,2704203,Limoeiro de Anadia,1991,IDH,Renda,Total,0.394
+544,2704203,Limoeiro de Anadia,1991,IDH,Total,Total,0.214
+545,2704203,Limoeiro de Anadia,2000,IDH,Educação,Total,0.178
+546,2704203,Limoeiro de Anadia,2000,IDH,Longevidade,Total,0.637
+547,2704203,Limoeiro de Anadia,2000,IDH,Renda,Total,0.442
+548,2704203,Limoeiro de Anadia,2000,IDH,Total,Total,0.369
+549,2704203,Limoeiro de Anadia,2010,IDH,Educação,Total,0.457
+550,2704203,Limoeiro de Anadia,2010,IDH,Longevidade,Total,0.742
+551,2704203,Limoeiro de Anadia,2010,IDH,Renda,Total,0.575
+552,2704203,Limoeiro de Anadia,2010,IDH,Total,Total,0.58
+553,2704302,Maceió,1991,IDH,Educação,Total,0.339
+554,2704302,Maceió,1991,IDH,Longevidade,Total,0.594
+555,2704302,Maceió,1991,IDH,Renda,Total,0.649
+556,2704302,Maceió,1991,IDH,Total,Total,0.507
+557,2704302,Maceió,2000,IDH,Educação,Total,0.433
+558,2704302,Maceió,2000,IDH,Longevidade,Total,0.667
+559,2704302,Maceió,2000,IDH,Renda,Total,0.689
+560,2704302,Maceió,2000,IDH,Total,Total,0.584
+561,2704302,Maceió,2010,IDH,Educação,Total,0.635
+562,2704302,Maceió,2010,IDH,Longevidade,Total,0.799
+563,2704302,Maceió,2010,IDH,Renda,Total,0.739
+564,2704302,Maceió,2010,IDH,Total,Total,0.721
+565,2704401,Major Isidoro,1991,IDH,Educação,Total,0.098
+566,2704401,Major Isidoro,1991,IDH,Longevidade,Total,0.516
+567,2704401,Major Isidoro,1991,IDH,Renda,Total,0.437
+568,2704401,Major Isidoro,1991,IDH,Total,Total,0.281
+569,2704401,Major Isidoro,2000,IDH,Educação,Total,0.174
+570,2704401,Major Isidoro,2000,IDH,Longevidade,Total,0.634
+571,2704401,Major Isidoro,2000,IDH,Renda,Total,0.441
+572,2704401,Major Isidoro,2000,IDH,Total,Total,0.365
+573,2704401,Major Isidoro,2010,IDH,Educação,Total,0.424
+574,2704401,Major Isidoro,2010,IDH,Longevidade,Total,0.755
+575,2704401,Major Isidoro,2010,IDH,Renda,Total,0.566
+576,2704401,Major Isidoro,2010,IDH,Total,Total,0.566
+577,2704500,Maragogi,1991,IDH,Educação,Total,0.088
+578,2704500,Maragogi,1991,IDH,Longevidade,Total,0.578
+579,2704500,Maragogi,1991,IDH,Renda,Total,0.421
+580,2704500,Maragogi,1991,IDH,Total,Total,0.278
+581,2704500,Maragogi,2000,IDH,Educação,Total,0.222
+582,2704500,Maragogi,2000,IDH,Longevidade,Total,0.714
+583,2704500,Maragogi,2000,IDH,Renda,Total,0.465
+584,2704500,Maragogi,2000,IDH,Total,Total,0.419
+585,2704500,Maragogi,2010,IDH,Educação,Total,0.443
+586,2704500,Maragogi,2010,IDH,Longevidade,Total,0.766
+587,2704500,Maragogi,2010,IDH,Renda,Total,0.556
+588,2704500,Maragogi,2010,IDH,Total,Total,0.574
+589,2704609,Maravilha,1991,IDH,Educação,Total,0.132
+590,2704609,Maravilha,1991,IDH,Longevidade,Total,0.555
+591,2704609,Maravilha,1991,IDH,Renda,Total,0.367
+592,2704609,Maravilha,1991,IDH,Total,Total,0.3
+593,2704609,Maravilha,2000,IDH,Educação,Total,0.16
+594,2704609,Maravilha,2000,IDH,Longevidade,Total,0.664
+595,2704609,Maravilha,2000,IDH,Renda,Total,0.381
+596,2704609,Maravilha,2000,IDH,Total,Total,0.343
+597,2704609,Maravilha,2010,IDH,Educação,Total,0.46
+598,2704609,Maravilha,2010,IDH,Longevidade,Total,0.742
+599,2704609,Maravilha,2010,IDH,Renda,Total,0.539
+600,2704609,Maravilha,2010,IDH,Total,Total,0.569
+601,2704708,Marechal Deodoro,1991,IDH,Educação,Total,0.149
+602,2704708,Marechal Deodoro,1991,IDH,Longevidade,Total,0.62
+603,2704708,Marechal Deodoro,1991,IDH,Renda,Total,0.461
+604,2704708,Marechal Deodoro,1991,IDH,Total,Total,0.349
+605,2704708,Marechal Deodoro,2000,IDH,Educação,Total,0.265
+606,2704708,Marechal Deodoro,2000,IDH,Longevidade,Total,0.7
+607,2704708,Marechal Deodoro,2000,IDH,Renda,Total,0.536
+608,2704708,Marechal Deodoro,2000,IDH,Total,Total,0.463
+609,2704708,Marechal Deodoro,2010,IDH,Educação,Total,0.52
+610,2704708,Marechal Deodoro,2010,IDH,Longevidade,Total,0.793
+611,2704708,Marechal Deodoro,2010,IDH,Renda,Total,0.641
+612,2704708,Marechal Deodoro,2010,IDH,Total,Total,0.642
+613,2704807,Maribondo,1991,IDH,Educação,Total,0.131
+614,2704807,Maribondo,1991,IDH,Longevidade,Total,0.575
+615,2704807,Maribondo,1991,IDH,Renda,Total,0.465
+616,2704807,Maribondo,1991,IDH,Total,Total,0.327
+617,2704807,Maribondo,2000,IDH,Educação,Total,0.261
+618,2704807,Maribondo,2000,IDH,Longevidade,Total,0.677
+619,2704807,Maribondo,2000,IDH,Renda,Total,0.522
+620,2704807,Maribondo,2000,IDH,Total,Total,0.452
+621,2704807,Maribondo,2010,IDH,Educação,Total,0.487
+622,2704807,Maribondo,2010,IDH,Longevidade,Total,0.751
+623,2704807,Maribondo,2010,IDH,Renda,Total,0.581
+624,2704807,Maribondo,2010,IDH,Total,Total,0.597
+625,2704906,Mar Vermelho,1991,IDH,Educação,Total,0.087
+626,2704906,Mar Vermelho,1991,IDH,Longevidade,Total,0.584
+627,2704906,Mar Vermelho,1991,IDH,Renda,Total,0.403
+628,2704906,Mar Vermelho,1991,IDH,Total,Total,0.274
+629,2704906,Mar Vermelho,2000,IDH,Educação,Total,0.23
+630,2704906,Mar Vermelho,2000,IDH,Longevidade,Total,0.677
+631,2704906,Mar Vermelho,2000,IDH,Renda,Total,0.448
+632,2704906,Mar Vermelho,2000,IDH,Total,Total,0.412
+633,2704906,Mar Vermelho,2010,IDH,Educação,Total,0.465
+634,2704906,Mar Vermelho,2010,IDH,Longevidade,Total,0.766
+635,2704906,Mar Vermelho,2010,IDH,Renda,Total,0.54
+636,2704906,Mar Vermelho,2010,IDH,Total,Total,0.577
+637,2705002,Mata Grande,1991,IDH,Educação,Total,0.078
+638,2705002,Mata Grande,1991,IDH,Longevidade,Total,0.547
+639,2705002,Mata Grande,1991,IDH,Renda,Total,0.381
+640,2705002,Mata Grande,1991,IDH,Total,Total,0.253
+641,2705002,Mata Grande,2000,IDH,Educação,Total,0.157
+642,2705002,Mata Grande,2000,IDH,Longevidade,Total,0.654
+643,2705002,Mata Grande,2000,IDH,Renda,Total,0.438
+644,2705002,Mata Grande,2000,IDH,Total,Total,0.356
+645,2705002,Mata Grande,2010,IDH,Educação,Total,0.369
+646,2705002,Mata Grande,2010,IDH,Longevidade,Total,0.685
+647,2705002,Mata Grande,2010,IDH,Renda,Total,0.506
+648,2705002,Mata Grande,2010,IDH,Total,Total,0.504
+649,2705101,Matriz de Camaragibe,1991,IDH,Educação,Total,0.157
+650,2705101,Matriz de Camaragibe,1991,IDH,Longevidade,Total,0.567
+651,2705101,Matriz de Camaragibe,1991,IDH,Renda,Total,0.41
+652,2705101,Matriz de Camaragibe,1991,IDH,Total,Total,0.332
+653,2705101,Matriz de Camaragibe,2000,IDH,Educação,Total,0.215
+654,2705101,Matriz de Camaragibe,2000,IDH,Longevidade,Total,0.634
+655,2705101,Matriz de Camaragibe,2000,IDH,Renda,Total,0.45
+656,2705101,Matriz de Camaragibe,2000,IDH,Total,Total,0.394
+657,2705101,Matriz de Camaragibe,2010,IDH,Educação,Total,0.473
+658,2705101,Matriz de Camaragibe,2010,IDH,Longevidade,Total,0.777
+659,2705101,Matriz de Camaragibe,2010,IDH,Renda,Total,0.541
+660,2705101,Matriz de Camaragibe,2010,IDH,Total,Total,0.584
+661,2705200,Messias,1991,IDH,Educação,Total,0.116
+662,2705200,Messias,1991,IDH,Longevidade,Total,0.516
+663,2705200,Messias,1991,IDH,Renda,Total,0.478
+664,2705200,Messias,1991,IDH,Total,Total,0.306
+665,2705200,Messias,2000,IDH,Educação,Total,0.178
+666,2705200,Messias,2000,IDH,Longevidade,Total,0.646
+667,2705200,Messias,2000,IDH,Renda,Total,0.474
+668,2705200,Messias,2000,IDH,Total,Total,0.379
+669,2705200,Messias,2010,IDH,Educação,Total,0.46
+670,2705200,Messias,2010,IDH,Longevidade,Total,0.714
+671,2705200,Messias,2010,IDH,Renda,Total,0.557
+672,2705200,Messias,2010,IDH,Total,Total,0.568
+673,2705309,Minador do Negrão,1991,IDH,Educação,Total,0.079
+674,2705309,Minador do Negrão,1991,IDH,Longevidade,Total,0.552
+675,2705309,Minador do Negrão,1991,IDH,Renda,Total,0.415
+676,2705309,Minador do Negrão,1991,IDH,Total,Total,0.263
+677,2705309,Minador do Negrão,2000,IDH,Educação,Total,0.189
+678,2705309,Minador do Negrão,2000,IDH,Longevidade,Total,0.672
+679,2705309,Minador do Negrão,2000,IDH,Renda,Total,0.446
+680,2705309,Minador do Negrão,2000,IDH,Total,Total,0.384
+681,2705309,Minador do Negrão,2010,IDH,Educação,Total,0.43
+682,2705309,Minador do Negrão,2010,IDH,Longevidade,Total,0.767
+683,2705309,Minador do Negrão,2010,IDH,Renda,Total,0.541
+684,2705309,Minador do Negrão,2010,IDH,Total,Total,0.563
+685,2705408,Monteirópolis,1991,IDH,Educação,Total,0.088
+686,2705408,Monteirópolis,1991,IDH,Longevidade,Total,0.488
+687,2705408,Monteirópolis,1991,IDH,Renda,Total,0.368
+688,2705408,Monteirópolis,1991,IDH,Total,Total,0.251
+689,2705408,Monteirópolis,2000,IDH,Educação,Total,0.172
+690,2705408,Monteirópolis,2000,IDH,Longevidade,Total,0.618
+691,2705408,Monteirópolis,2000,IDH,Renda,Total,0.516
+692,2705408,Monteirópolis,2000,IDH,Total,Total,0.38
+693,2705408,Monteirópolis,2010,IDH,Educação,Total,0.443
+694,2705408,Monteirópolis,2010,IDH,Longevidade,Total,0.71
+695,2705408,Monteirópolis,2010,IDH,Renda,Total,0.497
+696,2705408,Monteirópolis,2010,IDH,Total,Total,0.539
+697,2705507,Murici,1991,IDH,Educação,Total,0.09
+698,2705507,Murici,1991,IDH,Longevidade,Total,0.529
+699,2705507,Murici,1991,IDH,Renda,Total,0.428
+700,2705507,Murici,1991,IDH,Total,Total,0.273
+701,2705507,Murici,2000,IDH,Educação,Total,0.204
+702,2705507,Murici,2000,IDH,Longevidade,Total,0.615
+703,2705507,Murici,2000,IDH,Renda,Total,0.477
+704,2705507,Murici,2000,IDH,Total,Total,0.391
+705,2705507,Murici,2010,IDH,Educação,Total,0.395
+706,2705507,Murici,2010,IDH,Longevidade,Total,0.685
+707,2705507,Murici,2010,IDH,Renda,Total,0.542
+708,2705507,Murici,2010,IDH,Total,Total,0.527
+709,2705606,Novo Lino,1991,IDH,Educação,Total,0.094
+710,2705606,Novo Lino,1991,IDH,Longevidade,Total,0.479
+711,2705606,Novo Lino,1991,IDH,Renda,Total,0.491
+712,2705606,Novo Lino,1991,IDH,Total,Total,0.281
+713,2705606,Novo Lino,2000,IDH,Educação,Total,0.156
+714,2705606,Novo Lino,2000,IDH,Longevidade,Total,0.556
+715,2705606,Novo Lino,2000,IDH,Renda,Total,0.517
+716,2705606,Novo Lino,2000,IDH,Total,Total,0.355
+717,2705606,Novo Lino,2010,IDH,Educação,Total,0.375
+718,2705606,Novo Lino,2010,IDH,Longevidade,Total,0.69
+719,2705606,Novo Lino,2010,IDH,Renda,Total,0.546
+720,2705606,Novo Lino,2010,IDH,Total,Total,0.521
+721,2705705,Olho d'Água das Flores,1991,IDH,Educação,Total,0.14
+722,2705705,Olho d'Água das Flores,1991,IDH,Longevidade,Total,0.509
+723,2705705,Olho d'Água das Flores,1991,IDH,Renda,Total,0.47
+724,2705705,Olho d'Água das Flores,1991,IDH,Total,Total,0.322
+725,2705705,Olho d'Água das Flores,2000,IDH,Educação,Total,0.206
+726,2705705,Olho d'Água das Flores,2000,IDH,Longevidade,Total,0.633
+727,2705705,Olho d'Água das Flores,2000,IDH,Renda,Total,0.511
+728,2705705,Olho d'Água das Flores,2000,IDH,Total,Total,0.405
+729,2705705,Olho d'Água das Flores,2010,IDH,Educação,Total,0.422
+730,2705705,Olho d'Água das Flores,2010,IDH,Longevidade,Total,0.752
+731,2705705,Olho d'Água das Flores,2010,IDH,Renda,Total,0.568
+732,2705705,Olho d'Água das Flores,2010,IDH,Total,Total,0.565
+733,2705804,Olho d'Água do Casado,1991,IDH,Educação,Total,0.073
+734,2705804,Olho d'Água do Casado,1991,IDH,Longevidade,Total,0.516
+735,2705804,Olho d'Água do Casado,1991,IDH,Renda,Total,0.461
+736,2705804,Olho d'Água do Casado,1991,IDH,Total,Total,0.259
+737,2705804,Olho d'Água do Casado,2000,IDH,Educação,Total,0.148
+738,2705804,Olho d'Água do Casado,2000,IDH,Longevidade,Total,0.65
+739,2705804,Olho d'Água do Casado,2000,IDH,Renda,Total,0.492
+740,2705804,Olho d'Água do Casado,2000,IDH,Total,Total,0.362
+741,2705804,Olho d'Água do Casado,2010,IDH,Educação,Total,0.35
+742,2705804,Olho d'Água do Casado,2010,IDH,Longevidade,Total,0.785
+743,2705804,Olho d'Água do Casado,2010,IDH,Renda,Total,0.527
+744,2705804,Olho d'Água do Casado,2010,IDH,Total,Total,0.525
+745,2705903,Olho d'Água Grande,1991,IDH,Educação,Total,0.074
+746,2705903,Olho d'Água Grande,1991,IDH,Longevidade,Total,0.512
+747,2705903,Olho d'Água Grande,1991,IDH,Renda,Total,0.357
+748,2705903,Olho d'Água Grande,1991,IDH,Total,Total,0.238
+749,2705903,Olho d'Água Grande,2000,IDH,Educação,Total,0.188
+750,2705903,Olho d'Água Grande,2000,IDH,Longevidade,Total,0.654
+751,2705903,Olho d'Água Grande,2000,IDH,Renda,Total,0.404
+752,2705903,Olho d'Água Grande,2000,IDH,Total,Total,0.368
+753,2705903,Olho d'Água Grande,2010,IDH,Educação,Total,0.399
+754,2705903,Olho d'Água Grande,2010,IDH,Longevidade,Total,0.673
+755,2705903,Olho d'Água Grande,2010,IDH,Renda,Total,0.473
+756,2705903,Olho d'Água Grande,2010,IDH,Total,Total,0.503
+757,2706000,Olivença,1991,IDH,Educação,Total,0.062
+758,2706000,Olivença,1991,IDH,Longevidade,Total,0.467
+759,2706000,Olivença,1991,IDH,Renda,Total,0.354
+760,2706000,Olivença,1991,IDH,Total,Total,0.217
+761,2706000,Olivença,2000,IDH,Educação,Total,0.128
+762,2706000,Olivença,2000,IDH,Longevidade,Total,0.569
+763,2706000,Olivença,2000,IDH,Renda,Total,0.375
+764,2706000,Olivença,2000,IDH,Total,Total,0.301
+765,2706000,Olivença,2010,IDH,Educação,Total,0.345
+766,2706000,Olivença,2010,IDH,Longevidade,Total,0.677
+767,2706000,Olivença,2010,IDH,Renda,Total,0.513
+768,2706000,Olivença,2010,IDH,Total,Total,0.493
+769,2706109,Ouro Branco,1991,IDH,Educação,Total,0.131
+770,2706109,Ouro Branco,1991,IDH,Longevidade,Total,0.509
+771,2706109,Ouro Branco,1991,IDH,Renda,Total,0.37
+772,2706109,Ouro Branco,1991,IDH,Total,Total,0.291
+773,2706109,Ouro Branco,2000,IDH,Educação,Total,0.223
+774,2706109,Ouro Branco,2000,IDH,Longevidade,Total,0.626
+775,2706109,Ouro Branco,2000,IDH,Renda,Total,0.444
+776,2706109,Ouro Branco,2000,IDH,Total,Total,0.396
+777,2706109,Ouro Branco,2010,IDH,Educação,Total,0.434
+778,2706109,Ouro Branco,2010,IDH,Longevidade,Total,0.7
+779,2706109,Ouro Branco,2010,IDH,Renda,Total,0.538
+780,2706109,Ouro Branco,2010,IDH,Total,Total,0.547
+781,2706208,Palestina,1991,IDH,Educação,Total,0.173
+782,2706208,Palestina,1991,IDH,Longevidade,Total,0.488
+783,2706208,Palestina,1991,IDH,Renda,Total,0.377
+784,2706208,Palestina,1991,IDH,Total,Total,0.317
+785,2706208,Palestina,2000,IDH,Educação,Total,0.253
+786,2706208,Palestina,2000,IDH,Longevidade,Total,0.61
+787,2706208,Palestina,2000,IDH,Renda,Total,0.421
+788,2706208,Palestina,2000,IDH,Total,Total,0.402
+789,2706208,Palestina,2010,IDH,Educação,Total,0.467
+790,2706208,Palestina,2010,IDH,Longevidade,Total,0.735
+791,2706208,Palestina,2010,IDH,Renda,Total,0.505
+792,2706208,Palestina,2010,IDH,Total,Total,0.558
+793,2706307,Palmeira dos Índios,1991,IDH,Educação,Total,0.195
+794,2706307,Palmeira dos Índios,1991,IDH,Longevidade,Total,0.584
+795,2706307,Palmeira dos Índios,1991,IDH,Renda,Total,0.503
+796,2706307,Palmeira dos Índios,1991,IDH,Total,Total,0.385
+797,2706307,Palmeira dos Índios,2000,IDH,Educação,Total,0.287
+798,2706307,Palmeira dos Índios,2000,IDH,Longevidade,Total,0.717
+799,2706307,Palmeira dos Índios,2000,IDH,Renda,Total,0.543
+800,2706307,Palmeira dos Índios,2000,IDH,Total,Total,0.482
+801,2706307,Palmeira dos Índios,2010,IDH,Educação,Total,0.523
+802,2706307,Palmeira dos Índios,2010,IDH,Longevidade,Total,0.794
+803,2706307,Palmeira dos Índios,2010,IDH,Renda,Total,0.625
+804,2706307,Palmeira dos Índios,2010,IDH,Total,Total,0.638
+805,2706406,Pão de Açúcar,1991,IDH,Educação,Total,0.159
+806,2706406,Pão de Açúcar,1991,IDH,Longevidade,Total,0.555
+807,2706406,Pão de Açúcar,1991,IDH,Renda,Total,0.467
+808,2706406,Pão de Açúcar,1991,IDH,Total,Total,0.345
+809,2706406,Pão de Açúcar,2000,IDH,Educação,Total,0.249
+810,2706406,Pão de Açúcar,2000,IDH,Longevidade,Total,0.664
+811,2706406,Pão de Açúcar,2000,IDH,Renda,Total,0.495
+812,2706406,Pão de Açúcar,2000,IDH,Total,Total,0.434
+813,2706406,Pão de Açúcar,2010,IDH,Educação,Total,0.491
+814,2706406,Pão de Açúcar,2010,IDH,Longevidade,Total,0.793
+815,2706406,Pão de Açúcar,2010,IDH,Renda,Total,0.536
+816,2706406,Pão de Açúcar,2010,IDH,Total,Total,0.593
+817,2706422,Pariconha,1991,IDH,Educação,Total,0.064
+818,2706422,Pariconha,1991,IDH,Longevidade,Total,0.519
+819,2706422,Pariconha,1991,IDH,Renda,Total,0.354
+820,2706422,Pariconha,1991,IDH,Total,Total,0.227
+821,2706422,Pariconha,2000,IDH,Educação,Total,0.17
+822,2706422,Pariconha,2000,IDH,Longevidade,Total,0.618
+823,2706422,Pariconha,2000,IDH,Renda,Total,0.409
+824,2706422,Pariconha,2000,IDH,Total,Total,0.35
+825,2706422,Pariconha,2010,IDH,Educação,Total,0.416
+826,2706422,Pariconha,2010,IDH,Longevidade,Total,0.754
+827,2706422,Pariconha,2010,IDH,Renda,Total,0.526
+828,2706422,Pariconha,2010,IDH,Total,Total,0.548
+829,2706448,Paripueira,1991,IDH,Educação,Total,0.135
+830,2706448,Paripueira,1991,IDH,Longevidade,Total,0.577
+831,2706448,Paripueira,1991,IDH,Renda,Total,0.389
+832,2706448,Paripueira,1991,IDH,Total,Total,0.312
+833,2706448,Paripueira,2000,IDH,Educação,Total,0.24
+834,2706448,Paripueira,2000,IDH,Longevidade,Total,0.642
+835,2706448,Paripueira,2000,IDH,Renda,Total,0.49
+836,2706448,Paripueira,2000,IDH,Total,Total,0.423
+837,2706448,Paripueira,2010,IDH,Educação,Total,0.486
+838,2706448,Paripueira,2010,IDH,Longevidade,Total,0.767
+839,2706448,Paripueira,2010,IDH,Renda,Total,0.595
+840,2706448,Paripueira,2010,IDH,Total,Total,0.605
+841,2706505,Passo de Camaragibe,1991,IDH,Educação,Total,0.073
+842,2706505,Passo de Camaragibe,1991,IDH,Longevidade,Total,0.518
+843,2706505,Passo de Camaragibe,1991,IDH,Renda,Total,0.407
+844,2706505,Passo de Camaragibe,1991,IDH,Total,Total,0.249
+845,2706505,Passo de Camaragibe,2000,IDH,Educação,Total,0.2
+846,2706505,Passo de Camaragibe,2000,IDH,Longevidade,Total,0.618
+847,2706505,Passo de Camaragibe,2000,IDH,Renda,Total,0.452
+848,2706505,Passo de Camaragibe,2000,IDH,Total,Total,0.382
+849,2706505,Passo de Camaragibe,2010,IDH,Educação,Total,0.421
+850,2706505,Passo de Camaragibe,2010,IDH,Longevidade,Total,0.703
+851,2706505,Passo de Camaragibe,2010,IDH,Renda,Total,0.513
+852,2706505,Passo de Camaragibe,2010,IDH,Total,Total,0.533
+853,2706604,Paulo Jacinto,1991,IDH,Educação,Total,0.114
+854,2706604,Paulo Jacinto,1991,IDH,Longevidade,Total,0.537
+855,2706604,Paulo Jacinto,1991,IDH,Renda,Total,0.365
+856,2706604,Paulo Jacinto,1991,IDH,Total,Total,0.282
+857,2706604,Paulo Jacinto,2000,IDH,Educação,Total,0.249
+858,2706604,Paulo Jacinto,2000,IDH,Longevidade,Total,0.672
+859,2706604,Paulo Jacinto,2000,IDH,Renda,Total,0.444
+860,2706604,Paulo Jacinto,2000,IDH,Total,Total,0.42
+861,2706604,Paulo Jacinto,2010,IDH,Educação,Total,0.507
+862,2706604,Paulo Jacinto,2010,IDH,Longevidade,Total,0.732
+863,2706604,Paulo Jacinto,2010,IDH,Renda,Total,0.551
+864,2706604,Paulo Jacinto,2010,IDH,Total,Total,0.589
+865,2706703,Penedo,1991,IDH,Educação,Total,0.24
+866,2706703,Penedo,1991,IDH,Longevidade,Total,0.559
+867,2706703,Penedo,1991,IDH,Renda,Total,0.516
+868,2706703,Penedo,1991,IDH,Total,Total,0.411
+869,2706703,Penedo,2000,IDH,Educação,Total,0.323
+870,2706703,Penedo,2000,IDH,Longevidade,Total,0.673
+871,2706703,Penedo,2000,IDH,Renda,Total,0.557
+872,2706703,Penedo,2000,IDH,Total,Total,0.495
+873,2706703,Penedo,2010,IDH,Educação,Total,0.536
+874,2706703,Penedo,2010,IDH,Longevidade,Total,0.774
+875,2706703,Penedo,2010,IDH,Renda,Total,0.602
+876,2706703,Penedo,2010,IDH,Total,Total,0.63
+877,2706802,Piaçabuçu,1991,IDH,Educação,Total,0.119
+878,2706802,Piaçabuçu,1991,IDH,Longevidade,Total,0.559
+879,2706802,Piaçabuçu,1991,IDH,Renda,Total,0.475
+880,2706802,Piaçabuçu,1991,IDH,Total,Total,0.316
+881,2706802,Piaçabuçu,2000,IDH,Educação,Total,0.226
+882,2706802,Piaçabuçu,2000,IDH,Longevidade,Total,0.658
+883,2706802,Piaçabuçu,2000,IDH,Renda,Total,0.486
+884,2706802,Piaçabuçu,2000,IDH,Total,Total,0.417
+885,2706802,Piaçabuçu,2010,IDH,Educação,Total,0.479
+886,2706802,Piaçabuçu,2010,IDH,Longevidade,Total,0.727
+887,2706802,Piaçabuçu,2010,IDH,Renda,Total,0.538
+888,2706802,Piaçabuçu,2010,IDH,Total,Total,0.572
+889,2706901,Pilar,1991,IDH,Educação,Total,0.145
+890,2706901,Pilar,1991,IDH,Longevidade,Total,0.499
+891,2706901,Pilar,1991,IDH,Renda,Total,0.474
+892,2706901,Pilar,1991,IDH,Total,Total,0.325
+893,2706901,Pilar,2000,IDH,Educação,Total,0.228
+894,2706901,Pilar,2000,IDH,Longevidade,Total,0.634
+895,2706901,Pilar,2000,IDH,Renda,Total,0.505
+896,2706901,Pilar,2000,IDH,Total,Total,0.418
+897,2706901,Pilar,2010,IDH,Educação,Total,0.509
+898,2706901,Pilar,2010,IDH,Longevidade,Total,0.771
+899,2706901,Pilar,2010,IDH,Renda,Total,0.578
+900,2706901,Pilar,2010,IDH,Total,Total,0.61
+901,2707008,Pindoba,1991,IDH,Educação,Total,0.07
+902,2707008,Pindoba,1991,IDH,Longevidade,Total,0.506
+903,2707008,Pindoba,1991,IDH,Renda,Total,0.451
+904,2707008,Pindoba,1991,IDH,Total,Total,0.252
+905,2707008,Pindoba,2000,IDH,Educação,Total,0.156
+906,2707008,Pindoba,2000,IDH,Longevidade,Total,0.648
+907,2707008,Pindoba,2000,IDH,Renda,Total,0.441
+908,2707008,Pindoba,2000,IDH,Total,Total,0.355
+909,2707008,Pindoba,2010,IDH,Educação,Total,0.465
+910,2707008,Pindoba,2010,IDH,Longevidade,Total,0.703
+911,2707008,Pindoba,2010,IDH,Renda,Total,0.579
+912,2707008,Pindoba,2010,IDH,Total,Total,0.574
+913,2707107,Piranhas,1991,IDH,Educação,Total,0.213
+914,2707107,Piranhas,1991,IDH,Longevidade,Total,0.537
+915,2707107,Piranhas,1991,IDH,Renda,Total,0.553
+916,2707107,Piranhas,1991,IDH,Total,Total,0.398
+917,2707107,Piranhas,2000,IDH,Educação,Total,0.217
+918,2707107,Piranhas,2000,IDH,Longevidade,Total,0.667
+919,2707107,Piranhas,2000,IDH,Renda,Total,0.558
+920,2707107,Piranhas,2000,IDH,Total,Total,0.432
+921,2707107,Piranhas,2010,IDH,Educação,Total,0.462
+922,2707107,Piranhas,2010,IDH,Longevidade,Total,0.786
+923,2707107,Piranhas,2010,IDH,Renda,Total,0.563
+924,2707107,Piranhas,2010,IDH,Total,Total,0.589
+925,2707206,Poço das Trincheiras,1991,IDH,Educação,Total,0.088
+926,2707206,Poço das Trincheiras,1991,IDH,Longevidade,Total,0.456
+927,2707206,Poço das Trincheiras,1991,IDH,Renda,Total,0.343
+928,2707206,Poço das Trincheiras,1991,IDH,Total,Total,0.24
+929,2707206,Poço das Trincheiras,2000,IDH,Educação,Total,0.154
+930,2707206,Poço das Trincheiras,2000,IDH,Longevidade,Total,0.575
+931,2707206,Poço das Trincheiras,2000,IDH,Renda,Total,0.347
+932,2707206,Poço das Trincheiras,2000,IDH,Total,Total,0.313
+933,2707206,Poço das Trincheiras,2010,IDH,Educação,Total,0.419
+934,2707206,Poço das Trincheiras,2010,IDH,Longevidade,Total,0.719
+935,2707206,Poço das Trincheiras,2010,IDH,Renda,Total,0.484
+936,2707206,Poço das Trincheiras,2010,IDH,Total,Total,0.526
+937,2707305,Porto Calvo,1991,IDH,Educação,Total,0.119
+938,2707305,Porto Calvo,1991,IDH,Longevidade,Total,0.594
+939,2707305,Porto Calvo,1991,IDH,Renda,Total,0.472
+940,2707305,Porto Calvo,1991,IDH,Total,Total,0.322
+941,2707305,Porto Calvo,2000,IDH,Educação,Total,0.244
+942,2707305,Porto Calvo,2000,IDH,Longevidade,Total,0.677
+943,2707305,Porto Calvo,2000,IDH,Renda,Total,0.458
+944,2707305,Porto Calvo,2000,IDH,Total,Total,0.423
+945,2707305,Porto Calvo,2010,IDH,Educação,Total,0.498
+946,2707305,Porto Calvo,2010,IDH,Longevidade,Total,0.723
+947,2707305,Porto Calvo,2010,IDH,Renda,Total,0.558
+948,2707305,Porto Calvo,2010,IDH,Total,Total,0.586
+949,2707404,Porto de Pedras,1991,IDH,Educação,Total,0.084
+950,2707404,Porto de Pedras,1991,IDH,Longevidade,Total,0.509
+951,2707404,Porto de Pedras,1991,IDH,Renda,Total,0.388
+952,2707404,Porto de Pedras,1991,IDH,Total,Total,0.255
+953,2707404,Porto de Pedras,2000,IDH,Educação,Total,0.159
+954,2707404,Porto de Pedras,2000,IDH,Longevidade,Total,0.634
+955,2707404,Porto de Pedras,2000,IDH,Renda,Total,0.405
+956,2707404,Porto de Pedras,2000,IDH,Total,Total,0.344
+957,2707404,Porto de Pedras,2010,IDH,Educação,Total,0.379
+958,2707404,Porto de Pedras,2010,IDH,Longevidade,Total,0.769
+959,2707404,Porto de Pedras,2010,IDH,Renda,Total,0.542
+960,2707404,Porto de Pedras,2010,IDH,Total,Total,0.541
+961,2707503,Porto Real do Colégio,1991,IDH,Educação,Total,0.106
+962,2707503,Porto Real do Colégio,1991,IDH,Longevidade,Total,0.479
+963,2707503,Porto Real do Colégio,1991,IDH,Renda,Total,0.403
+964,2707503,Porto Real do Colégio,1991,IDH,Total,Total,0.274
+965,2707503,Porto Real do Colégio,2000,IDH,Educação,Total,0.201
+966,2707503,Porto Real do Colégio,2000,IDH,Longevidade,Total,0.618
+967,2707503,Porto Real do Colégio,2000,IDH,Renda,Total,0.435
+968,2707503,Porto Real do Colégio,2000,IDH,Total,Total,0.378
+969,2707503,Porto Real do Colégio,2010,IDH,Educação,Total,0.431
+970,2707503,Porto Real do Colégio,2010,IDH,Longevidade,Total,0.758
+971,2707503,Porto Real do Colégio,2010,IDH,Renda,Total,0.513
+972,2707503,Porto Real do Colégio,2010,IDH,Total,Total,0.551
+973,2707602,Quebrangulo,1991,IDH,Educação,Total,0.113
+974,2707602,Quebrangulo,1991,IDH,Longevidade,Total,0.553
+975,2707602,Quebrangulo,1991,IDH,Renda,Total,0.43
+976,2707602,Quebrangulo,1991,IDH,Total,Total,0.3
+977,2707602,Quebrangulo,2000,IDH,Educação,Total,0.187
+978,2707602,Quebrangulo,2000,IDH,Longevidade,Total,0.643
+979,2707602,Quebrangulo,2000,IDH,Renda,Total,0.472
+980,2707602,Quebrangulo,2000,IDH,Total,Total,0.384
+981,2707602,Quebrangulo,2010,IDH,Educação,Total,0.421
+982,2707602,Quebrangulo,2010,IDH,Longevidade,Total,0.775
+983,2707602,Quebrangulo,2010,IDH,Renda,Total,0.536
+984,2707602,Quebrangulo,2010,IDH,Total,Total,0.559
+985,2707701,Rio Largo,1991,IDH,Educação,Total,0.2
+986,2707701,Rio Largo,1991,IDH,Longevidade,Total,0.594
+987,2707701,Rio Largo,1991,IDH,Renda,Total,0.496
+988,2707701,Rio Largo,1991,IDH,Total,Total,0.389
+989,2707701,Rio Largo,2000,IDH,Educação,Total,0.333
+990,2707701,Rio Largo,2000,IDH,Longevidade,Total,0.713
+991,2707701,Rio Largo,2000,IDH,Renda,Total,0.542
+992,2707701,Rio Largo,2000,IDH,Total,Total,0.505
+993,2707701,Rio Largo,2010,IDH,Educação,Total,0.547
+994,2707701,Rio Largo,2010,IDH,Longevidade,Total,0.788
+995,2707701,Rio Largo,2010,IDH,Renda,Total,0.616
+996,2707701,Rio Largo,2010,IDH,Total,Total,0.643
+997,2707800,Roteiro,1991,IDH,Educação,Total,0.053
+998,2707800,Roteiro,1991,IDH,Longevidade,Total,0.467
+999,2707800,Roteiro,1991,IDH,Renda,Total,0.423
+1000,2707800,Roteiro,1991,IDH,Total,Total,0.219
+1001,2707800,Roteiro,2000,IDH,Educação,Total,0.161
+1002,2707800,Roteiro,2000,IDH,Longevidade,Total,0.541
+1003,2707800,Roteiro,2000,IDH,Renda,Total,0.448
+1004,2707800,Roteiro,2000,IDH,Total,Total,0.339
+1005,2707800,Roteiro,2010,IDH,Educação,Total,0.365
+1006,2707800,Roteiro,2010,IDH,Longevidade,Total,0.672
+1007,2707800,Roteiro,2010,IDH,Renda,Total,0.524
+1008,2707800,Roteiro,2010,IDH,Total,Total,0.505
+1009,2707909,Santa Luzia do Norte,1991,IDH,Educação,Total,0.212
+1010,2707909,Santa Luzia do Norte,1991,IDH,Longevidade,Total,0.516
+1011,2707909,Santa Luzia do Norte,1991,IDH,Renda,Total,0.483
+1012,2707909,Santa Luzia do Norte,1991,IDH,Total,Total,0.375
+1013,2707909,Santa Luzia do Norte,2000,IDH,Educação,Total,0.253
+1014,2707909,Santa Luzia do Norte,2000,IDH,Longevidade,Total,0.653
+1015,2707909,Santa Luzia do Norte,2000,IDH,Renda,Total,0.495
+1016,2707909,Santa Luzia do Norte,2000,IDH,Total,Total,0.434
+1017,2707909,Santa Luzia do Norte,2010,IDH,Educação,Total,0.477
+1018,2707909,Santa Luzia do Norte,2010,IDH,Longevidade,Total,0.77
+1019,2707909,Santa Luzia do Norte,2010,IDH,Renda,Total,0.58
+1020,2707909,Santa Luzia do Norte,2010,IDH,Total,Total,0.597
+1021,2708006,Santana do Ipanema,1991,IDH,Educação,Total,0.173
+1022,2708006,Santana do Ipanema,1991,IDH,Longevidade,Total,0.555
+1023,2708006,Santana do Ipanema,1991,IDH,Renda,Total,0.442
+1024,2708006,Santana do Ipanema,1991,IDH,Total,Total,0.349
+1025,2708006,Santana do Ipanema,2000,IDH,Educação,Total,0.237
+1026,2708006,Santana do Ipanema,2000,IDH,Longevidade,Total,0.638
+1027,2708006,Santana do Ipanema,2000,IDH,Renda,Total,0.508
+1028,2708006,Santana do Ipanema,2000,IDH,Total,Total,0.425
+1029,2708006,Santana do Ipanema,2010,IDH,Educação,Total,0.463
+1030,2708006,Santana do Ipanema,2010,IDH,Longevidade,Total,0.77
+1031,2708006,Santana do Ipanema,2010,IDH,Renda,Total,0.579
+1032,2708006,Santana do Ipanema,2010,IDH,Total,Total,0.591
+1033,2708105,Santana do Mundaú,1991,IDH,Educação,Total,0.085
+1034,2708105,Santana do Mundaú,1991,IDH,Longevidade,Total,0.531
+1035,2708105,Santana do Mundaú,1991,IDH,Renda,Total,0.417
+1036,2708105,Santana do Mundaú,1991,IDH,Total,Total,0.266
+1037,2708105,Santana do Mundaú,2000,IDH,Educação,Total,0.151
+1038,2708105,Santana do Mundaú,2000,IDH,Longevidade,Total,0.647
+1039,2708105,Santana do Mundaú,2000,IDH,Renda,Total,0.463
+1040,2708105,Santana do Mundaú,2000,IDH,Total,Total,0.356
+1041,2708105,Santana do Mundaú,2010,IDH,Educação,Total,0.362
+1042,2708105,Santana do Mundaú,2010,IDH,Longevidade,Total,0.752
+1043,2708105,Santana do Mundaú,2010,IDH,Renda,Total,0.513
+1044,2708105,Santana do Mundaú,2010,IDH,Total,Total,0.519
+1045,2708204,São Brás,1991,IDH,Educação,Total,0.128
+1046,2708204,São Brás,1991,IDH,Longevidade,Total,0.572
+1047,2708204,São Brás,1991,IDH,Renda,Total,0.383
+1048,2708204,São Brás,1991,IDH,Total,Total,0.304
+1049,2708204,São Brás,2000,IDH,Educação,Total,0.261
+1050,2708204,São Brás,2000,IDH,Longevidade,Total,0.701
+1051,2708204,São Brás,2000,IDH,Renda,Total,0.454
+1052,2708204,São Brás,2000,IDH,Total,Total,0.436
+1053,2708204,São Brás,2010,IDH,Educação,Total,0.48
+1054,2708204,São Brás,2010,IDH,Longevidade,Total,0.732
+1055,2708204,São Brás,2010,IDH,Renda,Total,0.533
+1056,2708204,São Brás,2010,IDH,Total,Total,0.572
+1057,2708303,São José da Laje,1991,IDH,Educação,Total,0.12
+1058,2708303,São José da Laje,1991,IDH,Longevidade,Total,0.527
+1059,2708303,São José da Laje,1991,IDH,Renda,Total,0.445
+1060,2708303,São José da Laje,1991,IDH,Total,Total,0.304
+1061,2708303,São José da Laje,2000,IDH,Educação,Total,0.206
+1062,2708303,São José da Laje,2000,IDH,Longevidade,Total,0.641
+1063,2708303,São José da Laje,2000,IDH,Renda,Total,0.491
+1064,2708303,São José da Laje,2000,IDH,Total,Total,0.402
+1065,2708303,São José da Laje,2010,IDH,Educação,Total,0.434
+1066,2708303,São José da Laje,2010,IDH,Longevidade,Total,0.755
+1067,2708303,São José da Laje,2010,IDH,Renda,Total,0.574
+1068,2708303,São José da Laje,2010,IDH,Total,Total,0.573
+1069,2708402,São José da Tapera,1991,IDH,Educação,Total,0.059
+1070,2708402,São José da Tapera,1991,IDH,Longevidade,Total,0.433
+1071,2708402,São José da Tapera,1991,IDH,Renda,Total,0.332
+1072,2708402,São José da Tapera,1991,IDH,Total,Total,0.204
+1073,2708402,São José da Tapera,2000,IDH,Educação,Total,0.148
+1074,2708402,São José da Tapera,2000,IDH,Longevidade,Total,0.573
+1075,2708402,São José da Tapera,2000,IDH,Renda,Total,0.384
+1076,2708402,São José da Tapera,2000,IDH,Total,Total,0.319
+1077,2708402,São José da Tapera,2010,IDH,Educação,Total,0.409
+1078,2708402,São José da Tapera,2010,IDH,Longevidade,Total,0.703
+1079,2708402,São José da Tapera,2010,IDH,Renda,Total,0.508
+1080,2708402,São José da Tapera,2010,IDH,Total,Total,0.527
+1081,2708501,São Luís do Quitunde,1991,IDH,Educação,Total,0.07
+1082,2708501,São Luís do Quitunde,1991,IDH,Longevidade,Total,0.622
+1083,2708501,São Luís do Quitunde,1991,IDH,Renda,Total,0.438
+1084,2708501,São Luís do Quitunde,1991,IDH,Total,Total,0.267
+1085,2708501,São Luís do Quitunde,2000,IDH,Educação,Total,0.196
+1086,2708501,São Luís do Quitunde,2000,IDH,Longevidade,Total,0.684
+1087,2708501,São Luís do Quitunde,2000,IDH,Renda,Total,0.462
+1088,2708501,São Luís do Quitunde,2000,IDH,Total,Total,0.396
+1089,2708501,São Luís do Quitunde,2010,IDH,Educação,Total,0.4
+1090,2708501,São Luís do Quitunde,2010,IDH,Longevidade,Total,0.701
+1091,2708501,São Luís do Quitunde,2010,IDH,Renda,Total,0.55
+1092,2708501,São Luís do Quitunde,2010,IDH,Total,Total,0.536
+1093,2708600,São Miguel dos Campos,1991,IDH,Educação,Total,0.169
+1094,2708600,São Miguel dos Campos,1991,IDH,Longevidade,Total,0.576
+1095,2708600,São Miguel dos Campos,1991,IDH,Renda,Total,0.501
+1096,2708600,São Miguel dos Campos,1991,IDH,Total,Total,0.365
+1097,2708600,São Miguel dos Campos,2000,IDH,Educação,Total,0.32
+1098,2708600,São Miguel dos Campos,2000,IDH,Longevidade,Total,0.718
+1099,2708600,São Miguel dos Campos,2000,IDH,Renda,Total,0.563
+1100,2708600,São Miguel dos Campos,2000,IDH,Total,Total,0.506
+1101,2708600,São Miguel dos Campos,2010,IDH,Educação,Total,0.514
+1102,2708600,São Miguel dos Campos,2010,IDH,Longevidade,Total,0.77
+1103,2708600,São Miguel dos Campos,2010,IDH,Renda,Total,0.612
+1104,2708600,São Miguel dos Campos,2010,IDH,Total,Total,0.623
+1105,2708709,São Miguel dos Milagres,1991,IDH,Educação,Total,0.146
+1106,2708709,São Miguel dos Milagres,1991,IDH,Longevidade,Total,0.638
+1107,2708709,São Miguel dos Milagres,1991,IDH,Renda,Total,0.411
+1108,2708709,São Miguel dos Milagres,1991,IDH,Total,Total,0.337
+1109,2708709,São Miguel dos Milagres,2000,IDH,Educação,Total,0.255
+1110,2708709,São Miguel dos Milagres,2000,IDH,Longevidade,Total,0.714
+1111,2708709,São Miguel dos Milagres,2000,IDH,Renda,Total,0.481
+1112,2708709,São Miguel dos Milagres,2000,IDH,Total,Total,0.444
+1113,2708709,São Miguel dos Milagres,2010,IDH,Educação,Total,0.504
+1114,2708709,São Miguel dos Milagres,2010,IDH,Longevidade,Total,0.752
+1115,2708709,São Miguel dos Milagres,2010,IDH,Renda,Total,0.545
+1116,2708709,São Miguel dos Milagres,2010,IDH,Total,Total,0.591
+1117,2708808,São Sebastião,1991,IDH,Educação,Total,0.076
+1118,2708808,São Sebastião,1991,IDH,Longevidade,Total,0.488
+1119,2708808,São Sebastião,1991,IDH,Renda,Total,0.4
+1120,2708808,São Sebastião,1991,IDH,Total,Total,0.246
+1121,2708808,São Sebastião,2000,IDH,Educação,Total,0.149
+1122,2708808,São Sebastião,2000,IDH,Longevidade,Total,0.63
+1123,2708808,São Sebastião,2000,IDH,Renda,Total,0.459
+1124,2708808,São Sebastião,2000,IDH,Total,Total,0.351
+1125,2708808,São Sebastião,2010,IDH,Educação,Total,0.432
+1126,2708808,São Sebastião,2010,IDH,Longevidade,Total,0.714
+1127,2708808,São Sebastião,2010,IDH,Renda,Total,0.537
+1128,2708808,São Sebastião,2010,IDH,Total,Total,0.549
+1129,2708907,Satuba,1991,IDH,Educação,Total,0.225
+1130,2708907,Satuba,1991,IDH,Longevidade,Total,0.62
+1131,2708907,Satuba,1991,IDH,Renda,Total,0.515
+1132,2708907,Satuba,1991,IDH,Total,Total,0.416
+1133,2708907,Satuba,2000,IDH,Educação,Total,0.394
+1134,2708907,Satuba,2000,IDH,Longevidade,Total,0.732
+1135,2708907,Satuba,2000,IDH,Renda,Total,0.555
+1136,2708907,Satuba,2000,IDH,Total,Total,0.543
+1137,2708907,Satuba,2010,IDH,Educação,Total,0.585
+1138,2708907,Satuba,2010,IDH,Longevidade,Total,0.794
+1139,2708907,Satuba,2010,IDH,Renda,Total,0.619
+1140,2708907,Satuba,2010,IDH,Total,Total,0.66
+1141,2708956,Senador Rui Palmeira,1991,IDH,Educação,Total,0.057
+1142,2708956,Senador Rui Palmeira,1991,IDH,Longevidade,Total,0.467
+1143,2708956,Senador Rui Palmeira,1991,IDH,Renda,Total,0.352
+1144,2708956,Senador Rui Palmeira,1991,IDH,Total,Total,0.211
+1145,2708956,Senador Rui Palmeira,2000,IDH,Educação,Total,0.123
+1146,2708956,Senador Rui Palmeira,2000,IDH,Longevidade,Total,0.592
+1147,2708956,Senador Rui Palmeira,2000,IDH,Renda,Total,0.368
+1148,2708956,Senador Rui Palmeira,2000,IDH,Total,Total,0.299
+1149,2708956,Senador Rui Palmeira,2010,IDH,Educação,Total,0.398
+1150,2708956,Senador Rui Palmeira,2010,IDH,Longevidade,Total,0.728
+1151,2708956,Senador Rui Palmeira,2010,IDH,Renda,Total,0.481
+1152,2708956,Senador Rui Palmeira,2010,IDH,Total,Total,0.518
+1153,2709004,Tanque d'Arca,1991,IDH,Educação,Total,0.082
+1154,2709004,Tanque d'Arca,1991,IDH,Longevidade,Total,0.537
+1155,2709004,Tanque d'Arca,1991,IDH,Renda,Total,0.397
+1156,2709004,Tanque d'Arca,1991,IDH,Total,Total,0.26
+1157,2709004,Tanque d'Arca,2000,IDH,Educação,Total,0.206
+1158,2709004,Tanque d'Arca,2000,IDH,Longevidade,Total,0.668
+1159,2709004,Tanque d'Arca,2000,IDH,Renda,Total,0.449
+1160,2709004,Tanque d'Arca,2000,IDH,Total,Total,0.395
+1161,2709004,Tanque d'Arca,2010,IDH,Educação,Total,0.43
+1162,2709004,Tanque d'Arca,2010,IDH,Longevidade,Total,0.748
+1163,2709004,Tanque d'Arca,2010,IDH,Renda,Total,0.531
+1164,2709004,Tanque d'Arca,2010,IDH,Total,Total,0.555
+1165,2709103,Taquarana,1991,IDH,Educação,Total,0.097
+1166,2709103,Taquarana,1991,IDH,Longevidade,Total,0.552
+1167,2709103,Taquarana,1991,IDH,Renda,Total,0.404
+1168,2709103,Taquarana,1991,IDH,Total,Total,0.279
+1169,2709103,Taquarana,2000,IDH,Educação,Total,0.178
+1170,2709103,Taquarana,2000,IDH,Longevidade,Total,0.669
+1171,2709103,Taquarana,2000,IDH,Renda,Total,0.442
+1172,2709103,Taquarana,2000,IDH,Total,Total,0.375
+1173,2709103,Taquarana,2010,IDH,Educação,Total,0.421
+1174,2709103,Taquarana,2010,IDH,Longevidade,Total,0.71
+1175,2709103,Taquarana,2010,IDH,Renda,Total,0.529
+1176,2709103,Taquarana,2010,IDH,Total,Total,0.541
+1177,2709152,Teotônio Vilela,1991,IDH,Educação,Total,0.074
+1178,2709152,Teotônio Vilela,1991,IDH,Longevidade,Total,0.496
+1179,2709152,Teotônio Vilela,1991,IDH,Renda,Total,0.443
+1180,2709152,Teotônio Vilela,1991,IDH,Total,Total,0.253
+1181,2709152,Teotônio Vilela,2000,IDH,Educação,Total,0.227
+1182,2709152,Teotônio Vilela,2000,IDH,Longevidade,Total,0.569
+1183,2709152,Teotônio Vilela,2000,IDH,Renda,Total,0.488
+1184,2709152,Teotônio Vilela,2000,IDH,Total,Total,0.398
+1185,2709152,Teotônio Vilela,2010,IDH,Educação,Total,0.466
+1186,2709152,Teotônio Vilela,2010,IDH,Longevidade,Total,0.7
+1187,2709152,Teotônio Vilela,2010,IDH,Renda,Total,0.549
+1188,2709152,Teotônio Vilela,2010,IDH,Total,Total,0.564
+1189,2709202,Traipu,1991,IDH,Educação,Total,0.095
+1190,2709202,Traipu,1991,IDH,Longevidade,Total,0.509
+1191,2709202,Traipu,1991,IDH,Renda,Total,0.315
+1192,2709202,Traipu,1991,IDH,Total,Total,0.248
+1193,2709202,Traipu,2000,IDH,Educação,Total,0.138
+1194,2709202,Traipu,2000,IDH,Longevidade,Total,0.634
+1195,2709202,Traipu,2000,IDH,Renda,Total,0.376
+1196,2709202,Traipu,2000,IDH,Total,Total,0.32
+1197,2709202,Traipu,2010,IDH,Educação,Total,0.395
+1198,2709202,Traipu,2010,IDH,Longevidade,Total,0.765
+1199,2709202,Traipu,2010,IDH,Renda,Total,0.499
+1200,2709202,Traipu,2010,IDH,Total,Total,0.532
+1201,2709301,União dos Palmares,1991,IDH,Educação,Total,0.118
+1202,2709301,União dos Palmares,1991,IDH,Longevidade,Total,0.558
+1203,2709301,União dos Palmares,1991,IDH,Renda,Total,0.463
+1204,2709301,União dos Palmares,1991,IDH,Total,Total,0.312
+1205,2709301,União dos Palmares,2000,IDH,Educação,Total,0.203
+1206,2709301,União dos Palmares,2000,IDH,Longevidade,Total,0.655
+1207,2709301,União dos Palmares,2000,IDH,Renda,Total,0.504
+1208,2709301,União dos Palmares,2000,IDH,Total,Total,0.406
+1209,2709301,União dos Palmares,2010,IDH,Educação,Total,0.462
+1210,2709301,União dos Palmares,2010,IDH,Longevidade,Total,0.764
+1211,2709301,União dos Palmares,2010,IDH,Renda,Total,0.59
+1212,2709301,União dos Palmares,2010,IDH,Total,Total,0.593
+1213,2709400,Viçosa,1991,IDH,Educação,Total,0.125
+1214,2709400,Viçosa,1991,IDH,Longevidade,Total,0.506
+1215,2709400,Viçosa,1991,IDH,Renda,Total,0.452
+1216,2709400,Viçosa,1991,IDH,Total,Total,0.306
+1217,2709400,Viçosa,2000,IDH,Educação,Total,0.221
+1218,2709400,Viçosa,2000,IDH,Longevidade,Total,0.641
+1219,2709400,Viçosa,2000,IDH,Renda,Total,0.505
+1220,2709400,Viçosa,2000,IDH,Total,Total,0.415
+1221,2709400,Viçosa,2010,IDH,Educação,Total,0.478
+1222,2709400,Viçosa,2010,IDH,Longevidade,Total,0.758
+1223,2709400,Viçosa,2010,IDH,Renda,Total,0.554
+1224,2709400,Viçosa,2010,IDH,Total,Total,0.586
