@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, request, session
+from flask import Flask, render_template
 from analises import municipios_alagoas
 
 def create_app():
