@@ -4,17 +4,12 @@
 </head>
 {% block title %}Análises{% endblock %}
 {% block content %}
-<div class="max-w-4xl mx-auto p-4">
-    <div data-aos="fade-up" data-aos-duration="900" data-aos-delay="300" class="mb-8 text-center">
-        <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-500 text-transparent bg-clip-text mb-4">
-            Pesquisa de análises municipais de Alagoas
-        </h1>
-    </div>
-</div>
 <div class="container mx-auto">
-    <div class="grid grid-cols-3 gap-4">
+    <!-- Lista de Municípios -->
+    <div class="grid grid-cols-2 gap-8" id="municipiosContainer">
         {% for municipio in municipios %}
-            <a href="{{ url_for('show_municipio', municipio=municipio) }}" class="block p-3 bg-blue-500 text-white rounded-lg text-center hover:bg-blue-700">
+            <a href="{{ url_for('show_municipio', municipio=municipio) }}" 
+                class="municipio-item flex items-center justify-center p-8 bg-gradient-to-r from-blue-600 to-purple-500 text-white rounded-lg text-center hover:scale-105 transition-all w-full h-40 text-2xl font-semibold">
                 {{ municipio }}
             </a>
         {% endfor %}

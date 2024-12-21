@@ -1,6 +1,8 @@
 import pandas as pd
 from io import StringIO
 import locale
+from flask import Response
+import matplotlib.pyplot as plt
 
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
@@ -286,3 +288,109 @@ def soma_meis_municipios(ano, dados, municipios=None, sum=False) -> str:
     resultado_str = "\n".join([f"Município: {row['Município']}, Soma de MEIs: {row['Soma_MEIs']}" for _, row in resultado.iterrows()])
 
     return resultado_str
+
+def gerar_barras(x, y, cor='skyblue', titulo='Gráfico de Barras', xlabel='Categorias', ylabel='Valores', rotacao=45):
+    """
+    Gera um gráfico de barras em memória e o retorna como uma resposta HTTP.
+    """
+    if len(x) != len(y):
+        print("Erro: O número de categorias e valores deve ser igual.")
+        return
+
+    # Gerar gráfico
+    plt.figure(figsize=(8, 5))  # Tamanho do gráfico
+    plt.bar(x, y, color=cor)  # Gráfico de barras com a cor fornecida
+
+    # Configurações do gráfico
+    plt.title(titulo)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.xticks(rotation=rotacao)  # Rotaciona os nomes das categorias
+    plt.tight_layout()  # Ajusta o layout para não cortar elementos
+
+    # Gerar gráfico em memória
+    img_io = io.BytesIO()
+    plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
+    img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
+
+    # Fechar o gráfico para liberar recursos
+    plt.close()
+
+    return Response(img_io, mimetype='image/png')
+
+
+def gerar_pizza(x, y, cores=None, titulo='Gráfico de Pizza', explode=None, rotacao=140, shadow=False):
+    """
+    Gera um gráfico de pizza em memória e o retorna como uma resposta HTTP.
+    """
+    if len(x) != len(y):
+        print("Erro: O número de categorias e valores deve ser igual.")
+        return
+
+    # Configuração do gráfico
+    plt.figure(figsize=(8, 8))  # Tamanho do gráfico
+    plt.pie(
+        y,
+        labels=x,
+        colors=cores,
+        explode=explode,
+        autopct='%1.1f%%',  # Mostra as porcentagens
+        startangle=rotacao,  # Ângulo inicial
+        shadow=shadow  # Adiciona sombra
+    )
+
+    # Adicionar título
+    plt.title(titulo)
+
+    # Gerar gráfico em memória
+    img_io = io.BytesIO()
+    plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
+    img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
+
+    # Fechar o gráfico para liberar recursos
+    plt.close()
+
+    return Response(img_io, mimetype='image/png')
+
+def gerar_linha(x, lins, cores=None, estilos=None, larguras=None, titulo='Gráfico de Linhas', xlabel='Eixo X', ylabel='Eixo Y', rotacao=0):
+    """
+    Gera um gráfico de linhas com múltiplas linhas em memória e o retorna como uma resposta HTTP.
+    """
+    if not all(len(x) == len(y) for y in lins):
+        print("Erro: Todos os conjuntos de valores em 'lins' devem ter o mesmo comprimento que 'x'.")
+        return
+
+    num_linhas = len(lins)
+
+    # Configuração padrão para cores, estilos e larguras
+    if cores is None:
+        cores = [None] * num_linhas  # Deixa matplotlib escolher cores automaticamente
+    if estilos is None:
+        estilos = ['-'] * num_linhas  # Todas as linhas sólidas por padrão
+    if larguras is None:
+        larguras = [2] * num_linhas  # Largura padrão de 2 para todas as linhas
+
+    # Configuração do gráfico
+    plt.figure(figsize=(8, 6))
+
+    # Plotar cada linha
+    for i in range(num_linhas):
+        plt.plot(x, lins[i], color=cores[i], linestyle=estilos[i], linewidth=larguras[i], marker='o', label=f'L{i+1}')
+
+    # Configurações adicionais
+    plt.title(titulo)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.xticks(rotation=rotacao)
+    plt.legend()  # Adiciona legenda
+    plt.grid(True)  # Adiciona grade ao gráfico
+
+    # Gerar gráfico em memória
+    img_io = io.BytesIO()
+    plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
+    img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
+
+    # Fechar o gráfico para liberar recursos
+    plt.close()
+
+    return Response(img_io, mimetype='image/png')

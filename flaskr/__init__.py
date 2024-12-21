@@ -1,5 +1,6 @@
 from flask import Flask, render_template
-from analises import municipios_alagoas
+from analises import municipios_alagoas, gerar_linha, gerar_pizza, meis_municipio, idh_municipio
+import pandas as pd
 
 def create_app():
     # Inicializa a aplicação Flask
@@ -20,6 +21,8 @@ def create_app():
 
     @app.route('/pesquisa_analises_municipios/<municipio>')
     def show_municipio(municipio):
+        meismunicipio = meis_municipio[meis_municipio['no_mun'] == municipio]['valor'].to_list()
+        idhsmunicipio = idh_municipio[idh_municipio['no_num'] == municipio & idh_municipio['idh_categoria'] == 'Total']['valor'].to_list()
         return render_template('municipio_analise_templete.html', municipio=municipio) 
     return app
 
