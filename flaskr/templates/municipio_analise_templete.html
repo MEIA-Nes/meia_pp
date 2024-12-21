@@ -1,9 +1,14 @@
 {% extends "base.html" %}
-{% block title %}Análises de {{municipio}}{% endblock %}
+
+{% block title %}Análises de {{ municipio }}{% endblock %}
+
 {% block content %}
 <div data-aos="fade-up" data-aos-duration="900" data-aos-delay="300" class="mb-8 text-center max-w-4xl mx-auto p-4">
-    <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-500 bg-clip-text text-transparent mb-4">
+    <h1 class="text-3xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-500 bg-clip-text text-transparent mb-4">
         Análises de {{ municipio }}
     </h1>
+    <!-- Exibindo os gráficos gerados -->
+    <img src="data:image/png;base64,{{ linha_meis }}" alt="Gráfico de Linhas MEIs">
+    <img src="data:image/png;base64,{{ linha_idhs }}" alt="Gráfico de Linhas IDH">
 </div>
 {% endblock %}

@@ -1,4 +1,6 @@
-from flask import Flask, render_template
+import io  # Certifique-se de importar o módulo 'io'
+import base64  # Importando base64 para codificar as imagens
+from flask import Flask, render_template, Response
 from analises import municipios_alagoas, gerar_linha, gerar_pizza, meis_municipio, idh_municipio
 import pandas as pd
 
@@ -8,7 +10,6 @@ def create_app():
 
     @app.route('/home')
     def home():
-        # Carregar e manipular os dados diretamente
         return render_template('introduction.html')
 
     @app.route('/pesquisa_analises_municipios')
@@ -22,8 +23,17 @@ def create_app():
     @app.route('/pesquisa_analises_municipios/<municipio>')
     def show_municipio(municipio):
         meismunicipio = meis_municipio[meis_municipio['no_mun'] == municipio]['valor'].to_list()
-        idhsmunicipio = idh_municipio[idh_municipio['no_num'] == municipio & idh_municipio['idh_categoria'] == 'Total']['valor'].to_list()
-        return render_template('municipio_analise_templete.html', municipio=municipio) 
+        anosmei = meis_municipio[meis_municipio['no_mun'] == municipio]['ano'].tolist()
+        idhsmunicipio = idh_municipio[(idh_municipio['no_mun'] == municipio) & (idh_municipio['idh_categoria'] == 'Total')]['valor'].to_list()
+        anosidh = idh_municipio[(idh_municipio['no_mun'] == municipio) & (idh_municipio['idh_categoria'] == 'Total')]['ano'].tolist()
+
+        # Gerando os gráficos como imagens em base64
+        grafico_linha_meis = gerar_linha(anosmei, [meismunicipio], titulo=f"MEIs por ano em {municipio}", cores=['darkred', '#9467bd'], xlabel='Ano', ylabel='MEIs')
+        grafico_linha_idhs = gerar_linha(anosidh, [idhsmunicipio], titulo=f"IDHs por década em {municipio}", cores=['lightgreen', '#9467bd'], xlabel='Ano', ylabel='IDH')
+        
+        # Retorna o template com os gráficos codificados em base64
+        return render_template('municipio_analise_templete.html', municipio=municipio, linha_meis=grafico_linha_meis, linha_idhs=grafico_linha_idhs)
+
     return app
 
 

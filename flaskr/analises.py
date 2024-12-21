@@ -1,5 +1,6 @@
 import pandas as pd
-from io import StringIO
+import io
+import base64
 import locale
 from flask import Response
 import matplotlib.pyplot as plt
@@ -291,7 +292,7 @@ def soma_meis_municipios(ano, dados, municipios=None, sum=False) -> str:
 
 def gerar_barras(x, y, cor='skyblue', titulo='Gráfico de Barras', xlabel='Categorias', ylabel='Valores', rotacao=45):
     """
-    Gera um gráfico de barras em memória e o retorna como uma resposta HTTP.
+    Gera um gráfico de barras em memória e o retorna como uma resposta HTTP codificada em base64.
     """
     if len(x) != len(y):
         print("Erro: O número de categorias e valores deve ser igual.")
@@ -313,15 +314,18 @@ def gerar_barras(x, y, cor='skyblue', titulo='Gráfico de Barras', xlabel='Categ
     plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
     img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
 
+    # Codificar a imagem em base64
+    img_base64 = base64.b64encode(img_io.getvalue()).decode('utf-8')
+
     # Fechar o gráfico para liberar recursos
     plt.close()
 
-    return Response(img_io, mimetype='image/png')
+    return img_base64
 
 
 def gerar_pizza(x, y, cores=None, titulo='Gráfico de Pizza', explode=None, rotacao=140, shadow=False):
     """
-    Gera um gráfico de pizza em memória e o retorna como uma resposta HTTP.
+    Gera um gráfico de pizza em memória e o retorna como uma resposta HTTP codificada em base64.
     """
     if len(x) != len(y):
         print("Erro: O número de categorias e valores deve ser igual.")
@@ -347,14 +351,18 @@ def gerar_pizza(x, y, cores=None, titulo='Gráfico de Pizza', explode=None, rota
     plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
     img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
 
+    # Codificar a imagem em base64
+    img_base64 = base64.b64encode(img_io.getvalue()).decode('utf-8')
+
     # Fechar o gráfico para liberar recursos
     plt.close()
 
-    return Response(img_io, mimetype='image/png')
+    return img_base64
+
 
 def gerar_linha(x, lins, cores=None, estilos=None, larguras=None, titulo='Gráfico de Linhas', xlabel='Eixo X', ylabel='Eixo Y', rotacao=0):
     """
-    Gera um gráfico de linhas com múltiplas linhas em memória e o retorna como uma resposta HTTP.
+    Gera um gráfico de linhas com múltiplas linhas em memória e o retorna como uma resposta HTTP codificada em base64.
     """
     if not all(len(x) == len(y) for y in lins):
         print("Erro: Todos os conjuntos de valores em 'lins' devem ter o mesmo comprimento que 'x'.")
@@ -390,7 +398,10 @@ def gerar_linha(x, lins, cores=None, estilos=None, larguras=None, titulo='Gráfi
     plt.savefig(img_io, format='png')  # Salva em formato PNG na memória
     img_io.seek(0)  # Volta o ponteiro para o início do objeto BytesIO
 
+    # Codificar a imagem em base64
+    img_base64 = base64.b64encode(img_io.getvalue()).decode('utf-8')
+
     # Fechar o gráfico para liberar recursos
     plt.close()
 
-    return Response(img_io, mimetype='image/png')
+    return img_base64
