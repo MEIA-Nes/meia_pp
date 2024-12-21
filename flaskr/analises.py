@@ -4,11 +4,11 @@ import locale
 
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
-meis_municipio = pd.read_csv(r'C:\Users\reis_\Desktop\Codes\.vscode\Html\P_P_treino\meia_pp\flaskr\data\meis_municipios.csv')
-meis_estado = pd.read_csv(r'C:\Users\reis_\Desktop\Codes\.vscode\Html\P_P_treino\meia_pp\flaskr\data\meis_estados.csv')
-meis_regiao = pd.read_csv(r'C:\Users\reis_\Desktop\Codes\.vscode\Html\P_P_treino\meia_pp\flaskr\data\meis_regiao.csv')
-idh_municipio = pd.read_csv(r'C:\Users\reis_\Desktop\Codes\.vscode\Html\P_P_treino\meia_pp\flaskr\data\idh_municipio.csv')
-idh_estado = pd.read_csv(r'C:\Users\reis_\Desktop\Codes\.vscode\Html\P_P_treino\meia_pp\flaskr\data\idh_estado.csv')
+meis_municipio = pd.read_csv(r'data\meis_municipios.csv')
+meis_estado = pd.read_csv(r'data\meis_estados.csv')
+meis_regiao = pd.read_csv(r'data\meis_regiao.csv')
+idh_municipio = pd.read_csv(r'data\idh_municipio.csv')
+idh_estado = pd.read_csv(r'data\idh_estado.csv')
 
 # UTILIZE ESSAS VARIÁVEIS SOMENTE NA FUNÇÃO calc_media_idh_estado, POIS NÃO IRÃO FUNCIONAR NAS DEMAIS FUNÇÕES.
 # para calcular do brasil todo:
